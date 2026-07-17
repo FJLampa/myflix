@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="CANAL.NOVO.123" tvg-name="CANAL VERMELHO NOVO" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/axn_teste.png",CANAL VERMELHO NOVO
-http://45.162.64.114/AGROMAIS/index.m3u8
-
 #EXTINF:-1 tvg-id="FLAMPA.AXN" group-title="FILMES",AXN HD
 http://45.162.64.114/AGROMAIS/index.m3u8
 
