@@ -33,6 +33,9 @@ http://177.52.24.163/GLOBO-NEWS-HD/index.m3u8
 #EXTINF:-1 tvg-id="FLAMPA.GLOOBINHO" tvg-name="GLOOBINHO" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/globinho.png",GLOOBINHO
 http://177.52.24.163/GLOOBINHO-HD/index.m3u8
 
+#EXTINF:-1 tvg-id="FLAMPA.HISTORY" tvg-name="HISTORY" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/history.png",HISTORY
+http://45.190.28.50/HISTORY_HD/index.m3u8
+
 
 
 
