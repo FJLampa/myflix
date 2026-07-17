@@ -2,10 +2,11 @@
 
 <channels>
     <channel id="FLAMPA.AXN">
-        <name>AXN HD</name>
+        <display-name>AXN HD</name>
     </channel>
 
     <channel id="FLAMPA.GLOBO">
-        <name>Globo HD</name>
+        <display-name>Globo HD</name>
     </channel>
+  
 </channels>
