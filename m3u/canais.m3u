@@ -45,6 +45,9 @@ http://45.190.28.50/SONY_MOVIES/index.m3u8
 #EXTINF:-1 tvg-id="FLAMPA.TRACEBRASIL" tvg-name="TRACEBRASIL" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/tracebrasil.png",TRACE BRASIL
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8
 
+#EXTINF:-1 tvg-id="FLAMPA.MYTIME" tvg-name="MYTIME" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/mytime.png",MY TIME
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+
 
 
 
