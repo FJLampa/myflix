@@ -18,6 +18,9 @@ http://45.190.28.50/BOX_KIDS_HD/index.m3u8
 #EXTINF:-1 tvg-id="FLAMPA.CANALBRASIL" tvg-name="CANALBRASIL" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/canalbrasil.png",CANAL BRASIL
 http://45.190.156.152/CANAL_BRASIL/index.m3u8
 
+#EXTINF:-1 tvg-id="FLAMPA.CANALEDUCACAO" tvg-name="CANALEDUCACAO" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/canaleducacao.png",CANAL EDUCAÇÃO
+https://canaleducacao-stream.ebc.com.br/index.m3u8
+
 
 
 
