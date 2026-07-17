@@ -1,10 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="FLAMPA.AXN" group-title="FILMES",AXN HD
-http://45.162.64.114/AGROMAIS/index.m3u8
+http://45.190.28.50/AXN_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="FLAMPA.ESPN" group-title="ESPORTES",ESPN HD
 http://45.162.64.114/AGROMAIS/index.m3u8
 
 #EXTINF:-1 tvg-id="FLAMPA.GLOBO" group-title="ABERTOS",Globo HD
-http://45.162.64.114/AGROMAIS/index.m3u8
+http://143.14.134.107/167/index.m3u8
