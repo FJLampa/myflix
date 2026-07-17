@@ -4,7 +4,7 @@
 http://45.162.64.114/AGROMAIS/index.m3u8
 
 
-#EXTINF:-1 tvg-id="FLAMPA.AXN" tvg-name="AXN HD" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/axn.png" group-title="Filmes",AXN HD
+#EXTINF:-1 tvg-id="FLAMPA.AXN" tvg-name="AXN HD" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/redeglobo.png" group-title="Filmes",AXN HD
 http://45.190.28.50/AXN_HD/index.m3u8
 
 ###################################### XXX SÉRIE XXX logo 500x500 ######################################
