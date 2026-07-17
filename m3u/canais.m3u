@@ -39,6 +39,9 @@ http://177.52.24.163/GLOOBINHO-HD/index.m3u8
 #EXTINF:-1 tvg-id="FLAMPA.HISTORY" tvg-name="HISTORY" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/history.png",HISTORY
 http://45.190.28.50/HISTORY_HD/index.m3u8
 
+#EXTINF:-1 tvg-id="FLAMPA.MYTIME" tvg-name="MYTIME" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/mytime.png",MY TIME
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="FLAMPA.NICKTOONS tvg-name="NICKTOONS" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/nicktoons.png",NICKTOONS
 https://jmp2.uk/plu-645951c0e94c38000802d2cb.m3u8
 
@@ -51,8 +54,10 @@ http://45.190.28.50/SONY_MOVIES/index.m3u8
 #EXTINF:-1 tvg-id="FLAMPA.TRACEBRASIL" tvg-name="TRACEBRASIL" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/tracebrasil.png",TRACE BRASIL
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8
 
-#EXTINF:-1 tvg-id="FLAMPA.MYTIME" tvg-name="MYTIME" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/mytime.png",MY TIME
-https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FLAMPA.ZNATION" tvg-name="ZNATION" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/znation.png",Z NATION
+https://jmp2.uk/plu-66b3af48d2d50d00083d6936.m3u8
+
+
 
 
 
