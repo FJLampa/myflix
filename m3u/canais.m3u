@@ -36,6 +36,9 @@ http://177.52.24.163/GLOOBINHO-HD/index.m3u8
 #EXTINF:-1 tvg-id="FLAMPA.HISTORY" tvg-name="HISTORY" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/history.png",HISTORY
 http://45.190.28.50/HISTORY_HD/index.m3u8
 
+#EXTINF:-1 tvg-id="FLAMPA.SONYCHANNEL" tvg-name="SONYCHANNEL" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/sonychannel.png",SONY CHANNEL
+http://45.190.28.50/SONY_HD/index.m3u8
+
 
 
 
