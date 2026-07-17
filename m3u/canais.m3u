@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="FLAMPA.AXN" tvg-name="AXN" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/axn_teste.png",AXN HD
+#EXTINF:-1 tvg-id="FLAMPA.AXN.TESTE" tvg-name="AXN TESTE" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/axn_teste.png",AXN TESTE
 http://45.190.28.50/AXN_HD/index.m3u8
 
 ###################################### XXX SÉRIE XXX logo 500x500 ######################################
