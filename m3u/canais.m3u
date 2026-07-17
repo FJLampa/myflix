@@ -15,6 +15,9 @@ http://45.190.28.50/BAND_NEWS_HD/index.m3u8
 #EXTINF:-1 tvg-id="FLAMPA.BOXKIDS" tvg-name="BOXKIDS" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/boxkids.png",BOX KIDS
 http://45.190.28.50/BOX_KIDS_HD/index.m3u8
 
+#EXTINF:-1 tvg-id="FLAMPA.CANALBRASIL" tvg-name="CANALBRASIL" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/canalbrasil.png",CANAL BRASIL
+http://45.190.156.152/CANAL_BRASIL/index.m3u8
+
 
 
 
