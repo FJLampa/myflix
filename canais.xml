@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<channels>
+    <channel id="FLAMPA.AXN">
+        <name>AXN HD</name>
+    </channel>
+
+    <channel id="FLAMPA.GLOBO">
+        <name>Globo HD</name>
+    </channel>
+</channels>
