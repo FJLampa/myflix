@@ -21,6 +21,9 @@ http://45.190.156.152/CANAL_BRASIL/index.m3u8
 #EXTINF:-1 tvg-id="FLAMPA.CANALEDUCACAO" tvg-name="CANALEDUCACAO" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/canaleducacao.png",CANAL EDUCAÇÃO
 https://canaleducacao-stream.ebc.com.br/index.m3u8
 
+#EXTINF:-1 tvg-id="FLAMPA.COMEDYCENTRAL" tvg-name="COMEDYCENTRAL" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/comedycentral.png",COMEDY CENTRAL
+https://jmp2.uk/plu-5f357e91b18f0b00073583d2.m3u8
+
 #EXTINF:-1 tvg-id="FLAMPA.FUTURA" tvg-name="FUTURA" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/futura.png",CANAL FUTURA
 http://45.162.64.114/FUTURA/index.m3u8
 
