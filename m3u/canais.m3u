@@ -30,6 +30,9 @@ http://143.14.134.107/167/index.m3u8
 #EXTINF:-1 tvg-id="FLAMPA.GLOBONEWS" tvg-name="GLOBONEWS" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/globonews.png",GLOBO NEWS
 http://177.52.24.163/GLOBO-NEWS-HD/index.m3u8
 
+#EXTINF:-1 tvg-id="FLAMPA.GLOOBINHO" tvg-name="GLOOBINHO" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/globinho.png",GLOOBINHO
+http://177.52.24.163/GLOOBINHO-HD/index.m3u8
+
 
 
 
