@@ -12,6 +12,9 @@ http://45.190.28.50/BAND_SPORTS_HD/index.m3u8
 #EXTINF:-1 tvg-id="FLAMPA.BANDNEWS" tvg-name="BANDNEWS" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/bandnews.png",BAND NEWS
 http://45.190.28.50/BAND_NEWS_HD/index.m3u8
 
+#EXTINF:-1 tvg-id="FLAMPA.BOXKIDS" tvg-name="BOXKIDS" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/boxkids.png",BOX KIDS
+http://45.190.28.50/BOX_KIDS_HD/index.m3u8
+
 
 
 
