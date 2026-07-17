@@ -3,10 +3,11 @@
 #EXTINF:-1 tvg-id="FLAMPA.AXN" tvg-name="AXN" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/axn.png",AXN HD
 http://45.190.28.50/AXN_HD/index.m3u8
 
-#EXTINF:-1 tvg-id="FLAMPA.ARTE1" tvg-name="ARTE1" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/arte1.png",Arte 1
+#EXTINF:-1 tvg-id="FLAMPA.ARTE1" tvg-name="ARTE1" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/arte1.png",ARTE1
 http://45.162.64.114/ARTE1/index.m3u8
 
-
+#EXTINF:-1 tvg-id="FLAMPA.BANDSPORT" tvg-name="BANDSPORT" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/bandsport.png",BAND SPORT
+http://45.162.64.114/BAND_SPORTS/index.m3u8
 
 ###################################### XXX SÉRIE XXX logo 500x500 ######################################
 
