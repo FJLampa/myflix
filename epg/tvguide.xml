@@ -2,14 +2,14 @@
 
 <tv generator-info-name="EPG Fabrício">
 
-    <channel id="FLAMPA.AXN">
+    <channel id="1000">
         <display-name lang="pt">AXN HD</display-name>
     </channel>
 
     <programme
         start="20260720100000 -0300"
         stop="20260720230000 -0300"
-        channel="FLAMPA.AXN">
+        channel id="1000">
 
         <title lang="pt">Programa de teste MYFLIX</title>
         <desc lang="pt">
