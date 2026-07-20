@@ -9,7 +9,7 @@
     <programme
         start="20260720100000 -0300"
         stop="20260720230000 -0300"
-        <channel id="1000">
+        channel="1000">
 
         <title lang="pt">Programa de teste MYFLIX</title>
         <desc lang="pt">
