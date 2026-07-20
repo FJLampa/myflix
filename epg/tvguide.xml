@@ -7,8 +7,8 @@
     </channel>
 
     <programme
-        start="20260720000000 -0300"
-        stop="20260720010000 -0300"
+        start="20260720100000 -0300"
+        stop="20260720230000 -0300"
         channel="FLAMPA.AXN">
 
         <title lang="pt">Programa de teste MYFLIX</title>
