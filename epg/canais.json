@@ -1,0 +1,80 @@
+{
+  "FLAMPA.AXN": {
+    "epg_id": "AXN HD.br",
+    "nome": "AXN HD",
+    "url_geral": "https://www.free-epg.de/",
+    "url_brasil": "https://www.free-epg.de/api/epg/br.xml.gz"
+  },
+  "FLAMPA.ARTE1": {
+    "epg_id": "ARTE 1 HD.br",
+    "nome": "ARTE1"
+  },
+  "FLAMPA.BANDSPORT": {
+    "epg_id": "Bandsports HD.br",
+    "nome": "BAND SPORT"
+  },
+  "FLAMPA.BANDNEWS": {
+    "epg_id": "Bandnews HD.br",
+    "nome": "BAND NEWS"
+  },
+  "FLAMPA.BOXKIDS":{
+    "epg_id": "Box Kids.br",
+    "nome": "BOX KIDS"
+  },
+  "FLAMPA.CANALBRASIL":{
+    "epg_id": "Canal Brasil HD.br",
+    "nome": "CANAL BRASIL"
+  },
+  "FLAMPA.CANALEDUCACAO":{
+    "epg_id": "Canal Educaçao.br",
+    "nome": "CANAL EDUCAÇÃO"
+  }, 
+  "FLAMPA.COMEDYCENTRAL":{
+    "epg_id": "Comedy Central HD.br",
+    "nome": "COMEDY CENTRAL"
+  },
+  "FLAMPA.FUTURA":{
+    "epg_id": "Futura HD.br",
+    "nome": "CANAL FUTURA"
+  },    
+  "FLAMPA.COMBATE":{
+    "epg_id": "COMBATE HD.br",
+    "nome": "COMBATE"
+  },  
+  "FLAMPA.GLOBONEWS": {
+    "epg_id": "GloboNews.br",
+    "nome" : "GLOBO NEWS"
+  },
+  "FLAMPA.GLOOBINHO":{
+    "epg_id": "Gloobinho HD.br",
+    "nome": "GLOOBINHO"
+  },    
+  "FLAMPA.HISTORY":{
+    "epg_id": "HISTORY CHANNEL HD.br",
+    "nome": "HISTORY"
+  },    
+  "FLAMPA.MYTIME":{
+    "epg_id": "",
+    "nome": "MY TIME"
+  },    
+  "FLAMPA.NICKTOONS":{
+    "epg_id": "Nick.br",
+    "nome": "NICKTOONS"
+  },    
+  "FLAMPA.SONYCHANNEL":{
+    "epg_id": "SonyChannel.br",
+    "nome": "SONY CHANNEL"
+  },   
+  "FLAMPA.SONYMOVIES":{
+    "epg_id": "SONY Movies.br",
+    "nome": "SONY MOVIES"
+  },   
+  "FLAMPA.TRACEBRASIL":{
+    "epg_id": "TRACE BRASIL HD.br",
+    "nome": "TRACE BRASIL"
+  },
+  "FLAMPA.ZNATION":{
+    "epg_id": "",
+    "nome": "Z NATION"
+  }     
+}
