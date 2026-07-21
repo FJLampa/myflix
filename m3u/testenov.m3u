@@ -1,10 +1,64 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="FLAMPA.AXN" tvg-name="AXN" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/axn.png?v=2",AXN HD
+#EXTINF:-1 tvg-id="FLAMPA.AXN" tvg-name="AXN" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/axn.png",AXN HD
 http://45.190.28.50/AXN_HD/index.m3u8
 
-#EXTINF:-1 tvg-id="FLAMPA.ESPN" group-title="ESPORTES",ESPN HD
-http://45.162.64.114/AGROMAIS/index.m3u8
+#EXTINF:-1 tvg-id="FLAMPA.ARTE1" tvg-name="ARTE1" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/arte1.png",ARTE1
+http://45.162.64.114/ARTE1/index.m3u8
 
-#EXTINF:-1 tvg-id="FLAMPA.GLOBO" group-title="ABERTOS",Globo HD
+#EXTINF:-1 tvg-id="FLAMPA.BANDSPORT" tvg-name="BANDSPORT" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/bandsport.png",BAND SPORT
+http://45.190.28.50/BAND_SPORTS_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="FLAMPA.BANDNEWS" tvg-name="BANDNEWS" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/bandnews.png",BAND NEWS
+http://45.190.28.50/BAND_NEWS_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="FLAMPA.BOXKIDS" tvg-name="BOXKIDS" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/boxkids.png",BOX KIDS
+http://45.190.28.50/BOX_KIDS_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="FLAMPA.CANALBRASIL" tvg-name="CANALBRASIL" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/canalbrasil.png",CANAL BRASIL
+http://45.190.156.152/CANAL_BRASIL/index.m3u8
+
+#EXTINF:-1 tvg-id="FLAMPA.CANALEDUCACAO" tvg-name="CANALEDUCACAO" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/canaleducacao.png",CANAL EDUCAÇÃO
+https://canaleducacao-stream.ebc.com.br/index.m3u8
+
+#EXTINF:-1 tvg-id="FLAMPA.COMEDYCENTRAL" tvg-name="COMEDYCENTRAL" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/comedycentral.png",COMEDY CENTRAL
+https://jmp2.uk/plu-5f357e91b18f0b00073583d2.m3u8
+
+#EXTINF:-1 tvg-id="FLAMPA.FUTURA" tvg-name="FUTURA" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/futura.png",CANAL FUTURA
+http://45.162.64.114/FUTURA/index.m3u8
+
+#EXTINF:-1 tvg-id="FLAMPA.COMBATE" tvg-name="COMBATE" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/combate.png",COMBATE
 http://143.14.134.107/167/index.m3u8
+
+#EXTINF:-1 tvg-id="FLAMPA.GLOBONEWS" tvg-name="GLOBONEWS" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/globonews.png",GLOBO NEWS
+http://177.52.24.163/GLOBO-NEWS-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="FLAMPA.GLOOBINHO" tvg-name="GLOOBINHO" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/globinho.png",GLOOBINHO
+http://177.52.24.163/GLOOBINHO-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="FLAMPA.HISTORY" tvg-name="HISTORY" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/history.png",HISTORY
+http://45.190.28.50/HISTORY_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="FLAMPA.MYTIME" tvg-name="MYTIME" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/mytime.png",MY TIME
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FLAMPA.NICKTOONS" tvg-name="NICKTOONS" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/nicktoons.png",NICKTOONS
+https://jmp2.uk/plu-645951c0e94c38000802d2cb.m3u8
+
+#EXTINF:-1 tvg-id="FLAMPA.SONYCHANNEL" tvg-name="SONYCHANNEL" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/sonychannel.png",SONY CHANNEL
+http://45.190.28.50/SONY_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="FLAMPA.SONYMOVIES" tvg-name="SONYMOVIES" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/sonymovies.png",SONY MOVIES
+http://45.190.28.50/SONY_MOVIES/index.m3u8
+
+#EXTINF:-1 tvg-id="FLAMPA.TRACEBRASIL" tvg-name="TRACEBRASIL" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/tracebrasil.png",TRACE BRASIL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FLAMPA.ZNATION" tvg-name="ZNATION" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/znation.png",Z NATION
+https://jmp2.uk/plu-66b3af48d2d50d00083d6936.m3u8
+
+
+
+
+
+
