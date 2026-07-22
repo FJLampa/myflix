@@ -7,8 +7,8 @@
     </channel>
 
     <programme
-        start="20260722090000 -0300"
-        stop="20260722120000 -0300"
+        start="20260722120000 -0300"
+        stop="20260722150000 -0300"
         channel="FLAMPA.MYTIME">
 
         <title lang="pt">Estamos em teste | MYFLIX</title>
