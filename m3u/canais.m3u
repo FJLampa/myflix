@@ -6,10 +6,10 @@ http://45.190.28.50/AXN_HD/index.m3u8
 #EXTINF:-1 tvg-id="Arte 1 HD.br" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/arte1.png" group-title="Todos",ARTE1
 http://45.162.64.114/ARTE1/index.m3u8
 
-#EXTINF:-1 tvg-id="BAND NEWS.br" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/bandsport.png" group-title="Esportes",BAND SPORT
+#EXTINF:-1 tvg-id="BAND SPORTS HD.br" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/bandsport.png" group-title="Esportes",BAND SPORT
 http://45.190.28.50/BAND_SPORTS_HD/index.m3u8
 
-#EXTINF:-1 tvg-id="Bandnews HD.br" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/bandnews.png" group-title="Notícias",BAND NEWS
+#EXTINF:-1 tvg-id="BAND NEWS.br" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/bandnews.png" group-title="Notícias",BAND NEWS
 http://45.190.28.50/BAND_NEWS_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="Box Kids.br" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/boxkids.png" group-title="Crianças",BOX KIDS
