@@ -2,18 +2,18 @@
 
 <tv generator-info-name="EPG Fabrício">
 
-    <channel id="1000">
+    <channel id="AXN HD.br">
         <display-name lang="pt">AXN HD</display-name>
     </channel>
 
     <programme
         start="20260720120000 -0300"
-        stop="20260721235900 -0300"
+        stop="20270721235900 -0300"
         channel="1000">
 
-        <title lang="pt">Programa de teste MYFLIX</title>
+        <title lang="pt">Estamos em teste | MYFLIX</title>
         <desc lang="pt">
-            Primeiro EPG criado para Jellyfin
+            MYFLIX
         </desc>
 
     </programme>
