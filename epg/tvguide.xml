@@ -4,11 +4,23 @@
     <channel id="FLAMPA.MYTIME">
         <display-name lang="pt">MY TIME</display-name>
     </channel>
+    <channel id="AXN HD.br">
+        <display-name lang="pt">AXN HD</display-name>
+    </channel>
 
-    <programme start="20260722120000 -0300" stop="20260722150000 -0300" channel="FLAMPA.MYTIME">
+     
+
+    <programme start="20260722140000 -0300" stop="20260722170000 -0300" channel="FLAMPA.MYTIME">
         <title lang="pt">Estamos em teste | MYFLIX</title>
         <desc lang="pt">MYFLIX</desc>
         <category lang="pt">Kids</category>
     </programme>
+    <programme start="20260722140000 -0300" stop="20260722170000 -0300" channel="AXN HD.br">
+        <title lang="pt">TESTE | MYFLIX</title>
+        <desc lang="pt">MYFLIX</desc>
+        <category lang="pt">Série</category>
+    </programme>
+
+    
 
 </tv>
