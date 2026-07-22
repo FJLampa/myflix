@@ -18,7 +18,10 @@
     <programme start="20260722140000 -0300" stop="20260722170000 -0300" channel="AXN HD.br">
         <title lang="pt">TESTE | MYFLIX</title>
         <desc lang="pt">MYFLIX</desc>
-        <category lang="pt">Serie</category>
+        <category>Series</category>
+        <category>Série</category>
+        <category>Séries</category>
+        <keyword lang="pt">Série</keyword>
     </programme>
 
     
