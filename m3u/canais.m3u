@@ -1,18 +1,18 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="AXN HD.br" tvg-name="AXN HD" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/axn.png",AXN HD
+#EXTINF:-1 tvg-id="AXN HD.br" tvg-name="AXN HD" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/axn.png" group-title="Séries",AXN HD
 http://45.190.28.50/AXN_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="Arte 1 HD.br" tvg-name="ARTE1" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/arte1.png",ARTE1
 http://45.162.64.114/ARTE1/index.m3u8
 
-#EXTINF:-1 tvg-id="Bandsports HD.br" tvg-name="BANDSPORT" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/bandsport.png",BAND SPORT
+#EXTINF:-1 tvg-id="Bandsports HD.br" tvg-name="BANDSPORT" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/bandsport.png" group-title="Esportes",BAND SPORT
 http://45.190.28.50/BAND_SPORTS_HD/index.m3u8
 
-#EXTINF:-1 tvg-id="Bandnews HD.br" tvg-name="BANDNEWS" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/bandnews.png",BAND NEWS
+#EXTINF:-1 tvg-id="Bandnews HD.br" tvg-name="BANDNEWS" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/bandnews.png" group-title="Notícias",BAND NEWS
 http://45.190.28.50/BAND_NEWS_HD/index.m3u8
 
-#EXTINF:-1 tvg-id="Box Kids.br" tvg-name="BOXKIDS" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/boxkids.png",BOX KIDS
+#EXTINF:-1 tvg-id="Box Kids.br" tvg-name="BOXKIDS" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/boxkids.png" group-title="Crianças",BOX KIDS
 http://45.190.28.50/BOX_KIDS_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal Brasil HD.br" tvg-name="CANALBRASIL" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/canalbrasil.png",CANAL BRASIL
@@ -45,10 +45,10 @@ https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Nick.br" tvg-name="NICKTOONS" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/nicktoons.png",NICKTOONS
 https://jmp2.uk/plu-645951c0e94c38000802d2cb.m3u8
 
-#EXTINF:-1 tvg-id="SonyChannel.br" tvg-name="SONYCHANNEL" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/sonychannel.png?v=2",SONY CHANNEL
+#EXTINF:-1 tvg-id="SonyChannel.br" tvg-name="SONYCHANNEL" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/sonychannel.png?v=2" group-title="Filmes",SONY CHANNEL
 http://45.190.28.50/SONY_HD/index.m3u8
 
-#EXTINF:-1 tvg-id="SONY Movies.br" tvg-name="SONYMOVIES" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/sonymovies.png?v=2",SONY MOVIES
+#EXTINF:-1 tvg-id="SONY Movies.br" tvg-name="SONYMOVIES" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/sonymovies.png?v=2" group-title="Filmes",SONY MOVIES
 http://45.190.28.50/SONY_MOVIES/index.m3u8
 
 #EXTINF:-1 tvg-id="TRACE BRASIL HD.br" tvg-name="TRACEBRASIL" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/tracebrasil.png",TRACE BRASIL
