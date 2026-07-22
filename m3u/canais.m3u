@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="AXN HD.br" tvg-name="AXN HD" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/axn.png",AXN HD
 http://45.190.28.50/AXN_HD/index.m3u8
 
-#EXTINF:-1 tvg-id="ARTE 1 HD.br" tvg-name="ARTE1" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/arte1.png",ARTE1
+#EXTINF:-1 tvg-id="Arte 1 HD.br" tvg-name="ARTE1" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/arte1.png",ARTE1
 http://45.162.64.114/ARTE1/index.m3u8
 
 #EXTINF:-1 tvg-id="Bandsports HD.br" tvg-name="BANDSPORT" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/bandsport.png",BAND SPORT
@@ -21,10 +21,10 @@ http://45.190.156.152/CANAL_BRASIL/index.m3u8
 #EXTINF:-1 tvg-id="Canal Educaçao.br" tvg-name="CANALEDUCACAO" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/canaleducacao.png",CANAL EDUCAÇÃO
 https://canaleducacao-stream.ebc.com.br/index.m3u8
 
-#EXTINF:-1 tvg-id="Comedy Central HD.br" tvg-name="COMEDYCENTRAL" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/comedycentral.png",COMEDY CENTRAL
+#EXTINF:-1 tvg-id="Comedy Central HD.br" tvg-name="COMEDYCENTRAL" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/comedycentral.png?v=2",COMEDY CENTRAL
 https://jmp2.uk/plu-5f357e91b18f0b00073583d2.m3u8
 
-#EXTINF:-1 tvg-id="Futura HD.br" tvg-name="FUTURA" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/futura.png",CANAL FUTURA
+#EXTINF:-1 tvg-id="Futura HD.br" tvg-name="FUTURA" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/futura.png?v=2",CANAL FUTURA
 http://45.162.64.114/FUTURA/index.m3u8
 
 #EXTINF:-1 tvg-id="COMBATE HD.br" tvg-name="COMBATE" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/combate.png",COMBATE
@@ -45,10 +45,10 @@ https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Nick.br" tvg-name="NICKTOONS" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/nicktoons.png",NICKTOONS
 https://jmp2.uk/plu-645951c0e94c38000802d2cb.m3u8
 
-#EXTINF:-1 tvg-id="SonyChannel.br" tvg-name="SONYCHANNEL" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/sonychannel.png",SONY CHANNEL
+#EXTINF:-1 tvg-id="SonyChannel.br" tvg-name="SONYCHANNEL" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/sonychannel.png?v=2",SONY CHANNEL
 http://45.190.28.50/SONY_HD/index.m3u8
 
-#EXTINF:-1 tvg-id="SONY Movies.br" tvg-name="SONYMOVIES" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/sonymovies.png",SONY MOVIES
+#EXTINF:-1 tvg-id="SONY Movies.br" tvg-name="SONYMOVIES" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/sonymovies.png?v=2",SONY MOVIES
 http://45.190.28.50/SONY_MOVIES/index.m3u8
 
 #EXTINF:-1 tvg-id="TRACE BRASIL HD.br" tvg-name="TRACEBRASIL" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/tracebrasil.png",TRACE BRASIL
