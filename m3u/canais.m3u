@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="AXN HD.br" tvg-name="AXN" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/axn.png",AXN HD
+#EXTINF:-1 tvg-id="1000" tvg-name="AXN" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/axn.png",AXN HD
 http://45.190.28.50/AXN_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="ARTE 1 HD.br" tvg-name="ARTE1" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/arte1.png",ARTE1
