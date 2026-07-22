@@ -1,22 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <tv generator-info-name="EPG Fabrício">
 
     <channel id="FLAMPA.MYTIME">
         <display-name lang="pt">MY TIME</display-name>
     </channel>
 
-    <programme
-        start="20260722120000 -0300"
-        stop="20260722150000 -0300"
-        channel="FLAMPA.MYTIME">
-
+    <programme start="20260722120000 -0300" stop="20260722150000 -0300" channel="FLAMPA.MYTIME">
         <title lang="pt">Estamos em teste | MYFLIX</title>
-        <desc lang="pt">
-            MYFLIX
-        </desc>
-        <category>Kids</category>
-
+        <desc lang="pt">MYFLIX</desc>
+        <category lang="pt">Kids</category>
     </programme>
 
 </tv>
