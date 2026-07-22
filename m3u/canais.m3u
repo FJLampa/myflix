@@ -42,7 +42,7 @@ http://45.190.28.50/HISTORY_HD/index.m3u8
 #EXTINF:-1 tvg-id="FLAMPA.MYTIME" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/mytime.png" group-title="Filmes",MY TIME
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Nick.br" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/nicktoons.png" group-title="Crianças",NICKTOONS
+#EXTINF:-1 tvg-id="Nick HD.br" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/nicktoons.png" group-title="Crianças",NICKTOONS
 https://jmp2.uk/plu-645951c0e94c38000802d2cb.m3u8
 
 #EXTINF:-1 tvg-id="SonyChannel.br" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/sonychannel.png?v=2" group-title="Filmes",SONY CHANNEL
