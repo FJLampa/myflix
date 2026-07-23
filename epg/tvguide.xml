@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv
+<tv>
     <channel id="Arte1.br">
         <display-name lang="pt">ARTE1</display-name>
     </channel>
     <channel id="AXN.br">
         <display-name lang="pt">AXN HD</display-name>
     </channel>
- 
+
    
     </programme>
   <programme start="20260722234500 +0000" stop="20260723000000 +0000" channel="Arte1.br">
