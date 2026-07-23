@@ -1,12 +1,440 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <channel id="Arte1.br">
-        <display-name lang="pt">ARTE1</display-name>
-    </channel>
     <channel id="AXN.br">
         <display-name lang="pt">AXN HD</display-name>
     </channel>
+    <channel id="Arte1.br">
+        <display-name lang="pt">ARTE1</display-name>
+    </channel>
 
+
+
+    
+<programme start="20260722233000 +0000" stop="20260723002000 +0000" channel="AXN.br">
+    <title>S.W.A.T.</title>
+    <desc>S4 E2 — Stakeout
+A equipe trabalha para rastrear um criminoso russo que pode estar se escondendo em L.A.; enquanto suas vidas pessoais e profissionais viram de cabeça para baixo por conta da Covid.</desc>
+  </programme>
+  <programme start="20260723002000 +0000" stop="20260723011000 +0000" channel="AXN.br">
+    <title>Hudson &amp; Rex</title>
+    <desc>S3 E15 — Seeing is Deceiving
+Uma mágica morre durante um ensaio de sua mais recente rotina; Charlie e Rex precisam enxergar além da fumaça e dos espelhos para descobrir a verdade.</desc>
+  </programme>
+  <programme start="20260723011000 +0000" stop="20260723020000 +0000" channel="AXN.br">
+    <title>Hudson &amp; Rex</title>
+    <desc>S3 E16 — The Art of the Steal
+Charlie e Rex testemunham um assalto à mão armada durante uma ida ao banco. Eles descobrem uma conexão com uma série de assaltos engenhosos não resolvidos.</desc>
+  </programme>
+  <programme start="20260723020000 +0000" stop="20260723025500 +0000" channel="AXN.br">
+    <title>Criminal Minds</title>
+    <desc>S11 E21 — Devil&apos;s Backbone
+A BAU entra em um perigoso jogo de gato-e-rato com um assassino em série condenado que pode ter informações sobre o sequestro de dois meninos.</desc>
+  </programme>
+  <programme start="20260723025500 +0000" stop="20260723035000 +0000" channel="AXN.br">
+    <title>Criminal Minds</title>
+    <desc>S11 E22 — The Storm
+Hotch é preso por uma equipe da SWAT por suspeita de conspiração; os membros da BAU lutam para provar sua inocência e suspeitam que uma conspiração ainda maior esteja no horizonte.</desc>
+  </programme>
+  <programme start="20260723035000 +0000" stop="20260723044500 +0000" channel="AXN.br">
+    <title>Criminal Minds</title>
+    <desc>S12 E1 — The Crimson King
+Luke Alvez, um novo agente da BAU vindo da força-tarefa de fugitivos do FBI, é o responsável por ajudar a capturar um dos 13 assassinos que fugiram da prisão.</desc>
+  </programme>
+  <programme start="20260723044500 +0000" stop="20260723054000 +0000" channel="AXN.br">
+    <title>Hudson &amp; Rex</title>
+    <desc>S3 E15 — Seeing is Deceiving
+Uma mágica morre durante um ensaio de sua mais recente rotina; Charlie e Rex precisam enxergar além da fumaça e dos espelhos para descobrir a verdade.</desc>
+  </programme>
+  <programme start="20260723054000 +0000" stop="20260723063000 +0000" channel="AXN.br">
+    <title>Hudson &amp; Rex</title>
+    <desc>S3 E16 — The Art of the Steal
+Charlie e Rex testemunham um assalto à mão armada durante uma ida ao banco. Eles descobrem uma conexão com uma série de assaltos engenhosos não resolvidos.</desc>
+  </programme>
+  <programme start="20260723063000 +0000" stop="20260723072000 +0000" channel="AXN.br">
+    <title>NCIS</title>
+    <desc>S22 E16 — Ladies&apos; Night
+Uma noite só das garotas toma um rumo inesperado quando a equipe é chamada para investigar o motivo de um possível incendiário; Torres luta para encontrar equilíbrio entre trabalho e vida pessoal.</desc>
+  </programme>
+  <programme start="20260723072000 +0000" stop="20260723081000 +0000" channel="AXN.br">
+    <title>NCIS</title>
+    <desc>S22 E17 — Killer Instinct
+O time captura o assassino conhecido como &quot;O Poeta&quot; e corre para descobrir quem ordenou o assassinato de um comandante da Marinha.</desc>
+  </programme>
+  <programme start="20260723081000 +0000" stop="20260723090000 +0000" channel="AXN.br">
+    <title>NCIS</title>
+    <desc>S22 E18 — After the Storm
+Um trio de veteranos de guerra é encontrado morto em um quarto de motel em Washington. O time NCIS rastreia um suspeito que se recusa a falar com qualquer pessoa além de Sam Hanna.</desc>
+  </programme>
+  <programme start="20260723090000 +0000" stop="20260723095000 +0000" channel="AXN.br">
+    <title>CSI: Miami</title>
+    <desc>S9 E21 — G.O
+Um suspeito que está sendo perseguido por Horácio e pela equipe talvez não seja quem eles procuram. É essa a conclusão a que chega Horácio após ter acesso a surpreendentes informações.</desc>
+  </programme>
+  <programme start="20260723095000 +0000" stop="20260723104000 +0000" channel="AXN.br">
+    <title>CSI: Miami</title>
+    <desc>S9 E22 — Mayday
+Horácio captura o último fugitivo da prisão, mas ele escapa da custódia da polícia e fica à solta em Miami. A equipe acaba percebendo que o criminoso, na verdade, montou uma cortina de fumaça.</desc>
+  </programme>
+  <programme start="20260723104000 +0000" stop="20260723113000 +0000" channel="AXN.br">
+    <title>CSI: Miami</title>
+    <desc>S10 E1 — Countermeasures
+A equipe busca por um assassino fugitivo enquanto Natalia e Horácio correm perigo de vida.</desc>
+  </programme>
+  <programme start="20260723113000 +0000" stop="20260723122000 +0000" channel="AXN.br">
+    <title>S.W.A.T.</title>
+    <desc>S4 E3 — The Black Hand Man
+Prestes a acabar finalmente com uma família criminosa, Chris, Street e Tan se encontram competindo pela mesma vaga em um programa de treinamento de elite.</desc>
+  </programme>
+  <programme start="20260723122000 +0000" stop="20260723131000 +0000" channel="AXN.br">
+    <title>S.W.A.T.</title>
+    <desc>S4 E4 — Memento Mori
+A S.W.A.T. se mobiliza para encontrar o justiceiro que pode transformar o funeral de um artista pop em uma matança; Hondo suspeita de Leroy após ele tentar se reconectar com Darryl.</desc>
+  </programme>
+  <programme start="20260723131000 +0000" stop="20260723140000 +0000" channel="AXN.br">
+    <title>NCIS</title>
+    <desc>S22 E19 — Irreconcilable Differences
+A carreira e a credibilidade de McGee ficam em jogo quando ele investiga o vice-diretor por corrupção; Torres e Knight recebem notícias surpreendentes.</desc>
+  </programme>
+  <programme start="20260723140000 +0000" stop="20260723145500 +0000" channel="AXN.br">
+    <title>NCIS</title>
+    <desc>S22 E20 — Nexus
+A equipe investiga uma conexão perigosa entre o cartel Nexus e a chefe da máfia Carla Marino e descobre uma trama de alto risco envolvendo material nuclear roubado.</desc>
+  </programme>
+  <programme start="20260723145500 +0000" stop="20260723155000 +0000" channel="AXN.br">
+    <title>NCIS</title>
+    <desc>S1 E1 — Yankee White
+Um comandante da Marinha morre enquanto viajava no Air Force One. Os agentes do NCIS decidem assumir a investigação e também contar com a ajuda da agente do Serviço Secreto Kate Todd.</desc>
+  </programme>
+  <programme start="20260723155000 +0000" stop="20260723164500 +0000" channel="AXN.br">
+    <title>Criminal Minds</title>
+    <desc>S12 E2 — Sick Day
+JJ chega em casa abalada após um caso complicado. Por conta disso, ela desaba e conta ao marido sobre o sequestro de duas crianças.</desc>
+  </programme>
+  <programme start="20260723164500 +0000" stop="20260723174000 +0000" channel="AXN.br">
+    <title>Criminal Minds</title>
+    <desc>S12 E3 — Taboo
+A BAU dá novamente boas-vindas a Emily Prentiss, ao mesmo tempo, em que são chamados para investigar o desaparecimento de três mulheres.</desc>
+  </programme>
+  <programme start="20260723174000 +0000" stop="20260723183000 +0000" channel="AXN.br">
+    <title>Criminal Minds</title>
+    <desc>S12 E4 — Keeper
+A equipe procura um assassino em série na Trilha dos Apalaches, região rural da Virgínia.</desc>
+  </programme>
+  <programme start="20260723183000 +0000" stop="20260723192000 +0000" channel="AXN.br">
+    <title>CSI: Miami</title>
+    <desc>S9 E21 — G.O
+Um suspeito que está sendo perseguido por Horácio e pela equipe talvez não seja quem eles procuram. É essa a conclusão a que chega Horácio após ter acesso a surpreendentes informações.</desc>
+  </programme>
+  <programme start="20260723192000 +0000" stop="20260723201000 +0000" channel="AXN.br">
+    <title>CSI: Miami</title>
+    <desc>S9 E22 — Mayday
+Horácio captura o último fugitivo da prisão, mas ele escapa da custódia da polícia e fica à solta em Miami. A equipe acaba percebendo que o criminoso, na verdade, montou uma cortina de fumaça.</desc>
+  </programme>
+  <programme start="20260723201000 +0000" stop="20260723210000 +0000" channel="AXN.br">
+    <title>CSI: Miami</title>
+    <desc>S10 E1 — Countermeasures
+A equipe busca por um assassino fugitivo enquanto Natalia e Horácio correm perigo de vida.</desc>
+  </programme>
+  <programme start="20260723210000 +0000" stop="20260723215000 +0000" channel="AXN.br">
+    <title>Hawaii Five-0</title>
+    <desc>S5 E19 — Kahania
+McGarrett e Odell ficam cercados quando tentam proteger um jovem que está sendo caçado por uma gangue. Enquanto isso, Jerry é acusado erroneamente de ter cometido uma série de invasões domiciliares.</desc>
+  </programme>
+  <programme start="20260723215000 +0000" stop="20260723224000 +0000" channel="AXN.br">
+    <title>Hawaii Five-0</title>
+    <desc>S5 E20 — Ike Hanau
+Grover suspeita que seu melhor amigo possa ter matado a própria mulher. Enquanto isso, Danny fica preso num elevador com um cadáver e um médico forense.</desc>
+  </programme>
+  <programme start="20260723224000 +0000" stop="20260723233000 +0000" channel="AXN.br">
+    <title>S.W.A.T.</title>
+    <desc>S4 E3 — The Black Hand Man
+Prestes a acabar finalmente com uma família criminosa, Chris, Street e Tan se encontram competindo pela mesma vaga em um programa de treinamento de elite.</desc>
+  </programme>
+  <programme start="20260723233000 +0000" stop="20260724002000 +0000" channel="AXN.br">
+    <title>S.W.A.T.</title>
+    <desc>S4 E4 — Memento Mori
+A S.W.A.T. se mobiliza para encontrar o justiceiro que pode transformar o funeral de um artista pop em uma matança; Hondo suspeita de Leroy após ele tentar se reconectar com Darryl.</desc>
+  </programme>
+  <programme start="20260724002000 +0000" stop="20260724011000 +0000" channel="AXN.br">
+    <title>Hudson &amp; Rex</title>
+    <desc>S4 E1 — Sid and Nancy
+Dois excursionistas são encontrados assassinados perto de uma trilha costeira remota, a equipe inicia uma caçada a uma dupla de fugitivos procurados por uma série de assassinatos brutais em acampamentos.</desc>
+  </programme>
+  <programme start="20260724011000 +0000" stop="20260724020000 +0000" channel="AXN.br">
+    <title>Hudson &amp; Rex</title>
+    <desc>S4 E2 — Oops I Bit It Again
+A equipe descobre as lealdades distorcidas que se formam quando laços pessoais se misturam com as armadilhas da fama, quando uma estrela pop problemática é suspeita de matar seu noivo.</desc>
+  </programme>
+  <programme start="20260724020000 +0000" stop="20260724025500 +0000" channel="AXN.br">
+    <title>Criminal Minds</title>
+    <desc>S12 E2 — Sick Day
+JJ chega em casa abalada após um caso complicado. Por conta disso, ela desaba e conta ao marido sobre o sequestro de duas crianças.</desc>
+  </programme>
+  <programme start="20260724025500 +0000" stop="20260724035000 +0000" channel="AXN.br">
+    <title>Criminal Minds</title>
+    <desc>S12 E3 — Taboo
+A BAU dá novamente boas-vindas a Emily Prentiss, ao mesmo tempo, em que são chamados para investigar o desaparecimento de três mulheres.</desc>
+  </programme>
+  <programme start="20260724035000 +0000" stop="20260724044500 +0000" channel="AXN.br">
+    <title>Criminal Minds</title>
+    <desc>S12 E4 — Keeper
+A equipe procura um assassino em série na Trilha dos Apalaches, região rural da Virgínia.</desc>
+  </programme>
+  <programme start="20260724044500 +0000" stop="20260724054000 +0000" channel="AXN.br">
+    <title>Hudson &amp; Rex</title>
+    <desc>S4 E1 — Sid and Nancy
+Dois excursionistas são encontrados assassinados perto de uma trilha costeira remota, a equipe inicia uma caçada a uma dupla de fugitivos procurados por uma série de assassinatos brutais em acampamentos.</desc>
+  </programme>
+  <programme start="20260724054000 +0000" stop="20260724063000 +0000" channel="AXN.br">
+    <title>Hudson &amp; Rex</title>
+    <desc>S4 E2 — Oops I Bit It Again
+A equipe descobre as lealdades distorcidas que se formam quando laços pessoais se misturam com as armadilhas da fama, quando uma estrela pop problemática é suspeita de matar seu noivo.</desc>
+  </programme>
+  <programme start="20260724063000 +0000" stop="20260724072000 +0000" channel="AXN.br">
+    <title>NCIS</title>
+    <desc>S22 E19 — Irreconcilable Differences
+A carreira e a credibilidade de McGee ficam em jogo quando ele investiga o vice-diretor por corrupção; Torres e Knight recebem notícias surpreendentes.</desc>
+  </programme>
+  <programme start="20260724072000 +0000" stop="20260724081000 +0000" channel="AXN.br">
+    <title>NCIS</title>
+    <desc>S22 E20 — Nexus
+A equipe investiga uma conexão perigosa entre o cartel Nexus e a chefe da máfia Carla Marino e descobre uma trama de alto risco envolvendo material nuclear roubado.</desc>
+  </programme>
+  <programme start="20260724081000 +0000" stop="20260724090000 +0000" channel="AXN.br">
+    <title>NCIS</title>
+    <desc>S1 E1 — Yankee White
+Um comandante da Marinha morre enquanto viajava no Air Force One. Os agentes do NCIS decidem assumir a investigação e também contar com a ajuda da agente do Serviço Secreto Kate Todd.</desc>
+  </programme>
+  <programme start="20260724090000 +0000" stop="20260724095000 +0000" channel="AXN.br">
+    <title>CSI: Miami</title>
+    <desc>S10 E2 — Stiff
+A descoberta de uma arma usada em um assassinato leva a equipe de CSI para o mundo dos gigolôs de Miami.</desc>
+  </programme>
+  <programme start="20260724095000 +0000" stop="20260724104000 +0000" channel="AXN.br">
+    <title>CSI: Miami</title>
+    <desc>S10 E3 — Blown Away
+Ryan e Walter correm perigo quando um tornado atravessa uma cena de assassinato e danifica evidências do crime.</desc>
+  </programme>
+  <programme start="20260724104000 +0000" stop="20260724113000 +0000" channel="AXN.br">
+    <title>CSI: Miami</title>
+    <desc>S10 E4 — Look Who&apos;s Taunting
+The team pursues a killer who takes the eyes from victims; a new adversary challenges Horatio.</desc>
+  </programme>
+  <programme start="20260724113000 +0000" stop="20260724122000 +0000" channel="AXN.br">
+    <title>S.W.A.T.</title>
+    <desc>S4 E5 — Fracture
+Chris se prepara para encarar Street e Tan na Competição Master Gunner; a S.W.A.T. persegue um bombardeiro que vem enviando pacotes mortais por meio de um aplicativo.</desc>
+  </programme>
+  <programme start="20260724122000 +0000" stop="20260724131000 +0000" channel="AXN.br">
+    <title>S.W.A.T.</title>
+    <desc>S4 E6 — Hopeless Sinner
+Chris tenta resgatar jovem da seita liderada por um pastor; a tensão entre Hondo e Leroy aumenta.</desc>
+  </programme>
+  <programme start="20260724131000 +0000" stop="20260724140000 +0000" channel="AXN.br">
+    <title>NCIS</title>
+    <desc>S1 E2 — Hung Out to Dry
+Gibbs e os agentes investigam o caso de um fuzileiro morto em exercício de treinamento com paraquedas; Gibbs precisa conseguir mandados de busca com o Tenente Roberts para comprovar sua tese sobre o incidente.</desc>
+  </programme>
+  <programme start="20260724140000 +0000" stop="20260724145500 +0000" channel="AXN.br">
+    <title>NCIS</title>
+    <desc>S1 E3 — Sea Dog
+A equipe NCIS realiza uma investigação na praia, onde o corpo de um oficial da Marinha foi encontrado com os corpos de dois traficantes de drogas.</desc>
+  </programme>
+  <programme start="20260724145500 +0000" stop="20260724155000 +0000" channel="AXN.br">
+    <title>NCIS</title>
+    <desc>S1 E4 — The Immortals
+A equipe investiga a morte de um marinheiro, encontrado segurando a espada de um oficial e descobre que ele estava obcecado com um importante jogo.</desc>
+  </programme>
+  <programme start="20260724155000 +0000" stop="20260724164500 +0000" channel="AXN.br">
+    <title>Criminal Minds</title>
+    <desc>S12 E5 — The Anti-Terror Squad
+A equipe BAU investiga um caso de bullying que pode ser a ligação entre dois estudantes colegiais, os únicos sobreviventes após as mortes de seus familiares.</desc>
+  </programme>
+  <programme start="20260724164500 +0000" stop="20260724174000 +0000" channel="AXN.br">
+    <title>Criminal Minds</title>
+    <desc>S12 E6 — Elliott&apos;s Pond
+Três crianças desaparecem enquanto andam com suas bicicletas num mesmo caminho que foi palco de um caso similar de sumiço ocorrido 30 anos antes, levando a equipe BAU a investigar o caso.</desc>
+  </programme>
+  <programme start="20260724174000 +0000" stop="20260724183000 +0000" channel="AXN.br">
+    <title>Criminal Minds</title>
+    <desc>S12 E7 — Mirror Image
+A equipe abre uma investigação quando um homem que acredita ser o irmão da Dra. Tara Lewis chega à cidade. Ao mesmo tempo, ela não consegue entrar em contato com seu verdadeiro irmão.</desc>
+  </programme>
+  <programme start="20260724183000 +0000" stop="20260724192000 +0000" channel="AXN.br">
+    <title>CSI: Miami</title>
+    <desc>S10 E2 — Stiff
+A descoberta de uma arma usada em um assassinato leva a equipe de CSI para o mundo dos gigolôs de Miami.</desc>
+  </programme>
+  <programme start="20260724192000 +0000" stop="20260724201000 +0000" channel="AXN.br">
+    <title>CSI: Miami</title>
+    <desc>S10 E3 — Blown Away
+Ryan e Walter correm perigo quando um tornado atravessa uma cena de assassinato e danifica evidências do crime.</desc>
+  </programme>
+  <programme start="20260724201000 +0000" stop="20260724210000 +0000" channel="AXN.br">
+    <title>CSI: Miami</title>
+    <desc>S10 E4 — Look Who&apos;s Taunting
+The team pursues a killer who takes the eyes from victims; a new adversary challenges Horatio.</desc>
+  </programme>
+  <programme start="20260724210000 +0000" stop="20260724215000 +0000" channel="AXN.br">
+    <title>Hawaii Five-0</title>
+    <desc>S5 E21 — Ua helele&apos;i ka hoku
+Um artista é morto e roubado em uma convenção de sósias de Elvis Presley. Logo se descobre que os criminosos estavam atrás dos diamantes que foram costurados na roupa da vítima.</desc>
+  </programme>
+  <programme start="20260724215000 +0000" stop="20260724224000 +0000" channel="AXN.br">
+    <title>Hawaii Five-0</title>
+    <desc>S5 E22 — Ho&apos;amoano
+Uma mulher é encontrada morta em uma suíte de hotel ocupada por três homens casados, o que leva a equipe a ajudá-los a relembrar os eventos da noite anterior. Enquanto isso, Jerry testemunha o sequestro de uma mulher nas ruas de O&apos;ahu.</desc>
+  </programme>
+  <programme start="20260724224000 +0000" stop="20260724233000 +0000" channel="AXN.br">
+    <title>S.W.A.T.</title>
+    <desc>S4 E5 — Fracture
+Chris se prepara para encarar Street e Tan na Competição Master Gunner; a S.W.A.T. persegue um bombardeiro que vem enviando pacotes mortais por meio de um aplicativo.</desc>
+  </programme>
+  <programme start="20260724233000 +0000" stop="20260725002000 +0000" channel="AXN.br">
+    <title>S.W.A.T.</title>
+    <desc>S4 E6 — Hopeless Sinner
+Chris tenta resgatar jovem da seita liderada por um pastor; a tensão entre Hondo e Leroy aumenta.</desc>
+  </programme>
+  <programme start="20260725002000 +0000" stop="20260725011000 +0000" channel="AXN.br">
+    <title>Hudson &amp; Rex</title>
+    <desc>S4 E3 — Rex Marks the Spot
+Após um jornalista ser assassinado enquanto procurava um tesouro pirata enterrado, Charlie e Rex mergulham no competitivo mundo dos caçadores de tesouros para desvendar o mistério e encontrar o assassino.</desc>
+  </programme>
+  <programme start="20260725011000 +0000" stop="20260725020000 +0000" channel="AXN.br">
+    <title>Hudson &amp; Rex</title>
+    <desc>S4 E4 — Leader of the Pack
+Sarah parte em uma aventura. Charlie e Rex investigam o assassinato de um professor universitário.</desc>
+  </programme>
+  <programme start="20260725020000 +0000" stop="20260725025000 +0000" channel="AXN.br">
+    <title>Perícia Lab</title>
+    <desc>S2 E5 — Incêndio no Circo
+Um circo lotado pega fogo, causando a morte de 500 pessoas e deixando centenas de outras feridas.</desc>
+  </programme>
+  <programme start="20260725025000 +0000" stop="20260725034000 +0000" channel="AXN.br">
+    <title>Perícia Lab</title>
+    <desc>S2 E6 — Mistério da Madrugada
+Um menino de três anos desaparece misteriosamente durante a madrugada. Apenas sua mãe e seu padrasto estavam em casa. Ninguém sabe se alguém entrou na residência e sequestrou a criança ou ela saiu sozinha de casa.</desc>
+  </programme>
+  <programme start="20260725034000 +0000" stop="20260725043500 +0000" channel="AXN.br">
+    <title>Criminal Minds</title>
+    <desc>S12 E7 — Mirror Image
+A equipe abre uma investigação quando um homem que acredita ser o irmão da Dra. Tara Lewis chega à cidade. Ao mesmo tempo, ela não consegue entrar em contato com seu verdadeiro irmão.</desc>
+  </programme>
+  <programme start="20260725043500 +0000" stop="20260725053000 +0000" channel="AXN.br">
+    <title>Hudson &amp; Rex</title>
+    <desc>S4 E3 — Rex Marks the Spot
+Após um jornalista ser assassinado enquanto procurava um tesouro pirata enterrado, Charlie e Rex mergulham no competitivo mundo dos caçadores de tesouros para desvendar o mistério e encontrar o assassino.</desc>
+  </programme>
+  <programme start="20260725053000 +0000" stop="20260725062500 +0000" channel="AXN.br">
+    <title>Hudson &amp; Rex</title>
+    <desc>S4 E4 — Leader of the Pack
+Sarah parte em uma aventura. Charlie e Rex investigam o assassinato de um professor universitário.</desc>
+  </programme>
+  <programme start="20260725062500 +0000" stop="20260725072000 +0000" channel="AXN.br">
+    <title>NCIS</title>
+    <desc>S1 E2 — Hung Out to Dry
+Gibbs e os agentes investigam o caso de um fuzileiro morto em exercício de treinamento com paraquedas; Gibbs precisa conseguir mandados de busca com o Tenente Roberts para comprovar sua tese sobre o incidente.</desc>
+  </programme>
+  <programme start="20260725072000 +0000" stop="20260725081000 +0000" channel="AXN.br">
+    <title>NCIS</title>
+    <desc>S1 E3 — Sea Dog
+A equipe NCIS realiza uma investigação na praia, onde o corpo de um oficial da Marinha foi encontrado com os corpos de dois traficantes de drogas.</desc>
+  </programme>
+  <programme start="20260725081000 +0000" stop="20260725090000 +0000" channel="AXN.br">
+    <title>NCIS</title>
+    <desc>S1 E4 — The Immortals
+A equipe investiga a morte de um marinheiro, encontrado segurando a espada de um oficial e descobre que ele estava obcecado com um importante jogo.</desc>
+  </programme>
+  <programme start="20260725090000 +0000" stop="20260725095000 +0000" channel="AXN.br">
+    <title>CSI: NY</title>
+    <desc>S6 E21 — Unusual Suspects
+Mac está determinado a buscar justiça quando um menino de 14 anos é baleado na frente do irmão de 12 anos.</desc>
+  </programme>
+  <programme start="20260725095000 +0000" stop="20260725104000 +0000" channel="AXN.br">
+    <title>CSI: NY</title>
+    <desc>S6 E20 — Tales From the Undercard
+Depois de encontrar o corpo de um boxeador aposentado sob o concreto de uma construção, a equipe de Mac Taylor tem de investigar um grupo secreto de lutadores.</desc>
+  </programme>
+  <programme start="20260725104000 +0000" stop="20260725113000 +0000" channel="AXN.br">
+    <title>CSI: NY</title>
+    <desc>S6 E22 — Point of View
+Mac se recupera em casa de um ferimento e vê um comportamento misterioso que leva a um assassinato.</desc>
+  </programme>
+  <programme start="20260725113000 +0000" stop="20260725122000 +0000" channel="AXN.br">
+    <title>CSI: NY</title>
+    <desc>S6 E23 — Vacation Getaway
+A equipe CSI teme que o criminoso condenado Shane Casey esteja tentando atacar Danny enquanto ele passa o feriado com Lindsay e a filha pequena.</desc>
+  </programme>
+  <programme start="20260725122000 +0000" stop="20260725131000 +0000" channel="AXN.br">
+    <title>CSI: NY</title>
+    <desc>S7 E1 — The 34th Floor
+A ex-agente do FBI Jo Danville se junta à equipe e em seu primeiro dia de trabalho encontra um corpo no laboratório. Lindsay recebe uma medalha por bravura.</desc>
+  </programme>
+  <programme start="20260725131000 +0000" stop="20260725140000 +0000" channel="AXN.br">
+    <title>NCIS: Hawai&apos;i</title>
+    <desc>S1 E2 — Boom
+O NCIS deve derrubar a notável equipe de ladrões internacionais que usa explosivos da Segunda Guerra em carros-fortes, antes que ela conclua sua última missão e desapareça.</desc>
+  </programme>
+  <programme start="20260725140000 +0000" stop="20260725145500 +0000" channel="AXN.br">
+    <title>NCIS: Hawai&apos;i</title>
+    <desc>S1 E3 — Recruiter
+Um suboficial, que tenta ajudar jovens rebeldes a encontrar um novo caminho na Marinha, é assassinado; Kai se infiltra em uma das mais antigas gangues de surfe do Havaí.</desc>
+  </programme>
+  <programme start="20260725145500 +0000" stop="20260725155000 +0000" channel="AXN.br">
+    <title>CSI: Miami</title>
+    <desc>S7 E15 — Presumed Guilty
+A equipe do CSI está enfrentado problemas um advogado de defesa que poderia estar envolvido na conspiração de um assassinato.</desc>
+  </programme>
+  <programme start="20260725155000 +0000" stop="20260725164500 +0000" channel="AXN.br">
+    <title>CSI: Miami</title>
+    <desc>S7 E16 — Sink or Swim
+O futuro de Delko como parte da equipe CSI fica ameaçado quando piratas atacam um iate de luxo; o romance de Calleigh e Delko avança.</desc>
+  </programme>
+  <programme start="20260725164500 +0000" stop="20260725174000 +0000" channel="AXN.br">
+    <title>CSI: Miami</title>
+    <desc>S7 E17 — Divorce Party
+A equipe CSI faz uma descoberta chocante sobre um caso de assassinato; Horatio tenta salvar seu filho da influência negativa de Julia.</desc>
+  </programme>
+  <programme start="20260725174000 +0000" stop="20260725183500 +0000" channel="AXN.br">
+    <title>CSI: Miami</title>
+    <desc>S7 E18 — Flight Risk
+O CIS analisa o mundo decadente das viagens aéreas quando um comissário de bordo é brutalmente assassinado. Com um piloto, um agente e um penetra no cenário, a equipe faz de tudo para descobrir quem cometeu o crime.</desc>
+  </programme>
+  <programme start="20260725183500 +0000" stop="20260725193000 +0000" channel="AXN.br">
+    <title>CSI: Miami</title>
+    <desc>S7 E19 — Target Specific
+Uma invasão domiciliar acaba se tornando em algo muito mais sério quando a equipe descobre que a máfia russa está mirando o grupo.</desc>
+  </programme>
+  <programme start="20260725193000 +0000" stop="20260725202500 +0000" channel="AXN.br">
+    <title>CSI: Miami</title>
+    <desc>S7 E20 — Wolfe in Sheep&apos;s Clothing
+Ryan é forçado a interferir em uma investigação de assassinato pelos gângsteres russos que o sequestraram, traindo Horácio e a equipe.</desc>
+  </programme>
+  <programme start="20260725202500 +0000" stop="20260725212000 +0000" channel="AXN.br">
+    <title>CSI: Miami</title>
+    <desc>S7 E21 — Chip/Tuck
+A equipe do CSI é chamada para uma cena horrível de assassinato quando um homem é empurrado para num triturador de madeira. Em todos os lugares, Horácio encontra rostos desagradáveis do passado.</desc>
+  </programme>
+  <programme start="20260725212000 +0000" stop="20260725221500 +0000" channel="AXN.br">
+    <title>CSI: Miami</title>
+    <desc>S7 E22 — Dead on Arrival
+O assassinato de uma estrela leva a equipe CSI ao mundo dos programas de namoro da televisão.</desc>
+  </programme>
+  <programme start="20260725221500 +0000" stop="20260725231000 +0000" channel="AXN.br">
+    <title>CSI: Miami</title>
+    <desc>S7 E23 — Collateral Damage
+Uma família aparentemente normal é alvo de um ataque brutal com granadas, deixando a equipe e Horácio tentando entender o porquê.</desc>
+  </programme>
+  <programme start="20260725231000 +0000" stop="20260726000000 +0000" channel="AXN.br">
+    <title>NCIS</title>
+    <desc>S23 E3 — The Sound and the Fury
+A morte de um suboficial está ligada a uma investigação de chantagem, e a equipe é forçada a trabalhar com o Agente Especial Sawyer no caso, que toma um rumo aterrorizante para Torres.</desc>
+  </programme>
+
+
+
+
+    
    
   <programme start="20260722234500 +0000" stop="20260723000000 +0000" channel="Arte1.br">
     <title>Museu do Ipiranga - USP 130 Anos</title>
@@ -469,427 +897,7 @@ O Museu revela seus bastidores, mostrando o trabalho de conservação, pesquisa 
     <desc>S1 E4 — Armazém Cia de Teatro
 Série documental faz um mergulho nos bastidores do teatro brasileiro. Grupos teatrais de diferentes regiões, seus processos criativos, trajetórias, linguagens e a centralidade do palco como espaço de expressão artística, política e cultural.</desc>
   </programme>
-  <programme start="20260722233000 +0000" stop="20260723002000 +0000" channel="AXN.br">
-    <title>S.W.A.T.</title>
-    <desc>S4 E2 — Stakeout
-A equipe trabalha para rastrear um criminoso russo que pode estar se escondendo em L.A.; enquanto suas vidas pessoais e profissionais viram de cabeça para baixo por conta da Covid.</desc>
-  </programme>
-  <programme start="20260723002000 +0000" stop="20260723011000 +0000" channel="AXN.br">
-    <title>Hudson &amp; Rex</title>
-    <desc>S3 E15 — Seeing is Deceiving
-Uma mágica morre durante um ensaio de sua mais recente rotina; Charlie e Rex precisam enxergar além da fumaça e dos espelhos para descobrir a verdade.</desc>
-  </programme>
-  <programme start="20260723011000 +0000" stop="20260723020000 +0000" channel="AXN.br">
-    <title>Hudson &amp; Rex</title>
-    <desc>S3 E16 — The Art of the Steal
-Charlie e Rex testemunham um assalto à mão armada durante uma ida ao banco. Eles descobrem uma conexão com uma série de assaltos engenhosos não resolvidos.</desc>
-  </programme>
-  <programme start="20260723020000 +0000" stop="20260723025500 +0000" channel="AXN.br">
-    <title>Criminal Minds</title>
-    <desc>S11 E21 — Devil&apos;s Backbone
-A BAU entra em um perigoso jogo de gato-e-rato com um assassino em série condenado que pode ter informações sobre o sequestro de dois meninos.</desc>
-  </programme>
-  <programme start="20260723025500 +0000" stop="20260723035000 +0000" channel="AXN.br">
-    <title>Criminal Minds</title>
-    <desc>S11 E22 — The Storm
-Hotch é preso por uma equipe da SWAT por suspeita de conspiração; os membros da BAU lutam para provar sua inocência e suspeitam que uma conspiração ainda maior esteja no horizonte.</desc>
-  </programme>
-  <programme start="20260723035000 +0000" stop="20260723044500 +0000" channel="AXN.br">
-    <title>Criminal Minds</title>
-    <desc>S12 E1 — The Crimson King
-Luke Alvez, um novo agente da BAU vindo da força-tarefa de fugitivos do FBI, é o responsável por ajudar a capturar um dos 13 assassinos que fugiram da prisão.</desc>
-  </programme>
-  <programme start="20260723044500 +0000" stop="20260723054000 +0000" channel="AXN.br">
-    <title>Hudson &amp; Rex</title>
-    <desc>S3 E15 — Seeing is Deceiving
-Uma mágica morre durante um ensaio de sua mais recente rotina; Charlie e Rex precisam enxergar além da fumaça e dos espelhos para descobrir a verdade.</desc>
-  </programme>
-  <programme start="20260723054000 +0000" stop="20260723063000 +0000" channel="AXN.br">
-    <title>Hudson &amp; Rex</title>
-    <desc>S3 E16 — The Art of the Steal
-Charlie e Rex testemunham um assalto à mão armada durante uma ida ao banco. Eles descobrem uma conexão com uma série de assaltos engenhosos não resolvidos.</desc>
-  </programme>
-  <programme start="20260723063000 +0000" stop="20260723072000 +0000" channel="AXN.br">
-    <title>NCIS</title>
-    <desc>S22 E16 — Ladies&apos; Night
-Uma noite só das garotas toma um rumo inesperado quando a equipe é chamada para investigar o motivo de um possível incendiário; Torres luta para encontrar equilíbrio entre trabalho e vida pessoal.</desc>
-  </programme>
-  <programme start="20260723072000 +0000" stop="20260723081000 +0000" channel="AXN.br">
-    <title>NCIS</title>
-    <desc>S22 E17 — Killer Instinct
-O time captura o assassino conhecido como &quot;O Poeta&quot; e corre para descobrir quem ordenou o assassinato de um comandante da Marinha.</desc>
-  </programme>
-  <programme start="20260723081000 +0000" stop="20260723090000 +0000" channel="AXN.br">
-    <title>NCIS</title>
-    <desc>S22 E18 — After the Storm
-Um trio de veteranos de guerra é encontrado morto em um quarto de motel em Washington. O time NCIS rastreia um suspeito que se recusa a falar com qualquer pessoa além de Sam Hanna.</desc>
-  </programme>
-  <programme start="20260723090000 +0000" stop="20260723095000 +0000" channel="AXN.br">
-    <title>CSI: Miami</title>
-    <desc>S9 E21 — G.O
-Um suspeito que está sendo perseguido por Horácio e pela equipe talvez não seja quem eles procuram. É essa a conclusão a que chega Horácio após ter acesso a surpreendentes informações.</desc>
-  </programme>
-  <programme start="20260723095000 +0000" stop="20260723104000 +0000" channel="AXN.br">
-    <title>CSI: Miami</title>
-    <desc>S9 E22 — Mayday
-Horácio captura o último fugitivo da prisão, mas ele escapa da custódia da polícia e fica à solta em Miami. A equipe acaba percebendo que o criminoso, na verdade, montou uma cortina de fumaça.</desc>
-  </programme>
-  <programme start="20260723104000 +0000" stop="20260723113000 +0000" channel="AXN.br">
-    <title>CSI: Miami</title>
-    <desc>S10 E1 — Countermeasures
-A equipe busca por um assassino fugitivo enquanto Natalia e Horácio correm perigo de vida.</desc>
-  </programme>
-  <programme start="20260723113000 +0000" stop="20260723122000 +0000" channel="AXN.br">
-    <title>S.W.A.T.</title>
-    <desc>S4 E3 — The Black Hand Man
-Prestes a acabar finalmente com uma família criminosa, Chris, Street e Tan se encontram competindo pela mesma vaga em um programa de treinamento de elite.</desc>
-  </programme>
-  <programme start="20260723122000 +0000" stop="20260723131000 +0000" channel="AXN.br">
-    <title>S.W.A.T.</title>
-    <desc>S4 E4 — Memento Mori
-A S.W.A.T. se mobiliza para encontrar o justiceiro que pode transformar o funeral de um artista pop em uma matança; Hondo suspeita de Leroy após ele tentar se reconectar com Darryl.</desc>
-  </programme>
-  <programme start="20260723131000 +0000" stop="20260723140000 +0000" channel="AXN.br">
-    <title>NCIS</title>
-    <desc>S22 E19 — Irreconcilable Differences
-A carreira e a credibilidade de McGee ficam em jogo quando ele investiga o vice-diretor por corrupção; Torres e Knight recebem notícias surpreendentes.</desc>
-  </programme>
-  <programme start="20260723140000 +0000" stop="20260723145500 +0000" channel="AXN.br">
-    <title>NCIS</title>
-    <desc>S22 E20 — Nexus
-A equipe investiga uma conexão perigosa entre o cartel Nexus e a chefe da máfia Carla Marino e descobre uma trama de alto risco envolvendo material nuclear roubado.</desc>
-  </programme>
-  <programme start="20260723145500 +0000" stop="20260723155000 +0000" channel="AXN.br">
-    <title>NCIS</title>
-    <desc>S1 E1 — Yankee White
-Um comandante da Marinha morre enquanto viajava no Air Force One. Os agentes do NCIS decidem assumir a investigação e também contar com a ajuda da agente do Serviço Secreto Kate Todd.</desc>
-  </programme>
-  <programme start="20260723155000 +0000" stop="20260723164500 +0000" channel="AXN.br">
-    <title>Criminal Minds</title>
-    <desc>S12 E2 — Sick Day
-JJ chega em casa abalada após um caso complicado. Por conta disso, ela desaba e conta ao marido sobre o sequestro de duas crianças.</desc>
-  </programme>
-  <programme start="20260723164500 +0000" stop="20260723174000 +0000" channel="AXN.br">
-    <title>Criminal Minds</title>
-    <desc>S12 E3 — Taboo
-A BAU dá novamente boas-vindas a Emily Prentiss, ao mesmo tempo, em que são chamados para investigar o desaparecimento de três mulheres.</desc>
-  </programme>
-  <programme start="20260723174000 +0000" stop="20260723183000 +0000" channel="AXN.br">
-    <title>Criminal Minds</title>
-    <desc>S12 E4 — Keeper
-A equipe procura um assassino em série na Trilha dos Apalaches, região rural da Virgínia.</desc>
-  </programme>
-  <programme start="20260723183000 +0000" stop="20260723192000 +0000" channel="AXN.br">
-    <title>CSI: Miami</title>
-    <desc>S9 E21 — G.O
-Um suspeito que está sendo perseguido por Horácio e pela equipe talvez não seja quem eles procuram. É essa a conclusão a que chega Horácio após ter acesso a surpreendentes informações.</desc>
-  </programme>
-  <programme start="20260723192000 +0000" stop="20260723201000 +0000" channel="AXN.br">
-    <title>CSI: Miami</title>
-    <desc>S9 E22 — Mayday
-Horácio captura o último fugitivo da prisão, mas ele escapa da custódia da polícia e fica à solta em Miami. A equipe acaba percebendo que o criminoso, na verdade, montou uma cortina de fumaça.</desc>
-  </programme>
-  <programme start="20260723201000 +0000" stop="20260723210000 +0000" channel="AXN.br">
-    <title>CSI: Miami</title>
-    <desc>S10 E1 — Countermeasures
-A equipe busca por um assassino fugitivo enquanto Natalia e Horácio correm perigo de vida.</desc>
-  </programme>
-  <programme start="20260723210000 +0000" stop="20260723215000 +0000" channel="AXN.br">
-    <title>Hawaii Five-0</title>
-    <desc>S5 E19 — Kahania
-McGarrett e Odell ficam cercados quando tentam proteger um jovem que está sendo caçado por uma gangue. Enquanto isso, Jerry é acusado erroneamente de ter cometido uma série de invasões domiciliares.</desc>
-  </programme>
-  <programme start="20260723215000 +0000" stop="20260723224000 +0000" channel="AXN.br">
-    <title>Hawaii Five-0</title>
-    <desc>S5 E20 — Ike Hanau
-Grover suspeita que seu melhor amigo possa ter matado a própria mulher. Enquanto isso, Danny fica preso num elevador com um cadáver e um médico forense.</desc>
-  </programme>
-  <programme start="20260723224000 +0000" stop="20260723233000 +0000" channel="AXN.br">
-    <title>S.W.A.T.</title>
-    <desc>S4 E3 — The Black Hand Man
-Prestes a acabar finalmente com uma família criminosa, Chris, Street e Tan se encontram competindo pela mesma vaga em um programa de treinamento de elite.</desc>
-  </programme>
-  <programme start="20260723233000 +0000" stop="20260724002000 +0000" channel="AXN.br">
-    <title>S.W.A.T.</title>
-    <desc>S4 E4 — Memento Mori
-A S.W.A.T. se mobiliza para encontrar o justiceiro que pode transformar o funeral de um artista pop em uma matança; Hondo suspeita de Leroy após ele tentar se reconectar com Darryl.</desc>
-  </programme>
-  <programme start="20260724002000 +0000" stop="20260724011000 +0000" channel="AXN.br">
-    <title>Hudson &amp; Rex</title>
-    <desc>S4 E1 — Sid and Nancy
-Dois excursionistas são encontrados assassinados perto de uma trilha costeira remota, a equipe inicia uma caçada a uma dupla de fugitivos procurados por uma série de assassinatos brutais em acampamentos.</desc>
-  </programme>
-  <programme start="20260724011000 +0000" stop="20260724020000 +0000" channel="AXN.br">
-    <title>Hudson &amp; Rex</title>
-    <desc>S4 E2 — Oops I Bit It Again
-A equipe descobre as lealdades distorcidas que se formam quando laços pessoais se misturam com as armadilhas da fama, quando uma estrela pop problemática é suspeita de matar seu noivo.</desc>
-  </programme>
-  <programme start="20260724020000 +0000" stop="20260724025500 +0000" channel="AXN.br">
-    <title>Criminal Minds</title>
-    <desc>S12 E2 — Sick Day
-JJ chega em casa abalada após um caso complicado. Por conta disso, ela desaba e conta ao marido sobre o sequestro de duas crianças.</desc>
-  </programme>
-  <programme start="20260724025500 +0000" stop="20260724035000 +0000" channel="AXN.br">
-    <title>Criminal Minds</title>
-    <desc>S12 E3 — Taboo
-A BAU dá novamente boas-vindas a Emily Prentiss, ao mesmo tempo, em que são chamados para investigar o desaparecimento de três mulheres.</desc>
-  </programme>
-  <programme start="20260724035000 +0000" stop="20260724044500 +0000" channel="AXN.br">
-    <title>Criminal Minds</title>
-    <desc>S12 E4 — Keeper
-A equipe procura um assassino em série na Trilha dos Apalaches, região rural da Virgínia.</desc>
-  </programme>
-  <programme start="20260724044500 +0000" stop="20260724054000 +0000" channel="AXN.br">
-    <title>Hudson &amp; Rex</title>
-    <desc>S4 E1 — Sid and Nancy
-Dois excursionistas são encontrados assassinados perto de uma trilha costeira remota, a equipe inicia uma caçada a uma dupla de fugitivos procurados por uma série de assassinatos brutais em acampamentos.</desc>
-  </programme>
-  <programme start="20260724054000 +0000" stop="20260724063000 +0000" channel="AXN.br">
-    <title>Hudson &amp; Rex</title>
-    <desc>S4 E2 — Oops I Bit It Again
-A equipe descobre as lealdades distorcidas que se formam quando laços pessoais se misturam com as armadilhas da fama, quando uma estrela pop problemática é suspeita de matar seu noivo.</desc>
-  </programme>
-  <programme start="20260724063000 +0000" stop="20260724072000 +0000" channel="AXN.br">
-    <title>NCIS</title>
-    <desc>S22 E19 — Irreconcilable Differences
-A carreira e a credibilidade de McGee ficam em jogo quando ele investiga o vice-diretor por corrupção; Torres e Knight recebem notícias surpreendentes.</desc>
-  </programme>
-  <programme start="20260724072000 +0000" stop="20260724081000 +0000" channel="AXN.br">
-    <title>NCIS</title>
-    <desc>S22 E20 — Nexus
-A equipe investiga uma conexão perigosa entre o cartel Nexus e a chefe da máfia Carla Marino e descobre uma trama de alto risco envolvendo material nuclear roubado.</desc>
-  </programme>
-  <programme start="20260724081000 +0000" stop="20260724090000 +0000" channel="AXN.br">
-    <title>NCIS</title>
-    <desc>S1 E1 — Yankee White
-Um comandante da Marinha morre enquanto viajava no Air Force One. Os agentes do NCIS decidem assumir a investigação e também contar com a ajuda da agente do Serviço Secreto Kate Todd.</desc>
-  </programme>
-  <programme start="20260724090000 +0000" stop="20260724095000 +0000" channel="AXN.br">
-    <title>CSI: Miami</title>
-    <desc>S10 E2 — Stiff
-A descoberta de uma arma usada em um assassinato leva a equipe de CSI para o mundo dos gigolôs de Miami.</desc>
-  </programme>
-  <programme start="20260724095000 +0000" stop="20260724104000 +0000" channel="AXN.br">
-    <title>CSI: Miami</title>
-    <desc>S10 E3 — Blown Away
-Ryan e Walter correm perigo quando um tornado atravessa uma cena de assassinato e danifica evidências do crime.</desc>
-  </programme>
-  <programme start="20260724104000 +0000" stop="20260724113000 +0000" channel="AXN.br">
-    <title>CSI: Miami</title>
-    <desc>S10 E4 — Look Who&apos;s Taunting
-The team pursues a killer who takes the eyes from victims; a new adversary challenges Horatio.</desc>
-  </programme>
-  <programme start="20260724113000 +0000" stop="20260724122000 +0000" channel="AXN.br">
-    <title>S.W.A.T.</title>
-    <desc>S4 E5 — Fracture
-Chris se prepara para encarar Street e Tan na Competição Master Gunner; a S.W.A.T. persegue um bombardeiro que vem enviando pacotes mortais por meio de um aplicativo.</desc>
-  </programme>
-  <programme start="20260724122000 +0000" stop="20260724131000 +0000" channel="AXN.br">
-    <title>S.W.A.T.</title>
-    <desc>S4 E6 — Hopeless Sinner
-Chris tenta resgatar jovem da seita liderada por um pastor; a tensão entre Hondo e Leroy aumenta.</desc>
-  </programme>
-  <programme start="20260724131000 +0000" stop="20260724140000 +0000" channel="AXN.br">
-    <title>NCIS</title>
-    <desc>S1 E2 — Hung Out to Dry
-Gibbs e os agentes investigam o caso de um fuzileiro morto em exercício de treinamento com paraquedas; Gibbs precisa conseguir mandados de busca com o Tenente Roberts para comprovar sua tese sobre o incidente.</desc>
-  </programme>
-  <programme start="20260724140000 +0000" stop="20260724145500 +0000" channel="AXN.br">
-    <title>NCIS</title>
-    <desc>S1 E3 — Sea Dog
-A equipe NCIS realiza uma investigação na praia, onde o corpo de um oficial da Marinha foi encontrado com os corpos de dois traficantes de drogas.</desc>
-  </programme>
-  <programme start="20260724145500 +0000" stop="20260724155000 +0000" channel="AXN.br">
-    <title>NCIS</title>
-    <desc>S1 E4 — The Immortals
-A equipe investiga a morte de um marinheiro, encontrado segurando a espada de um oficial e descobre que ele estava obcecado com um importante jogo.</desc>
-  </programme>
-  <programme start="20260724155000 +0000" stop="20260724164500 +0000" channel="AXN.br">
-    <title>Criminal Minds</title>
-    <desc>S12 E5 — The Anti-Terror Squad
-A equipe BAU investiga um caso de bullying que pode ser a ligação entre dois estudantes colegiais, os únicos sobreviventes após as mortes de seus familiares.</desc>
-  </programme>
-  <programme start="20260724164500 +0000" stop="20260724174000 +0000" channel="AXN.br">
-    <title>Criminal Minds</title>
-    <desc>S12 E6 — Elliott&apos;s Pond
-Três crianças desaparecem enquanto andam com suas bicicletas num mesmo caminho que foi palco de um caso similar de sumiço ocorrido 30 anos antes, levando a equipe BAU a investigar o caso.</desc>
-  </programme>
-  <programme start="20260724174000 +0000" stop="20260724183000 +0000" channel="AXN.br">
-    <title>Criminal Minds</title>
-    <desc>S12 E7 — Mirror Image
-A equipe abre uma investigação quando um homem que acredita ser o irmão da Dra. Tara Lewis chega à cidade. Ao mesmo tempo, ela não consegue entrar em contato com seu verdadeiro irmão.</desc>
-  </programme>
-  <programme start="20260724183000 +0000" stop="20260724192000 +0000" channel="AXN.br">
-    <title>CSI: Miami</title>
-    <desc>S10 E2 — Stiff
-A descoberta de uma arma usada em um assassinato leva a equipe de CSI para o mundo dos gigolôs de Miami.</desc>
-  </programme>
-  <programme start="20260724192000 +0000" stop="20260724201000 +0000" channel="AXN.br">
-    <title>CSI: Miami</title>
-    <desc>S10 E3 — Blown Away
-Ryan e Walter correm perigo quando um tornado atravessa uma cena de assassinato e danifica evidências do crime.</desc>
-  </programme>
-  <programme start="20260724201000 +0000" stop="20260724210000 +0000" channel="AXN.br">
-    <title>CSI: Miami</title>
-    <desc>S10 E4 — Look Who&apos;s Taunting
-The team pursues a killer who takes the eyes from victims; a new adversary challenges Horatio.</desc>
-  </programme>
-  <programme start="20260724210000 +0000" stop="20260724215000 +0000" channel="AXN.br">
-    <title>Hawaii Five-0</title>
-    <desc>S5 E21 — Ua helele&apos;i ka hoku
-Um artista é morto e roubado em uma convenção de sósias de Elvis Presley. Logo se descobre que os criminosos estavam atrás dos diamantes que foram costurados na roupa da vítima.</desc>
-  </programme>
-  <programme start="20260724215000 +0000" stop="20260724224000 +0000" channel="AXN.br">
-    <title>Hawaii Five-0</title>
-    <desc>S5 E22 — Ho&apos;amoano
-Uma mulher é encontrada morta em uma suíte de hotel ocupada por três homens casados, o que leva a equipe a ajudá-los a relembrar os eventos da noite anterior. Enquanto isso, Jerry testemunha o sequestro de uma mulher nas ruas de O&apos;ahu.</desc>
-  </programme>
-  <programme start="20260724224000 +0000" stop="20260724233000 +0000" channel="AXN.br">
-    <title>S.W.A.T.</title>
-    <desc>S4 E5 — Fracture
-Chris se prepara para encarar Street e Tan na Competição Master Gunner; a S.W.A.T. persegue um bombardeiro que vem enviando pacotes mortais por meio de um aplicativo.</desc>
-  </programme>
-  <programme start="20260724233000 +0000" stop="20260725002000 +0000" channel="AXN.br">
-    <title>S.W.A.T.</title>
-    <desc>S4 E6 — Hopeless Sinner
-Chris tenta resgatar jovem da seita liderada por um pastor; a tensão entre Hondo e Leroy aumenta.</desc>
-  </programme>
-  <programme start="20260725002000 +0000" stop="20260725011000 +0000" channel="AXN.br">
-    <title>Hudson &amp; Rex</title>
-    <desc>S4 E3 — Rex Marks the Spot
-Após um jornalista ser assassinado enquanto procurava um tesouro pirata enterrado, Charlie e Rex mergulham no competitivo mundo dos caçadores de tesouros para desvendar o mistério e encontrar o assassino.</desc>
-  </programme>
-  <programme start="20260725011000 +0000" stop="20260725020000 +0000" channel="AXN.br">
-    <title>Hudson &amp; Rex</title>
-    <desc>S4 E4 — Leader of the Pack
-Sarah parte em uma aventura. Charlie e Rex investigam o assassinato de um professor universitário.</desc>
-  </programme>
-  <programme start="20260725020000 +0000" stop="20260725025000 +0000" channel="AXN.br">
-    <title>Perícia Lab</title>
-    <desc>S2 E5 — Incêndio no Circo
-Um circo lotado pega fogo, causando a morte de 500 pessoas e deixando centenas de outras feridas.</desc>
-  </programme>
-  <programme start="20260725025000 +0000" stop="20260725034000 +0000" channel="AXN.br">
-    <title>Perícia Lab</title>
-    <desc>S2 E6 — Mistério da Madrugada
-Um menino de três anos desaparece misteriosamente durante a madrugada. Apenas sua mãe e seu padrasto estavam em casa. Ninguém sabe se alguém entrou na residência e sequestrou a criança ou ela saiu sozinha de casa.</desc>
-  </programme>
-  <programme start="20260725034000 +0000" stop="20260725043500 +0000" channel="AXN.br">
-    <title>Criminal Minds</title>
-    <desc>S12 E7 — Mirror Image
-A equipe abre uma investigação quando um homem que acredita ser o irmão da Dra. Tara Lewis chega à cidade. Ao mesmo tempo, ela não consegue entrar em contato com seu verdadeiro irmão.</desc>
-  </programme>
-  <programme start="20260725043500 +0000" stop="20260725053000 +0000" channel="AXN.br">
-    <title>Hudson &amp; Rex</title>
-    <desc>S4 E3 — Rex Marks the Spot
-Após um jornalista ser assassinado enquanto procurava um tesouro pirata enterrado, Charlie e Rex mergulham no competitivo mundo dos caçadores de tesouros para desvendar o mistério e encontrar o assassino.</desc>
-  </programme>
-  <programme start="20260725053000 +0000" stop="20260725062500 +0000" channel="AXN.br">
-    <title>Hudson &amp; Rex</title>
-    <desc>S4 E4 — Leader of the Pack
-Sarah parte em uma aventura. Charlie e Rex investigam o assassinato de um professor universitário.</desc>
-  </programme>
-  <programme start="20260725062500 +0000" stop="20260725072000 +0000" channel="AXN.br">
-    <title>NCIS</title>
-    <desc>S1 E2 — Hung Out to Dry
-Gibbs e os agentes investigam o caso de um fuzileiro morto em exercício de treinamento com paraquedas; Gibbs precisa conseguir mandados de busca com o Tenente Roberts para comprovar sua tese sobre o incidente.</desc>
-  </programme>
-  <programme start="20260725072000 +0000" stop="20260725081000 +0000" channel="AXN.br">
-    <title>NCIS</title>
-    <desc>S1 E3 — Sea Dog
-A equipe NCIS realiza uma investigação na praia, onde o corpo de um oficial da Marinha foi encontrado com os corpos de dois traficantes de drogas.</desc>
-  </programme>
-  <programme start="20260725081000 +0000" stop="20260725090000 +0000" channel="AXN.br">
-    <title>NCIS</title>
-    <desc>S1 E4 — The Immortals
-A equipe investiga a morte de um marinheiro, encontrado segurando a espada de um oficial e descobre que ele estava obcecado com um importante jogo.</desc>
-  </programme>
-  <programme start="20260725090000 +0000" stop="20260725095000 +0000" channel="AXN.br">
-    <title>CSI: NY</title>
-    <desc>S6 E21 — Unusual Suspects
-Mac está determinado a buscar justiça quando um menino de 14 anos é baleado na frente do irmão de 12 anos.</desc>
-  </programme>
-  <programme start="20260725095000 +0000" stop="20260725104000 +0000" channel="AXN.br">
-    <title>CSI: NY</title>
-    <desc>S6 E20 — Tales From the Undercard
-Depois de encontrar o corpo de um boxeador aposentado sob o concreto de uma construção, a equipe de Mac Taylor tem de investigar um grupo secreto de lutadores.</desc>
-  </programme>
-  <programme start="20260725104000 +0000" stop="20260725113000 +0000" channel="AXN.br">
-    <title>CSI: NY</title>
-    <desc>S6 E22 — Point of View
-Mac se recupera em casa de um ferimento e vê um comportamento misterioso que leva a um assassinato.</desc>
-  </programme>
-  <programme start="20260725113000 +0000" stop="20260725122000 +0000" channel="AXN.br">
-    <title>CSI: NY</title>
-    <desc>S6 E23 — Vacation Getaway
-A equipe CSI teme que o criminoso condenado Shane Casey esteja tentando atacar Danny enquanto ele passa o feriado com Lindsay e a filha pequena.</desc>
-  </programme>
-  <programme start="20260725122000 +0000" stop="20260725131000 +0000" channel="AXN.br">
-    <title>CSI: NY</title>
-    <desc>S7 E1 — The 34th Floor
-A ex-agente do FBI Jo Danville se junta à equipe e em seu primeiro dia de trabalho encontra um corpo no laboratório. Lindsay recebe uma medalha por bravura.</desc>
-  </programme>
-  <programme start="20260725131000 +0000" stop="20260725140000 +0000" channel="AXN.br">
-    <title>NCIS: Hawai&apos;i</title>
-    <desc>S1 E2 — Boom
-O NCIS deve derrubar a notável equipe de ladrões internacionais que usa explosivos da Segunda Guerra em carros-fortes, antes que ela conclua sua última missão e desapareça.</desc>
-  </programme>
-  <programme start="20260725140000 +0000" stop="20260725145500 +0000" channel="AXN.br">
-    <title>NCIS: Hawai&apos;i</title>
-    <desc>S1 E3 — Recruiter
-Um suboficial, que tenta ajudar jovens rebeldes a encontrar um novo caminho na Marinha, é assassinado; Kai se infiltra em uma das mais antigas gangues de surfe do Havaí.</desc>
-  </programme>
-  <programme start="20260725145500 +0000" stop="20260725155000 +0000" channel="AXN.br">
-    <title>CSI: Miami</title>
-    <desc>S7 E15 — Presumed Guilty
-A equipe do CSI está enfrentado problemas um advogado de defesa que poderia estar envolvido na conspiração de um assassinato.</desc>
-  </programme>
-  <programme start="20260725155000 +0000" stop="20260725164500 +0000" channel="AXN.br">
-    <title>CSI: Miami</title>
-    <desc>S7 E16 — Sink or Swim
-O futuro de Delko como parte da equipe CSI fica ameaçado quando piratas atacam um iate de luxo; o romance de Calleigh e Delko avança.</desc>
-  </programme>
-  <programme start="20260725164500 +0000" stop="20260725174000 +0000" channel="AXN.br">
-    <title>CSI: Miami</title>
-    <desc>S7 E17 — Divorce Party
-A equipe CSI faz uma descoberta chocante sobre um caso de assassinato; Horatio tenta salvar seu filho da influência negativa de Julia.</desc>
-  </programme>
-  <programme start="20260725174000 +0000" stop="20260725183500 +0000" channel="AXN.br">
-    <title>CSI: Miami</title>
-    <desc>S7 E18 — Flight Risk
-O CIS analisa o mundo decadente das viagens aéreas quando um comissário de bordo é brutalmente assassinado. Com um piloto, um agente e um penetra no cenário, a equipe faz de tudo para descobrir quem cometeu o crime.</desc>
-  </programme>
-  <programme start="20260725183500 +0000" stop="20260725193000 +0000" channel="AXN.br">
-    <title>CSI: Miami</title>
-    <desc>S7 E19 — Target Specific
-Uma invasão domiciliar acaba se tornando em algo muito mais sério quando a equipe descobre que a máfia russa está mirando o grupo.</desc>
-  </programme>
-  <programme start="20260725193000 +0000" stop="20260725202500 +0000" channel="AXN.br">
-    <title>CSI: Miami</title>
-    <desc>S7 E20 — Wolfe in Sheep&apos;s Clothing
-Ryan é forçado a interferir em uma investigação de assassinato pelos gângsteres russos que o sequestraram, traindo Horácio e a equipe.</desc>
-  </programme>
-  <programme start="20260725202500 +0000" stop="20260725212000 +0000" channel="AXN.br">
-    <title>CSI: Miami</title>
-    <desc>S7 E21 — Chip/Tuck
-A equipe do CSI é chamada para uma cena horrível de assassinato quando um homem é empurrado para num triturador de madeira. Em todos os lugares, Horácio encontra rostos desagradáveis do passado.</desc>
-  </programme>
-  <programme start="20260725212000 +0000" stop="20260725221500 +0000" channel="AXN.br">
-    <title>CSI: Miami</title>
-    <desc>S7 E22 — Dead on Arrival
-O assassinato de uma estrela leva a equipe CSI ao mundo dos programas de namoro da televisão.</desc>
-  </programme>
-  <programme start="20260725221500 +0000" stop="20260725231000 +0000" channel="AXN.br">
-    <title>CSI: Miami</title>
-    <desc>S7 E23 — Collateral Damage
-Uma família aparentemente normal é alvo de um ataque brutal com granadas, deixando a equipe e Horácio tentando entender o porquê.</desc>
-  </programme>
-  <programme start="20260725231000 +0000" stop="20260726000000 +0000" channel="AXN.br">
-    <title>NCIS</title>
-    <desc>S23 E3 — The Sound and the Fury
-A morte de um suboficial está ligada a uma investigação de chantagem, e a equipe é forçada a trabalhar com o Agente Especial Sawyer no caso, que toma um rumo aterrorizante para Torres.</desc>
-  </programme>
-
+  
 
 
     
