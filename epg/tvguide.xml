@@ -1,18 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+    <channel id="Arte1.br">
+        <display-name lang="pt">ARTE1</display-name>
+    </channel>    
     <channel id="AXN.br">
         <display-name lang="pt">AXN HD</display-name>
     </channel>
-    <channel id="Arte1.br">
-        <display-name lang="pt">ARTE1</display-name>
+    <channel id="BandSports.br">
+        <display-name lang="pt">BAND SPORT</display-name>
     </channel>
-    <channel id="BandNews.br">
+    <channel id="Bandnews HD.br">
         <display-name lang="pt">BAND NEWS</display-name>
     </channel>
+     <channel id="Box Kids.br">
+        <display-name lang="pt">BOX KIDS</display-name>
+    </channel>   
+     <channel id="Canal Educaçao.br">
+        <display-name lang="pt">CANAL EDUCAÇÃO</display-name>
+    </channel>   
+     <channel id="CanalBrasil.br">
+        <display-name lang="pt">CANAL BRASIL</display-name>
+    </channel>   
+     <channel id="Combate.br">
+        <display-name lang="pt">COMBATE</display-name>
+    </channel>       
+     <channel id="ComedyCentral.br">
+        <display-name lang="pt">COMEDY CENTRAL</display-name>
+    </channel>  
+     <channel id="Futura.br">
+        <display-name lang="pt">CANAL FUTURA</display-name>
+    </channel> 
+     <channel id="GloboNews.br">
+        <display-name lang="pt">GLOBO NEWS</display-name>
+    </channel> 
+     <channel id="Gloobinho.br">
+        <display-name lang="pt">GLOOBINHO</display-name>
+    </channel> 
+     <channel id="HistoryChannel.br">
+        <display-name lang="pt">HISTORY</display-name>
+    </channel> 
+     <channel id="SonyChannel.br">
+        <display-name lang="pt">SONY CHANNEL</display-name>
+    </channel> 
+     <channel id="SONY Movies.br">
+        <display-name lang="pt">SONY MOVIES</display-name>
+    </channel> 
+     <channel id="TravelBoxBrazil.br">
+        <display-name lang="pt">TRACE BRASIL</display-name>
+    </channel> 
+
+
+
+
 
     
-
-
     
 <programme start="20260722233000 +0000" stop="20260723002000 +0000" channel="AXN.br">
     <title>S.W.A.T.</title>
