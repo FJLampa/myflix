@@ -6,7 +6,11 @@
     <channel id="Arte1.br">
         <display-name lang="pt">ARTE1</display-name>
     </channel>
+    <channel id="BandNews.br">
+        <display-name lang="pt">BAND NEWS</display-name>
+    </channel>
 
+    
 
 
     
@@ -899,6 +903,368 @@ Série documental faz um mergulho nos bastidores do teatro brasileiro. Grupos te
   </programme>
   
 
+    
+
+  <programme start="20260722223000 +0000" stop="20260722233000 +0000" channel="BandNews.br">
+    <title>Jornal BandNews</title>
+    <desc>News
+As principais notícias do Brasil e do mundo, trânsito, previsão do tempo e prestação de serviço.</desc>
+  </programme>
+  <programme start="20260722233000 +0000" stop="20260723003000 +0000" channel="BandNews.br">
+    <title>Jornal da Band</title>
+    <desc>News
+Os principais fatos do Brasil e do mundo relatados com imparcialidade e profundidade.</desc>
+  </programme>
+  <programme start="20260723003000 +0000" stop="20260723020000 +0000" channel="BandNews.br">
+    <title>Edição da Noite</title>
+    <desc>News
+Tudo o que foi notícia e a análise dos principais fatos do dia.</desc>
+  </programme>
+  <programme start="20260723020000 +0000" stop="20260723023000 +0000" channel="BandNews.br">
+    <title>Viver Melhor</title>
+    <desc>Health
+Autoridades, gestores da área da saúde e grandes médicos tratam de temas de interesse público.</desc>
+  </programme>
+  <programme start="20260723023000 +0000" stop="20260723030000 +0000" channel="BandNews.br">
+    <title>Ponto a Ponto</title>
+    <desc>Public affairs
+A partir de dados de pesquisas, o programa fomenta debates que ajudam a entender a política no país.</desc>
+  </programme>
+  <programme start="20260723030000 +0000" stop="20260723050000 +0000" channel="BandNews.br">
+    <title>Madrugada BandNews</title>
+    <desc>News
+Acompanhe o noticiário atualizado com as principais informações a cada 30 minutos.</desc>
+  </programme>
+  <programme start="20260723050000 +0000" stop="20260723054500 +0000" channel="BandNews.br">
+    <title>Jornal da Noite</title>
+    <desc>News
+Acompanhe diariamente notícias do país e do mundo.</desc>
+  </programme>
+  <programme start="20260723054500 +0000" stop="20260723060000 +0000" channel="BandNews.br">
+    <title>Madrugada BandNews</title>
+    <desc>News
+Acompanhe o noticiário atualizado com as principais informações a cada 30 minutos.</desc>
+  </programme>
+  <programme start="20260723060000 +0000" stop="20260723063000 +0000" channel="BandNews.br">
+    <title>Jornal Terraviva</title>
+    <desc>News
+Um telejornal dedicado ao agronegócio brasileiro, apresentando os principais fatos do dia do setor agropecuário, as notícias atualizadas, a previsão do tempo, boletins ao vivo dos principais eventos e leilões que acontecem no país.</desc>
+  </programme>
+  <programme start="20260723063000 +0000" stop="20260723070000 +0000" channel="BandNews.br">
+    <title>Ponto a Ponto</title>
+    <desc>Public affairs
+A partir de dados de pesquisas, o programa fomenta debates que ajudam a entender a política no país.</desc>
+  </programme>
+  <programme start="20260723070000 +0000" stop="20260723090000 +0000" channel="BandNews.br">
+    <title>1º Jornal</title>
+    <desc>News
+Acompanhe as principais notícias do Brasil e do mundo, com agilidade e prestação de serviços, deixando o telespectador bem informado logo nas primeiras horas da manhã.</desc>
+  </programme>
+  <programme start="20260723090000 +0000" stop="20260723110000 +0000" channel="BandNews.br">
+    <title>Jornal BandNews</title>
+    <desc>News
+As principais notícias do Brasil e do mundo, trânsito, previsão do tempo e prestação de serviço.</desc>
+  </programme>
+  <programme start="20260723110000 +0000" stop="20260723123000 +0000" channel="BandNews.br">
+    <title>Jornal Gente</title>
+    <desc>News
+As principais notícias do Brasil e do mundo, com fatos importantes para se informar a cada dia.</desc>
+  </programme>
+  <programme start="20260723123000 +0000" stop="20260723130000 +0000" channel="BandNews.br">
+    <title>Radar BandNews</title>
+    <desc>News
+As notícias mais importantes do dia que estão no radar do brasileiro.</desc>
+  </programme>
+  <programme start="20260723130000 +0000" stop="20260723150000 +0000" channel="BandNews.br">
+    <title>Manhã BandNews</title>
+    <desc>News
+Acompanhe a atualização das notícias da manhã e tudo o que é importante para se manter antenado ao longo do dia.</desc>
+  </programme>
+  <programme start="20260723150000 +0000" stop="20260723170000 +0000" channel="BandNews.br">
+    <title>BandNews no Meio do Dia</title>
+    <desc>News
+Fique por dentro dos fatos mais importantes com participação de entrevistados e comentaristas.</desc>
+  </programme>
+  <programme start="20260723170000 +0000" stop="20260723190000 +0000" channel="BandNews.br">
+    <title>Tarde BandNews</title>
+    <desc>News
+Acompanhe as principais notícias do Brasil e do mundo. Coberturas ao vivo e a participação de repórteres espalhados por todo o país e pelo exterior.</desc>
+  </programme>
+  <programme start="20260723190000 +0000" stop="20260723200000 +0000" channel="BandNews.br">
+    <title>Entre Nós</title>
+    <desc>News
+Atração jornalística com notícias de destaque e com formato inovador, transmitida simultaneamente de dois estúdios diferentes, um da rádio e um de TV.</desc>
+  </programme>
+  <programme start="20260723200000 +0000" stop="20260723210000 +0000" channel="BandNews.br">
+    <title>Expresso BandNews</title>
+    <desc>Special
+Fique por dentro das principais notícias do dia de forma rápida e dinâmica.</desc>
+  </programme>
+  <programme start="20260723210000 +0000" stop="20260723223000 +0000" channel="BandNews.br">
+    <title>O É da Coisa</title>
+    <desc>Politics
+O jornalista Reinaldo Azevedo comenta as principais notícias do momento, com opiniões, polêmica e motivação para pensar a respeito dos acontecimentos destaques no Brasil e no mundo.</desc>
+  </programme>
+  <programme start="20260723223000 +0000" stop="20260723233000 +0000" channel="BandNews.br">
+    <title>Jornal BandNews</title>
+    <desc>News
+As principais notícias do Brasil e do mundo, trânsito, previsão do tempo e prestação de serviço.</desc>
+  </programme>
+  <programme start="20260723233000 +0000" stop="20260724003000 +0000" channel="BandNews.br">
+    <title>Jornal da Band</title>
+    <desc>News
+Os principais fatos do Brasil e do mundo relatados com imparcialidade e profundidade.</desc>
+  </programme>
+  <programme start="20260724003000 +0000" stop="20260724020000 +0000" channel="BandNews.br">
+    <title>Edição da Noite</title>
+    <desc>News
+Tudo o que foi notícia e a análise dos principais fatos do dia.</desc>
+  </programme>
+  <programme start="20260724020000 +0000" stop="20260724023000 +0000" channel="BandNews.br">
+    <title>Economia pra Você</title>
+    <desc>Bus./financial
+Saiba tudo, e de forma simples, sobre os principais assuntos que mexem com a economia brasileira.</desc>
+  </programme>
+  <programme start="20260724023000 +0000" stop="20260724030000 +0000" channel="BandNews.br">
+    <title>Show Business</title>
+    <desc>Interview
+Acompanhe entrevistas com personalidades do mundo empresarial, politico e cultural. Economia, negócios e administração pública são os temas principais abordados.</desc>
+  </programme>
+  <programme start="20260724030000 +0000" stop="20260724050000 +0000" channel="BandNews.br">
+    <title>Madrugada BandNews</title>
+    <desc>News
+Acompanhe o noticiário atualizado com as principais informações a cada 30 minutos.</desc>
+  </programme>
+  <programme start="20260724050000 +0000" stop="20260724054500 +0000" channel="BandNews.br">
+    <title>Jornal da Noite</title>
+    <desc>News
+Acompanhe diariamente notícias do país e do mundo.</desc>
+  </programme>
+  <programme start="20260724054500 +0000" stop="20260724060000 +0000" channel="BandNews.br">
+    <title>Madrugada BandNews</title>
+    <desc>News
+Acompanhe o noticiário atualizado com as principais informações a cada 30 minutos.</desc>
+  </programme>
+  <programme start="20260724060000 +0000" stop="20260724063000 +0000" channel="BandNews.br">
+    <title>Jornal Terraviva</title>
+    <desc>News
+Um telejornal dedicado ao agronegócio brasileiro, apresentando os principais fatos do dia do setor agropecuário, as notícias atualizadas, a previsão do tempo, boletins ao vivo dos principais eventos e leilões que acontecem no país.</desc>
+  </programme>
+  <programme start="20260724063000 +0000" stop="20260724070000 +0000" channel="BandNews.br">
+    <title>Economia pra Você</title>
+    <desc>Bus./financial
+Saiba tudo, e de forma simples, sobre os principais assuntos que mexem com a economia brasileira.</desc>
+  </programme>
+  <programme start="20260724070000 +0000" stop="20260724090000 +0000" channel="BandNews.br">
+    <title>1º Jornal</title>
+    <desc>News
+Acompanhe as principais notícias do Brasil e do mundo, com agilidade e prestação de serviços, deixando o telespectador bem informado logo nas primeiras horas da manhã.</desc>
+  </programme>
+  <programme start="20260724090000 +0000" stop="20260724110000 +0000" channel="BandNews.br">
+    <title>Jornal BandNews</title>
+    <desc>News
+As principais notícias do Brasil e do mundo, trânsito, previsão do tempo e prestação de serviço.</desc>
+  </programme>
+  <programme start="20260724110000 +0000" stop="20260724123000 +0000" channel="BandNews.br">
+    <title>Jornal Gente</title>
+    <desc>News
+As principais notícias do Brasil e do mundo, com fatos importantes para se informar a cada dia.</desc>
+  </programme>
+  <programme start="20260724123000 +0000" stop="20260724130000 +0000" channel="BandNews.br">
+    <title>Radar BandNews</title>
+    <desc>News
+As notícias mais importantes do dia que estão no radar do brasileiro.</desc>
+  </programme>
+  <programme start="20260724130000 +0000" stop="20260724150000 +0000" channel="BandNews.br">
+    <title>Manhã BandNews</title>
+    <desc>News
+Acompanhe a atualização das notícias da manhã e tudo o que é importante para se manter antenado ao longo do dia.</desc>
+  </programme>
+  <programme start="20260724150000 +0000" stop="20260724170000 +0000" channel="BandNews.br">
+    <title>BandNews no Meio do Dia</title>
+    <desc>News
+Fique por dentro dos fatos mais importantes com participação de entrevistados e comentaristas.</desc>
+  </programme>
+  <programme start="20260724170000 +0000" stop="20260724190000 +0000" channel="BandNews.br">
+    <title>Tarde BandNews</title>
+    <desc>News
+Acompanhe as principais notícias do Brasil e do mundo. Coberturas ao vivo e a participação de repórteres espalhados por todo o país e pelo exterior.</desc>
+  </programme>
+  <programme start="20260724190000 +0000" stop="20260724200000 +0000" channel="BandNews.br">
+    <title>Entre Nós</title>
+    <desc>News
+Atração jornalística com notícias de destaque e com formato inovador, transmitida simultaneamente de dois estúdios diferentes, um da rádio e um de TV.</desc>
+  </programme>
+  <programme start="20260724200000 +0000" stop="20260724210000 +0000" channel="BandNews.br">
+    <title>Expresso BandNews</title>
+    <desc>Special
+Fique por dentro das principais notícias do dia de forma rápida e dinâmica.</desc>
+  </programme>
+  <programme start="20260724210000 +0000" stop="20260724223000 +0000" channel="BandNews.br">
+    <title>O É da Coisa</title>
+    <desc>Politics
+O jornalista Reinaldo Azevedo comenta as principais notícias do momento, com opiniões, polêmica e motivação para pensar a respeito dos acontecimentos destaques no Brasil e no mundo.</desc>
+  </programme>
+  <programme start="20260724223000 +0000" stop="20260724233000 +0000" channel="BandNews.br">
+    <title>Jornal BandNews</title>
+    <desc>News
+As principais notícias do Brasil e do mundo, trânsito, previsão do tempo e prestação de serviço.</desc>
+  </programme>
+  <programme start="20260724233000 +0000" stop="20260725003000 +0000" channel="BandNews.br">
+    <title>Jornal da Band</title>
+    <desc>News
+Os principais fatos do Brasil e do mundo relatados com imparcialidade e profundidade.</desc>
+  </programme>
+  <programme start="20260725003000 +0000" stop="20260725023000 +0000" channel="BandNews.br">
+    <title>Edição da Noite</title>
+    <desc>News
+Tudo o que foi notícia e a análise dos principais fatos do dia.</desc>
+  </programme>
+  <programme start="20260725023000 +0000" stop="20260725030000 +0000" channel="BandNews.br">
+    <title>BandNews Docs</title>
+    <desc>Documentary
+Acompanhe o programa que traz narrativas históricas sobre temas relevantes.</desc>
+  </programme>
+  <programme start="20260725030000 +0000" stop="20260725033000 +0000" channel="BandNews.br">
+    <title>Madrugada BandNews</title>
+    <desc>News
+Acompanhe o noticiário atualizado com as principais informações a cada 30 minutos.</desc>
+  </programme>
+  <programme start="20260725033000 +0000" stop="20260725041000 +0000" channel="BandNews.br">
+    <title>Fórum BandNews</title>
+    <desc>News
+Acompanhe discussões, debates e análises sobre temas importantes no dia a dia do brasileiro.</desc>
+  </programme>
+  <programme start="20260725041000 +0000" stop="20260725050000 +0000" channel="BandNews.br">
+    <title>Madrugada BandNews</title>
+    <desc>News
+Acompanhe o noticiário atualizado com as principais informações a cada 30 minutos.</desc>
+  </programme>
+  <programme start="20260725050000 +0000" stop="20260725054500 +0000" channel="BandNews.br">
+    <title>Jornal da Noite</title>
+    <desc>News
+Acompanhe diariamente notícias do país e do mundo.</desc>
+  </programme>
+  <programme start="20260725054500 +0000" stop="20260725060000 +0000" channel="BandNews.br">
+    <title>Madrugada BandNews</title>
+    <desc>News
+Acompanhe o noticiário atualizado com as principais informações a cada 30 minutos.</desc>
+  </programme>
+  <programme start="20260725060000 +0000" stop="20260725063000 +0000" channel="BandNews.br">
+    <title>Jornal Terraviva</title>
+    <desc>News
+Um telejornal dedicado ao agronegócio brasileiro, apresentando os principais fatos do dia do setor agropecuário, as notícias atualizadas, a previsão do tempo, boletins ao vivo dos principais eventos e leilões que acontecem no país.</desc>
+  </programme>
+  <programme start="20260725063000 +0000" stop="20260725070000 +0000" channel="BandNews.br">
+    <title>BandNews Docs</title>
+    <desc>Documentary
+Acompanhe o programa que traz narrativas históricas sobre temas relevantes.</desc>
+  </programme>
+  <programme start="20260725070000 +0000" stop="20260725090000 +0000" channel="BandNews.br">
+    <title>Madrugada BandNews</title>
+    <desc>News
+Acompanhe o noticiário atualizado com as principais informações a cada 30 minutos.</desc>
+  </programme>
+  <programme start="20260725090000 +0000" stop="20260725100000 +0000" channel="BandNews.br">
+    <title>Manhã BandNews</title>
+    <desc>News
+Acompanhe a atualização das notícias da manhã e tudo o que é importante para se manter antenado ao longo do dia.</desc>
+  </programme>
+  <programme start="20260725100000 +0000" stop="20260725103000 +0000" channel="BandNews.br">
+    <title>BandNews Docs</title>
+    <desc>Documentary
+Acompanhe o programa que traz narrativas históricas sobre temas relevantes.</desc>
+  </programme>
+  <programme start="20260725103000 +0000" stop="20260725110000 +0000" channel="BandNews.br">
+    <title>Manhã BandNews</title>
+    <desc>News
+Acompanhe a atualização das notícias da manhã e tudo o que é importante para se manter antenado ao longo do dia.</desc>
+  </programme>
+  <programme start="20260725110000 +0000" stop="20260725113000 +0000" channel="BandNews.br">
+    <title>Viver Melhor</title>
+    <desc>Health
+Autoridades, gestores da área da saúde e grandes médicos tratam de temas de interesse público.</desc>
+  </programme>
+  <programme start="20260725113000 +0000" stop="20260725130000 +0000" channel="BandNews.br">
+    <title>Manhã BandNews</title>
+    <desc>News
+Acompanhe a atualização das notícias da manhã e tudo o que é importante para se manter antenado ao longo do dia.</desc>
+  </programme>
+  <programme start="20260725130000 +0000" stop="20260725133000 +0000" channel="BandNews.br">
+    <title>Aqui Tem Vaga</title>
+    <desc>Self improvement
+Convidados especiais falam sobre carreira e mercado de trabalho, no intuito de informar, orientar e debater os temas de uma forma mais próxima ao público.</desc>
+  </programme>
+  <programme start="20260725133000 +0000" stop="20260725140000 +0000" channel="BandNews.br">
+    <title>Manhã BandNews</title>
+    <desc>News
+Acompanhe a atualização das notícias da manhã e tudo o que é importante para se manter antenado ao longo do dia.</desc>
+  </programme>
+  <programme start="20260725140000 +0000" stop="20260725143000 +0000" channel="BandNews.br">
+    <title>Ponto a Ponto</title>
+    <desc>Public affairs
+A partir de dados de pesquisas, o programa fomenta debates que ajudam a entender a política no país.</desc>
+  </programme>
+  <programme start="20260725143000 +0000" stop="20260725150000 +0000" channel="BandNews.br">
+    <title>Manhã BandNews</title>
+    <desc>News
+Acompanhe a atualização das notícias da manhã e tudo o que é importante para se manter antenado ao longo do dia.</desc>
+  </programme>
+  <programme start="20260725150000 +0000" stop="20260725153000 +0000" channel="BandNews.br">
+    <title>Capital &amp; Mercado</title>
+    <desc>Bus./financial
+O programa reúne os nomes mais importantes da economia brasileira para debater as questões centrais do país e do mundo. Ideias e propostas para ajudar na retomada do crescimento sustentado é um dos assuntos mais debatidos no espaço.</desc>
+  </programme>
+  <programme start="20260725153000 +0000" stop="20260725170000 +0000" channel="BandNews.br">
+    <title>Tarde BandNews</title>
+    <desc>News
+Acompanhe as principais notícias do Brasil e do mundo. Coberturas ao vivo e a participação de repórteres espalhados por todo o país e pelo exterior.</desc>
+  </programme>
+  <programme start="20260725170000 +0000" stop="20260725173000 +0000" channel="BandNews.br">
+    <title>Economia pra Você</title>
+    <desc>Bus./financial
+Saiba tudo, e de forma simples, sobre os principais assuntos que mexem com a economia brasileira.</desc>
+  </programme>
+  <programme start="20260725173000 +0000" stop="20260725190000 +0000" channel="BandNews.br">
+    <title>Tarde BandNews</title>
+    <desc>News
+Acompanhe as principais notícias do Brasil e do mundo. Coberturas ao vivo e a participação de repórteres espalhados por todo o país e pelo exterior.</desc>
+  </programme>
+  <programme start="20260725190000 +0000" stop="20260725193000 +0000" channel="BandNews.br">
+    <title>Show Business</title>
+    <desc>Interview
+Acompanhe entrevistas com personalidades do mundo empresarial, politico e cultural. Economia, negócios e administração pública são os temas principais abordados.</desc>
+  </programme>
+  <programme start="20260725193000 +0000" stop="20260725210000 +0000" channel="BandNews.br">
+    <title>Tarde BandNews</title>
+    <desc>News
+Acompanhe as principais notícias do Brasil e do mundo. Coberturas ao vivo e a participação de repórteres espalhados por todo o país e pelo exterior.</desc>
+  </programme>
+  <programme start="20260725210000 +0000" stop="20260725220000 +0000" channel="BandNews.br">
+    <title>Fim de Semana BandNews</title>
+    <desc>News
+Acompanhe a atualização das principais notícias do Brasil e do mundo para você ficar bem informado.</desc>
+  </programme>
+  <programme start="20260725220000 +0000" stop="20260725223000 +0000" channel="BandNews.br">
+    <title>BandNews Docs</title>
+    <desc>Documentary
+Acompanhe o programa que traz narrativas históricas sobre temas relevantes.</desc>
+  </programme>
+  <programme start="20260725223000 +0000" stop="20260725230000 +0000" channel="BandNews.br">
+    <title>Fim de Semana BandNews</title>
+    <desc>News
+Acompanhe a atualização das principais notícias do Brasil e do mundo para você ficar bem informado.</desc>
+  </programme>
+  <programme start="20260725230000 +0000" stop="20260725233000 +0000" channel="BandNews.br">
+    <title>Edição da Noite</title>
+    <desc>News
+Tudo o que foi notícia e a análise dos principais fatos do dia.</desc>
+  </programme>
+  <programme start="20260725233000 +0000" stop="20260726003000 +0000" channel="BandNews.br">
+    <title>Jornal da Band</title>
+    <desc>News
+Os principais fatos do Brasil e do mundo relatados com imparcialidade e profundidade.</desc>
+  </programme>
 
     
 
