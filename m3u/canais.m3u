@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="1000" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/axn.png" group-title="Série",AXN HD
 http://45.190.28.50/AXN_HD/index.m3u8
 
-#EXTINF:-1 tvg-id="1001" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/arte1.png" group-title="Todos",ARTE1
+#EXTINF:-1 tvg-id="Arte1.br" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/arte1.png" group-title="Todos",ARTE1
 http://45.162.64.114/ARTE1/index.m3u8
 
 #EXTINF:-1 tvg-id="1002" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/bandsport.png" group-title="Esportes",BAND SPORT
