@@ -1,0 +1,4125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv generator-info-name="Flampa EPG" source-info-name="Flampa IPTV">
+  <channel id="Sony.Movies.Brazil.br">
+    <display-name lang="pt">SONY MOVIES</display-name>
+  </channel>
+  <programme channel="Sony.Movies.Brazil.br" start="20260724041000 +0000" stop="20260724061000 +0000">
+    <title lang="pt">MIB: Homens de Preto - Internacional</title>
+    <desc lang="pt">Os agentes H e M usam armas de alta tecnologia para combaterem alienígenas que podem assumir a forma de qualquer ser humano.</desc>
+    <credits>
+      <actor>Chris Hemsworth</actor>
+      <actor>Tessa Thompson</actor>
+      <actor>Kumail Nanjiani</actor>
+      <director>F. Gary Gray</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Movie</category>
+    <category lang="pt">Science fiction</category>
+    <category lang="pt">Adventure</category>
+    <category lang="pt">Comedy</category>
+    <category lang="pt">Action</category>
+    <category lang="pt">Mystery</category>
+    <icon src="http://dtil.tmsimg.com/assets/p16357164_v_h10_ag.jpg?w=960&amp;h=540"/>
+    <previously-shown/>
+    <rating system="Motion Picture Association">
+      <value>PG-13</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Statens medieråd">
+      <value>Från 11 år</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating>
+    <rating system="Manitoba Film Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Saskatchewan Film and Video Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="B.C. Film Classification Office">
+      <value>PG</value>
+    </rating>
+    <rating system="Alberta's Film Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Ontario Film Authority">
+      <value>PG</value>
+    </rating>
+    <rating system="Maritime Film Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
+    <rating system="Consejo de Calificación Cinematográfica">
+      <value>TE</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>12</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>12</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="映倫">
+      <value>G</value>
+    </rating>
+    <rating system="Medierådet">
+      <value>11</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>7</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>12</value>
+    </rating>
+    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>ATP</value>
+    </rating>
+    <rating system="Central Board of Film Certification">
+      <value>U</value>
+    </rating>
+    <star-rating system="TMS">
+      <value>4.0/10</value>
+    </star-rating>
+  </programme>
+  <programme channel="Sony.Movies.Brazil.br" start="20260724061000 +0000" stop="20260724075500 +0000">
+    <title lang="pt">Resident Evil - Bem-Vindo a Raccoon City</title>
+    <desc lang="pt">Raccoon City já foi uma próspera cidade do Meio-Oeste, graças à gigante farmacêutica The Umbrella Corporation. Mas abaixo da superfície algo maligno se esconde. Após o êxodo da empresa, o mal é desencadeado nos habitantes desavisados da cidade.</desc>
+    <credits>
+      <actor>Kaya Scodelario</actor>
+      <actor>Hannah John-Kamen</actor>
+      <actor>Robbie Amell</actor>
+      <director>Johannes Roberts</director>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Movie</category>
+    <category lang="pt">Horror</category>
+    <category lang="pt">Action</category>
+    <icon src="http://dtil.tmsimg.com/assets/p19603659_v_h10_al.jpg?w=960&amp;h=540"/>
+    <previously-shown/>
+    <rating system="Motion Picture Association">
+      <value>R</value>
+    </rating>
+    <rating system="Alberta's Film Classification Board">
+      <value>18A</value>
+    </rating>
+    <rating system="Manitoba Film Classification Board">
+      <value>14A</value>
+    </rating>
+    <rating system="B.C. Film Classification Office">
+      <value>14A</value>
+    </rating>
+    <rating system="Saskatchewan Film and Video Classification Board">
+      <value>14A</value>
+    </rating>
+    <rating system="Ontario Film Authority">
+      <value>14A</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Maritime Film Classification Board">
+      <value>18</value>
+    </rating>
+    <rating system="映倫">
+      <value>PG12</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-12</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="영상물등급위원회">
+      <value>18+</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>15</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>18</value>
+    </rating>
+    <rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
+    <star-rating system="TMS">
+      <value>4.0/10</value>
+    </star-rating>
+  </programme>
+  <programme channel="Sony.Movies.Brazil.br" start="20260724075500 +0000" stop="20260724083500 +0000">
+    <title lang="en">Future Man</title>
+    <sub-title lang="en">There Will Be Borscht</sub-title>
+    <desc lang="pt">Josh confia na Voz; Wolf se satisfaz com o que sabe fazer de melhor e Tiger tenta se adaptar.</desc>
+    <credits>
+      <actor>Josh Hutcherson</actor>
+      <actor>Eliza Coupe</actor>
+      <actor>Derek Wilson</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Science fiction</category>
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Fantasy</category>
+    <icon src="http://dtil.tmsimg.com/assets/p14432013_b_h8_ae.jpg?w=960&amp;h=540"/>
+    <episode-num system="onscreen">S3 E2</episode-num>
+    <previously-shown/>
+    <rating system="Arcom">
+      <value>-12</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>C</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>18</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="Sony.Movies.Brazil.br" start="20260724083500 +0000" stop="20260724090000 +0000">
+    <title lang="en">Indebted</title>
+    <sub-title lang="en">Everybody's Talking About Neighbors</sub-title>
+    <desc lang="pt">Depois de perceber que Debbie e Stew estão forçando os vizinhos a socializar, Dave e Rebecca tentam convencê-los a ficarem na deles, insistindo que vizinhos deveriam ser apenas vizinhos.</desc>
+    <credits>
+      <actor>Adam Pally</actor>
+      <actor>Abby Elliott</actor>
+      <actor>Fran Drescher</actor>
+      <director>Phill Lewis</director>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <icon src="http://dtil.tmsimg.com/assets/p16935906_b_h8_ac.jpg?w=960&amp;h=540"/>
+    <episode-num system="onscreen">S1 E10</episode-num>
+    <previously-shown/>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+  </programme>
+  <programme channel="Sony.Movies.Brazil.br" start="20260724090000 +0000" stop="20260724103500 +0000">
+    <title lang="pt">Ace Ventura 2 - Um Maluco na África</title>
+    <desc lang="pt">O detetive de animais de estimação Ace Ventura sai do exílio voluntário em um esconderijo no Himalaia para investigar o desaparecimento de um raro morcego branco, animal sagrado e simbólico, necessário para manter a paz entre duas tribos africanas.</desc>
+    <credits>
+      <actor>Jim Carrey</actor>
+      <actor>Ian McNeice</actor>
+      <actor>Simon Callow</actor>
+      <director>Steve Oedekerk</director>
+    </credits>
+    <date>1995</date>
+    <category lang="pt">Movie</category>
+    <category lang="pt">Comedy</category>
+    <category lang="pt">Adventure</category>
+    <icon src="http://dtil.tmsimg.com/assets/p17379_v_h10_ax.jpg?w=960&amp;h=540"/>
+    <previously-shown/>
+    <rating system="Motion Picture Association">
+      <value>PG-13</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>A</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Ontario Film Authority">
+      <value>PG</value>
+    </rating>
+    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>SAM 13</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>6</value>
+    </rating>
+    <rating system="Statens medieråd">
+      <value>Från 11 år</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Medietilsynet">
+      <value>11 år</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>12</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>12</value>
+    </rating>
+    <rating system="영상물등급위원회">
+      <value>All</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating>
+    <star-rating system="TMS">
+      <value>4.0/10</value>
+    </star-rating>
+  </programme>
+  <programme channel="Sony.Movies.Brazil.br" start="20260724103500 +0000" stop="20260724110500 +0000">
+    <title lang="en">The Goldbergs</title>
+    <sub-title lang="en">Hanukkah on the Seas</sub-title>
+    <desc lang="pt">Pop-Pop deixa todos chocados ao se oferecer para pagar um cruzeiro em família; durante seu primeiro Hanukkah com os Schwartzes, Erica percebe que eles não são tão perfeitos quanto pareciam.</desc>
+    <credits>
+      <actor>Wendi McLendon-Covey</actor>
+      <actor>Patton Oswalt</actor>
+      <actor>Sean Giambrone</actor>
+      <director>Jason Blount</director>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Holiday</category>
+    <category lang="en">Sitcom</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9977319_b_h8_by.jpg?w=960&amp;h=540"/>
+    <episode-num system="onscreen">S8 E7</episode-num>
+    <previously-shown/>
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K7</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>6</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>6</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+  </programme>
+  <programme channel="Sony.Movies.Brazil.br" start="20260724110500 +0000" stop="20260724113500 +0000">
+    <title lang="en">The Goldbergs</title>
+    <sub-title lang="en">Bevy's Big Murder Mystery Party</sub-title>
+    <desc lang="pt">A primeira festa de assassinato misterioso de Beverly toma um rumo inesperado; Erica tem dificuldades para escolher um curso.</desc>
+    <credits>
+      <actor>Wendi McLendon-Covey</actor>
+      <actor>Patton Oswalt</actor>
+      <actor>Sean Giambrone</actor>
+      <director>Lew Schneider</director>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9977319_b_h8_by.jpg?w=960&amp;h=540"/>
+    <episode-num system="onscreen">S8 E8</episode-num>
+    <previously-shown/>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K7</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>6</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>6</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+  </programme>
+  <programme channel="Sony.Movies.Brazil.br" start="20260724113500 +0000" stop="20260724120500 +0000">
+    <title lang="en">Indebted</title>
+    <sub-title lang="en">Everybody's Talking About Neighbors</sub-title>
+    <desc lang="pt">Depois de perceber que Debbie e Stew estão forçando os vizinhos a socializar, Dave e Rebecca tentam convencê-los a ficarem na deles, insistindo que vizinhos deveriam ser apenas vizinhos.</desc>
+    <credits>
+      <actor>Adam Pally</actor>
+      <actor>Abby Elliott</actor>
+      <actor>Fran Drescher</actor>
+      <director>Phill Lewis</director>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <icon src="http://dtil.tmsimg.com/assets/p16935906_b_h8_ac.jpg?w=960&amp;h=540"/>
+    <episode-num system="onscreen">S1 E10</episode-num>
+    <previously-shown/>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+  </programme>
+  <programme channel="Sony.Movies.Brazil.br" start="20260724120500 +0000" stop="20260724134000 +0000">
+    <title lang="pt">Anaconda 4</title>
+    <desc lang="pt">Uma anaconda é cortada ao meio e se transforma em duas criaturas mortais, deixando um rastro de sangue, morte e terror.</desc>
+    <credits>
+      <actor>Crystal Allen</actor>
+      <actor>John Rhys-Davies</actor>
+      <actor>Linden Ashby</actor>
+      <director>Don E. FauntLeRoy</director>
+    </credits>
+    <date>2009</date>
+    <category lang="pt">Movie</category>
+    <category lang="pt">Horror</category>
+    <category lang="pt">Thriller</category>
+    <category lang="pt">Action</category>
+    <icon src="http://dtil.tmsimg.com/assets/p194857_v_h10_ac.jpg?w=960&amp;h=540"/>
+    <previously-shown/>
+    <rating system="Motion Picture Association">
+      <value>R</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-12</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>C</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Central Board of Film Certification">
+      <value>UA</value>
+    </rating>
+    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>SAM 13</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
+  </programme>
+  <programme channel="Sony.Movies.Brazil.br" start="20260724134000 +0000" stop="20260724151500 +0000">
+    <title lang="pt">Pedro Coelho 2 - O Fugitivo</title>
+    <desc lang="pt">Bea, Thomas e os coelhos estão felizes em sua nova família improvisada, mas Pedro não consegue se encaixar. Assim, ele decide viver aventuras longe de casa e parte para conhecer o mundo.</desc>
+    <credits>
+      <actor>James Corden</actor>
+      <actor>Rose Byrne</actor>
+      <actor>Domhnall Gleeson</actor>
+      <director>Will Gluck</director>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Movie</category>
+    <category lang="pt">Children</category>
+    <category lang="pt">Comedy</category>
+    <category lang="pt">Fantasy</category>
+    <category lang="pt">Adventure</category>
+    <category lang="pt">Animated</category>
+    <icon src="http://dtil.tmsimg.com/assets/p15524435_v_h10_au.jpg?w=960&amp;h=540"/>
+    <previously-shown/>
+    <rating system="Motion Picture Association">
+      <value>PG</value>
+    </rating>
+    <rating system="Statens medieråd">
+      <value>Från 7 år</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>0</value>
+    </rating>
+    <rating system="Alberta's Film Classification Board">
+      <value>G</value>
+    </rating>
+    <rating system="B.C. Film Classification Office">
+      <value>G</value>
+    </rating>
+    <rating system="Saskatchewan Film and Video Classification Board">
+      <value>G</value>
+    </rating>
+    <rating system="Ontario Film Authority">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K7</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>A</value>
+    </rating>
+    <rating system="Medierådet">
+      <value>A</value>
+    </rating>
+    <rating system="映倫">
+      <value>G</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>G</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>U</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>U</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>6</value>
+    </rating>
+    <rating system="Ministero della Cultura">
+      <value>T</value>
+    </rating>
+    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>ATP</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>7</value>
+    </rating>
+    <rating system="Central Board of Film Certification">
+      <value>U</value>
+    </rating>
+    <star-rating system="TMS">
+      <value>5.0/10</value>
+    </star-rating>
+  </programme>
+  <programme channel="Sony.Movies.Brazil.br" start="20260724151500 +0000" stop="20260724171000 +0000">
+    <title lang="en">Missing</title>
+    <desc lang="pt">A mãe de Jube desaparece durante as férias na Colômbia com o novo namorado, e sua busca por respostas acaba dificultada pela burocracia internacional. Presa a milhares de quilômetros de distância em Los Angeles, June usa criativamente toda a tecnologia mais recente ao seu alcance para tentar encontrá-la antes que seja tarde demais. No entanto, à medida que ela se aprofunda, sua investigação digital logo levanta mais perguntas do que respostas.</desc>
+    <credits>
+      <actor>Storm Reid</actor>
+      <actor>Joaquim de Almeida</actor>
+      <actor>Ken Leung</actor>
+      <director>Will Merrick</director>
+      <director>Nick Johnson</director>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Mystery</category>
+    <icon src="http://dtil.tmsimg.com/assets/p23122703_v_h8_ae.jpg?w=960&amp;h=540"/>
+    <previously-shown/>
+    <rating system="Motion Picture Association">
+      <value>PG-13</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating>
+    <rating system="Alberta's Film Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating>
+    <rating system="영상물등급위원회">
+      <value>12+</value>
+    </rating>
+    <rating system="Medierådet">
+      <value>11</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="映倫">
+      <value>PG12</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>12</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>15</value>
+    </rating>
+    <rating system="Central Board of Film Certification">
+      <value>UA</value>
+    </rating>
+    <rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>12</value>
+    </rating>
+    <rating system="Statens medieråd">
+      <value>Från 11 år</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <star-rating system="TMS">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme channel="Sony.Movies.Brazil.br" start="20260724171000 +0000" stop="20260724190000 +0000">
+    <title lang="en">Jumanji</title>
+    <desc lang="pt">Alan Parrish desapareceu quando era menino e ninguém acredita na história de seu amigo de que ele foi sugado por um jogo de tabuleiro. Vinte e seis anos depois, duas crianças acham o jogo no sótão e, quando começam a jogar, Alan é liberto. Mas a disputa ainda não acabou e Alan precisa terminar antes de ser realmente solto.</desc>
+    <credits>
+      <actor>Robin Williams</actor>
+      <actor>Jonathan Hyde</actor>
+      <actor>Kirsten Dunst</actor>
+      <director>Joe Johnston</director>
+    </credits>
+    <date>1995</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Family</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Comedy</category>
+    <icon src="http://dtil.tmsimg.com/assets/p17458_v_h8_aa.jpg?w=960&amp;h=540"/>
+    <previously-shown/>
+    <rating system="Motion Picture Association">
+      <value>PG</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>PG</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>PG</value>
+    </rating>
+    <rating system="B.C. Film Classification Office">
+      <value>PG</value>
+    </rating>
+    <rating system="Saskatchewan Film and Video Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>10</value>
+    </rating>
+    <rating system="Ontario Film Authority">
+      <value>PG</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Film &amp; Publication Board">
+      <value>13</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>ATP</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Statens medieråd">
+      <value>Från 11 år</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>A</value>
+    </rating>
+    <rating system="영상물등급위원회">
+      <value>12+</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+    <rating system="Ministero della Cultura">
+      <value>T</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>12</value>
+    </rating>
+    <rating system="Central Board of Film Certification">
+      <value>UA</value>
+    </rating>
+    <rating system="Alberta's Film Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Medietilsynet">
+      <value>11 år</value>
+    </rating>
+    <star-rating system="TMS">
+      <value>5.0/10</value>
+    </star-rating>
+  </programme>
+  <programme channel="Sony.Movies.Brazil.br" start="20260724190000 +0000" stop="20260724204000 +0000">
+    <title lang="pt">Segurança de Shopping</title>
+    <desc lang="pt">Paul leva seu emprego de segurança de shopping muito a sério, embora a maioria de seus colegas não faça o mesmo. Quando o shopping é assaltado, o segurança precisa usar todas as suas habilidades para combater o crime.</desc>
+    <credits>
+      <actor>Kevin James</actor>
+      <actor>Jayma Mays</actor>
+      <actor>Keir O'Donnell</actor>
+      <director>Steve Carr</director>
+    </credits>
+    <date>2009</date>
+    <category lang="pt">Movie</category>
+    <category lang="pt">Comedy</category>
+    <category lang="pt">Action</category>
+    <category lang="pt">Adventure</category>
+    <icon src="http://dtil.tmsimg.com/assets/p180519_v_h8_al.jpg?w=960&amp;h=540"/>
+    <previously-shown/>
+    <rating system="Motion Picture Association">
+      <value>PG</value>
+    </rating>
+    <rating system="Manitoba Film Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Ontario Film Authority">
+      <value>PG</value>
+    </rating>
+    <rating system="B.C. Film Classification Office">
+      <value>PG</value>
+    </rating>
+    <rating system="Saskatchewan Film and Video Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Maritime Film Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Alberta's Film Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>PG</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>PG</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>10</value>
+    </rating>
+    <rating system="Film &amp; Publication Board">
+      <value>13</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>6</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>ATP</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>A</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Statens medieråd">
+      <value>Från 7 år</value>
+    </rating>
+    <rating system="映倫">
+      <value>G</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+    <rating system="영상물등급위원회">
+      <value>All</value>
+    </rating>
+    <rating system="Medierådet">
+      <value>7</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>12</value>
+    </rating>
+    <rating system="Medietilsynet">
+      <value>7 år</value>
+    </rating>
+    <star-rating system="TMS">
+      <value>4.0/10</value>
+    </star-rating>
+  </programme>
+  <programme channel="Sony.Movies.Brazil.br" start="20260724204000 +0000" stop="20260724221500 +0000">
+    <title lang="pt">Segurança Nacional</title>
+    <desc lang="pt">Dispensados pela polícia de Los Angeles, Hank Rafferty e Earl Montgomery acabam trabalhando como seguranças na mesma empresa quando descobrem um esquema de roubo e contrabando de um material usado para viagens espaciais. Opostos, agora os dois precisam se unir para acabarem com a operação ilegal.</desc>
+    <credits>
+      <actor>Martin Lawrence</actor>
+      <actor>Steve Zahn</actor>
+      <actor>Colm Feore</actor>
+      <director>Dennis Dugan</director>
+    </credits>
+    <date>2003</date>
+    <category lang="pt">Movie</category>
+    <category lang="pt">Comedy</category>
+    <category lang="pt">Action</category>
+    <icon src="http://dtil.tmsimg.com/assets/p31323_v_h10_ac.jpg?w=960&amp;h=540"/>
+    <previously-shown/>
+    <rating system="Motion Picture Association">
+      <value>PG-13</value>
+    </rating>
+    <rating system="Alberta's Film Classification Board">
+      <value>14A</value>
+    </rating>
+    <rating system="B.C. Film Classification Office">
+      <value>PG</value>
+    </rating>
+    <rating system="Ontario Film Authority">
+      <value>14A</value>
+    </rating>
+    <rating system="Saskatchewan Film and Video Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>12A</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
+    <rating system="Film &amp; Publication Board">
+      <value>13</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Statens medieråd">
+      <value>Från 11 år</value>
+    </rating>
+    <rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
+    <rating system="Medierådet">
+      <value>11</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+    <rating system="영상물등급위원회">
+      <value>12+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>12</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>12</value>
+    </rating>
+    <star-rating system="TMS">
+      <value>4.0/10</value>
+    </star-rating>
+  </programme>
+  <programme channel="Sony.Movies.Brazil.br" start="20260724221500 +0000" stop="20260725001500 +0000">
+    <title lang="pt">MIB: Homens de Preto - Internacional</title>
+    <desc lang="pt">Os agentes H e M usam armas de alta tecnologia para combaterem alienígenas que podem assumir a forma de qualquer ser humano.</desc>
+    <credits>
+      <actor>Chris Hemsworth</actor>
+      <actor>Tessa Thompson</actor>
+      <actor>Kumail Nanjiani</actor>
+      <director>F. Gary Gray</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Movie</category>
+    <category lang="pt">Science fiction</category>
+    <category lang="pt">Adventure</category>
+    <category lang="pt">Comedy</category>
+    <category lang="pt">Action</category>
+    <category lang="pt">Mystery</category>
+    <icon src="http://dtil.tmsimg.com/assets/p16357164_v_h10_ag.jpg?w=960&amp;h=540"/>
+    <previously-shown/>
+    <rating system="Motion Picture Association">
+      <value>PG-13</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Statens medieråd">
+      <value>Från 11 år</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating>
+    <rating system="Manitoba Film Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Saskatchewan Film and Video Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="B.C. Film Classification Office">
+      <value>PG</value>
+    </rating>
+    <rating system="Alberta's Film Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Ontario Film Authority">
+      <value>PG</value>
+    </rating>
+    <rating system="Maritime Film Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
+    <rating system="Consejo de Calificación Cinematográfica">
+      <value>TE</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>12</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>12</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="映倫">
+      <value>G</value>
+    </rating>
+    <rating system="Medierådet">
+      <value>11</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>7</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>12</value>
+    </rating>
+    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>ATP</value>
+    </rating>
+    <rating system="Central Board of Film Certification">
+      <value>U</value>
+    </rating>
+    <star-rating system="TMS">
+      <value>4.0/10</value>
+    </star-rating>
+  </programme>
+  <programme channel="Sony.Movies.Brazil.br" start="20260725001500 +0000" stop="20260725023000 +0000">
+    <title lang="pt">Trem-Bala</title>
+    <desc lang="pt">Em um trem-bala indo rapidamente de Tóquio a Morioka, cinco assassinos profissionais descobrem que possuem o mesmo objetivo.</desc>
+    <credits>
+      <actor>Brad Pitt</actor>
+      <actor>Joey King</actor>
+      <actor>Aaron Taylor-Johnson</actor>
+      <director>David Leitch</director>
+    </credits>
+    <date>2022</date>
+    <category lang="pt">Movie</category>
+    <category lang="pt">Action</category>
+    <category lang="pt">Comedy</category>
+    <icon src="http://dtil.tmsimg.com/assets/p21345047_v_h8_an.jpg?w=960&amp;h=540"/>
+    <previously-shown/>
+    <rating system="Medierådet">
+      <value>15</value>
+    </rating>
+    <rating system="Alberta's Film Classification Board">
+      <value>14A</value>
+    </rating>
+    <rating system="Motion Picture Association">
+      <value>R</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Maritime Film Classification Board">
+      <value>14</value>
+    </rating>
+    <rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating>
+    <rating system="映倫">
+      <value>R15+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Consejo de Calificación Cinematográfica">
+      <value>14</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>SAM 16</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>15</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-12</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Statens medieråd">
+      <value>Från 15 år</value>
+    </rating>
+    <star-rating system="TMS">
+      <value>5.0/10</value>
+    </star-rating>
+  </programme>
+  <programme channel="Sony.Movies.Brazil.br" start="20260725023000 +0000" stop="20260725043000 +0000">
+    <title lang="en">White Boy Rick</title>
+    <desc lang="pt">A história de Richard Wershe Jr. que, com 14 anos, se torna um informante disfarçado para a polícia. Com 17, vira um grande traficante de drogas, mas sua vida dupla é desmascarada e ele acaba condenado à prisão perpétua.</desc>
+    <credits>
+      <actor>Matthew McConaughey</actor>
+      <actor>Richie Merritt</actor>
+      <actor>Bel Powley</actor>
+      <director>Yann Demange</director>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Biography</category>
+    <icon src="http://dtil.tmsimg.com/assets/p14394225_v_h8_ab.jpg?w=960&amp;h=540"/>
+    <previously-shown/>
+    <rating system="Manitoba Film Classification Board">
+      <value>14A</value>
+    </rating>
+    <rating system="B.C. Film Classification Office">
+      <value>14A</value>
+    </rating>
+    <rating system="Saskatchewan Film and Video Classification Board">
+      <value>14A</value>
+    </rating>
+    <rating system="Alberta's Film Classification Board">
+      <value>14A</value>
+    </rating>
+    <rating system="Ontario Film Authority">
+      <value>14A</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Maritime Film Classification Board">
+      <value>14</value>
+    </rating>
+    <rating system="Motion Picture Association">
+      <value>R</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Statens medieråd">
+      <value>Från 15 år</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>15</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>C</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Medierådet">
+      <value>15</value>
+    </rating>
+    <rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="영상물등급위원회">
+      <value>18+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>12</value>
+    </rating>
+    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>SAM 16</value>
+    </rating>
+    <star-rating system="TMS">
+      <value>5.0/10</value>
+    </star-rating>
+  </programme>
+  <programme channel="Sony.Movies.Brazil.br" start="20260725043000 +0000" stop="20260725060500 +0000">
+    <title lang="en">Matchmaker Mysteries</title>
+    <sub-title lang="en">The Art of the Kill</sub-title>
+    <desc lang="pt">Angie Dove chama a atenção do detetive Carter ao se deparar com um assassinato em um museu de arte. O pai de Angie, Nick, está investigando o caso por conta própria, tentando solucionar uma série de pequenos furtos no museu.</desc>
+    <credits>
+      <actor>Danica McKellar</actor>
+      <actor>Victor Webster</actor>
+      <actor>Bruce Boxleitner</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Series</category>
+    <category lang="en">Mystery</category>
+    <icon src="http://dtil.tmsimg.com/assets/p17225241_b_h8_aa.jpg?w=960&amp;h=540"/>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <previously-shown/>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+  </programme>
+  <programme channel="Sony.Movies.Brazil.br" start="20260725060500 +0000" stop="20260725064000 +0000">
+    <title lang="en">Loudermilk</title>
+    <sub-title lang="en">I Fought the Law</sub-title>
+    <desc lang="pt">Após um homem processar Loudermilk e apresentar testemunhas contra ele, Loudermilk busca a ajuda de seus amigos para enfrentar a batalha legal; o grupo pensa em tratamentos alternativos para o primo de Cloud.</desc>
+    <credits>
+      <actor>Ron Livingston</actor>
+      <actor>Will Sasso</actor>
+      <actor>Anja Savcic</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Comedy</category>
+    <icon src="http://dtil.tmsimg.com/assets/p18061567_b_h10_ab.jpg?w=960&amp;h=540"/>
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <previously-shown/>
+    <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>18</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+  </programme>
+  <programme channel="Sony.Movies.Brazil.br" start="20260725064000 +0000" stop="20260725071500 +0000">
+    <title lang="en">Loudermilk</title>
+    <sub-title lang="en">Our Lips Are Sealed</sub-title>
+    <desc lang="pt">O novato revela um segredo para Roger; a crítica dura de Loudermilk tem consequências.</desc>
+    <credits>
+      <actor>Ron Livingston</actor>
+      <actor>Will Sasso</actor>
+      <actor>Anja Savcic</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Comedy</category>
+    <icon src="http://dtil.tmsimg.com/assets/p18061567_b_h10_ab.jpg?w=960&amp;h=540"/>
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <previously-shown/>
+    <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>18</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+  </programme>
+  <programme channel="Sony.Movies.Brazil.br" start="20260725071500 +0000" stop="20260725075000 +0000">
+    <title lang="en">Future Man</title>
+    <sub-title lang="en">Trapper's Delight</sub-title>
+    <desc lang="pt">A crise de fé que Josh vem enfrentando chega a um ponto crítico quando Tiger se conecta com seus instintos assassinos e Wolf luta para conseguir passar desapercebido.</desc>
+    <credits>
+      <actor>Josh Hutcherson</actor>
+      <actor>Eliza Coupe</actor>
+      <actor>Derek Wilson</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Science fiction</category>
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Fantasy</category>
+    <icon src="http://dtil.tmsimg.com/assets/p14432013_b_h8_ae.jpg?w=960&amp;h=540"/>
+    <episode-num system="onscreen">S3 E3</episode-num>
+    <previously-shown/>
+    <rating system="Arcom">
+      <value>-12</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>C</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="Sony.Movies.Brazil.br" start="20260725075000 +0000" stop="20260725083000 +0000">
+    <title lang="en">Future Man</title>
+    <sub-title lang="en">The Outlaw Wild Sam Bladden</sub-title>
+    <desc lang="pt">Tigre e Wolf fazem as pazes consigo mesmos; Josh é forçado a confrontar no que realmente acredita.</desc>
+    <credits>
+      <actor>Josh Hutcherson</actor>
+      <actor>Eliza Coupe</actor>
+      <actor>Derek Wilson</actor>
+      <director>Jonathan Watson</director>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Science fiction</category>
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Fantasy</category>
+    <icon src="http://dtil.tmsimg.com/assets/p14432013_b_h8_ae.jpg?w=960&amp;h=540"/>
+    <episode-num system="onscreen">S3 E4</episode-num>
+    <previously-shown/>
+    <rating system="Arcom">
+      <value>-12</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>C</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>18</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="Sony.Movies.Brazil.br" start="20260725083000 +0000" stop="20260725090000 +0000">
+    <title lang="en">Indebted</title>
+    <sub-title lang="en">Everybody's Talking About the Mental Load</sub-title>
+    <desc lang="pt">Depois que Rebecca diz a Dave que ela é quem carrega toda a responsabilidade emocional da família, ele tenta provar que não é bem assim deixando que ela cuide apenas da Deb e do Stew por alguns dias.</desc>
+    <credits>
+      <actor>Adam Pally</actor>
+      <actor>Abby Elliott</actor>
+      <actor>Fran Drescher</actor>
+      <director>Phill Lewis</director>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <icon src="http://dtil.tmsimg.com/assets/p16935906_b_h8_ac.jpg?w=960&amp;h=540"/>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <previously-shown/>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+  </programme>
+  <programme channel="Sony.Movies.Brazil.br" start="20260725090000 +0000" stop="20260725102500 +0000">
+    <title lang="pt">O Bicho Vai Pegar 3</title>
+    <desc lang="pt">Decepcionado com sua turma, que prefere cuidar das obrigações familiares a participar de sua viagem anual, Boog parte sozinho e acaba num picadeiro de circo. Ao trocar de lugar com um artista e se apaixonar por uma russa, ele aprende que talvez não seja preciso escolher entre a família e os amigos.</desc>
+    <credits>
+      <actor>Matthew J. Munn</actor>
+      <actor>Nika Futterman</actor>
+      <actor>Matthew W. Taylor</actor>
+      <director>Cody Cameron</director>
+    </credits>
+    <date>2010</date>
+    <category lang="pt">Movie</category>
+    <category lang="pt">Animated</category>
+    <category lang="pt">Children</category>
+    <category lang="pt">Comedy</category>
+    <category lang="pt">Adventure</category>
+    <icon src="http://dtil.tmsimg.com/assets/p8376947_v_h8_ab.jpg?w=960&amp;h=540"/>
+    <previously-shown/>
+    <rating system="Motion Picture Association">
+      <value>PG</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>U</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>0</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K7</value>
+    </rating>
+    <rating system="Ontario Film Authority">
+      <value>G</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>U</value>
+    </rating>
+    <rating system="Statens medieråd">
+      <value>Barntillåten</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>7</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>ATP</value>
+    </rating>
+    <rating system="영상물등급위원회">
+      <value>All</value>
+    </rating>
+  </programme>
+  <programme channel="Sony.Movies.Brazil.br" start="20260725102500 +0000" stop="20260725105500 +0000">
+    <title lang="en">The Goldbergs</title>
+    <sub-title lang="en">Dee-Vorced</sub-title>
+    <desc lang="pt">Beverly fica surpresa ao saber que a mãe de Brea é divorciada; Barry se sente excluído do grupo.</desc>
+    <credits>
+      <actor>Wendi McLendon-Covey</actor>
+      <actor>Patton Oswalt</actor>
+      <actor>Sean Giambrone</actor>
+      <director>Lew Schneider</director>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9977319_b_h8_by.jpg?w=960&amp;h=540"/>
+    <episode-num system="onscreen">S8 E5</episode-num>
+    <previously-shown/>
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K7</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>6</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>0</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+  </programme>
+  <programme channel="Sony.Movies.Brazil.br" start="20260725105500 +0000" stop="20260725112500 +0000">
+    <title lang="en">The Goldbergs</title>
+    <sub-title lang="en">Eracism</sub-title>
+    <desc lang="pt">Após assistir ao filme "Faça a Coisa Certa", de Spike Lee, Adam faz uma tentativa fracassada de acabar com o racismo em Jenkintown; Geoff fica horrorizado ao saber que Erica tem princípios morais questionáveis.</desc>
+    <credits>
+      <actor>Wendi McLendon-Covey</actor>
+      <actor>Patton Oswalt</actor>
+      <actor>Sean Giambrone</actor>
+      <director>Eric Dean Seaton</director>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9977319_b_h8_by.jpg?w=960&amp;h=540"/>
+    <episode-num system="onscreen">S8 E6</episode-num>
+    <previously-shown/>
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K7</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>6</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>6</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+  </programme>
+  <programme channel="Sony.Movies.Brazil.br" start="20260725112500 +0000" stop="20260725130000 +0000">
+    <title lang="en">Morning Show Mysteries</title>
+    <sub-title lang="en">Death by Design</sub-title>
+    <desc lang="pt">Marian, a melhor amiga da chef Billie Blessings, é contratada para redecorar o estúdio de TV. Quando a irmã gêmea de Marian é assassinada, Billie precisa investigar seus amigos mais próximos para descobrir quem a matou.</desc>
+    <credits>
+      <actor>Holly Robinson Peete</actor>
+      <actor>Rick Fox</actor>
+      <actor>Al Roker</actor>
+      <director>Kevin Fair</director>
+      <director>Andy Mikita</director>
+      <director>Terry Ingram</director>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Mystery</category>
+    <icon src="http://dtil.tmsimg.com/assets/p15490222_b_h8_ab.jpg?w=960&amp;h=540"/>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <previously-shown/>
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="Sony.Movies.Brazil.br" start="20260725130000 +0000" stop="20260725145500 +0000">
+    <title lang="en">Missing</title>
+    <desc lang="pt">A mãe de Jube desaparece durante as férias na Colômbia com o novo namorado, e sua busca por respostas acaba dificultada pela burocracia internacional. Presa a milhares de quilômetros de distância em Los Angeles, June usa criativamente toda a tecnologia mais recente ao seu alcance para tentar encontrá-la antes que seja tarde demais. No entanto, à medida que ela se aprofunda, sua investigação digital logo levanta mais perguntas do que respostas.</desc>
+    <credits>
+      <actor>Storm Reid</actor>
+      <actor>Joaquim de Almeida</actor>
+      <actor>Ken Leung</actor>
+      <director>Will Merrick</director>
+      <director>Nick Johnson</director>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Mystery</category>
+    <icon src="http://dtil.tmsimg.com/assets/p23122703_v_h8_ae.jpg?w=960&amp;h=540"/>
+    <previously-shown/>
+    <rating system="Motion Picture Association">
+      <value>PG-13</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating>
+    <rating system="Alberta's Film Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating>
+    <rating system="영상물등급위원회">
+      <value>12+</value>
+    </rating>
+    <rating system="Medierådet">
+      <value>11</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="映倫">
+      <value>PG12</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>12</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>15</value>
+    </rating>
+    <rating system="Central Board of Film Certification">
+      <value>UA</value>
+    </rating>
+    <rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>12</value>
+    </rating>
+    <rating system="Statens medieråd">
+      <value>Från 11 år</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <star-rating system="TMS">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme channel="Sony.Movies.Brazil.br" start="20260725145500 +0000" stop="20260725163500 +0000">
+    <title lang="en">Jesse Stone: Innocents Lost</title>
+    <desc lang="pt">Um chefe de polícia luta contra seus próprios fantasmas enquanto investiga a morte de uma garota adolescente.</desc>
+    <credits>
+      <actor>Tom Selleck</actor>
+      <actor>Kathy Baker</actor>
+      <actor>Kohl Sudduth</actor>
+      <director>Dick Lowry</director>
+    </credits>
+    <date>2011</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Crime drama</category>
+    <icon src="http://dtil.tmsimg.com/assets/p8585828_v_h10_af.jpg?w=960&amp;h=540"/>
+    <previously-shown/>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Ontario Film Authority">
+      <value>PG</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+    <star-rating system="TMS">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme channel="Sony.Movies.Brazil.br" start="20260725163500 +0000" stop="20260725181000 +0000">
+    <title lang="en">Matchmaker Mysteries: A Fatal Romance</title>
+    <desc lang="pt">Um escritor de romances é morto e a casamenteira Angie Dove e o detetive Kyle Cooper precisam ler nas entrelinhas para encontrar o assassino.</desc>
+    <credits>
+      <actor>Danica McKellar</actor>
+      <actor>Victor Webster</actor>
+      <actor>Bruce Boxleitner</actor>
+      <director>Terry Ingram</director>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Romance</category>
+    <icon src="http://dtil.tmsimg.com/assets/p19923548_v_h10_aa.jpg?w=960&amp;h=540"/>
+    <previously-shown/>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A12</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>7</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="Sony.Movies.Brazil.br" start="20260725181000 +0000" stop="20260725194500 +0000">
+    <title lang="en">Morning Show Mysteries: A Murder in Mind</title>
+    <desc lang="pt">O corpo de um advogado cujos casos inspiraram uma série de livros é encontrado na praia, e Billie Blessing precisa desvendar o caso antes que a pessoa errada pague pelo crime.</desc>
+    <credits>
+      <actor>Holly Robinson Peete</actor>
+      <actor>Rick Fox</actor>
+      <actor>Karen Robinson</actor>
+      <director>Kevin Fair</director>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Crime drama</category>
+    <icon src="http://dtil.tmsimg.com/assets/p18154173_v_h8_ad.jpg?w=960&amp;h=540"/>
+    <previously-shown/>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="Sony.Movies.Brazil.br" start="20260725194500 +0000" stop="20260725212000 +0000">
+    <title lang="pt">Segurança Nacional</title>
+    <desc lang="pt">Dispensados pela polícia de Los Angeles, Hank Rafferty e Earl Montgomery acabam trabalhando como seguranças na mesma empresa quando descobrem um esquema de roubo e contrabando de um material usado para viagens espaciais. Opostos, agora os dois precisam se unir para acabarem com a operação ilegal.</desc>
+    <credits>
+      <actor>Martin Lawrence</actor>
+      <actor>Steve Zahn</actor>
+      <actor>Colm Feore</actor>
+      <director>Dennis Dugan</director>
+    </credits>
+    <date>2003</date>
+    <category lang="pt">Movie</category>
+    <category lang="pt">Comedy</category>
+    <category lang="pt">Action</category>
+    <icon src="http://dtil.tmsimg.com/assets/p31323_v_h10_ac.jpg?w=960&amp;h=540"/>
+    <previously-shown/>
+    <rating system="Motion Picture Association">
+      <value>PG-13</value>
+    </rating>
+    <rating system="Alberta's Film Classification Board">
+      <value>14A</value>
+    </rating>
+    <rating system="B.C. Film Classification Office">
+      <value>PG</value>
+    </rating>
+    <rating system="Ontario Film Authority">
+      <value>14A</value>
+    </rating>
+    <rating system="Saskatchewan Film and Video Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>12A</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
+    <rating system="Film &amp; Publication Board">
+      <value>13</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Statens medieråd">
+      <value>Från 11 år</value>
+    </rating>
+    <rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
+    <rating system="Medierådet">
+      <value>11</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+    <rating system="영상물등급위원회">
+      <value>12+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>12</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>12</value>
+    </rating>
+    <star-rating system="TMS">
+      <value>4.0/10</value>
+    </star-rating>
+  </programme>
+  <programme channel="Sony.Movies.Brazil.br" start="20260725212000 +0000" stop="20260725231500 +0000">
+    <title lang="pt">O Homem de Toronto</title>
+    <desc lang="pt">O que era para ser um fim de semana relaxante com a esposa se transforma no maior pesadelo de Teddy quando ele é confundido com um famoso matador profissional.</desc>
+    <credits>
+      <actor>Kevin Hart</actor>
+      <actor>Woody Harrelson</actor>
+      <actor>Kaley Cuoco</actor>
+      <director>Patrick Hughes</director>
+    </credits>
+    <date>2022</date>
+    <category lang="pt">Movie</category>
+    <category lang="pt">Action</category>
+    <category lang="pt">Comedy</category>
+    <icon src="http://dtil.tmsimg.com/assets/p19440807_v_h8_ad.jpg?w=960&amp;h=540"/>
+    <previously-shown/>
+    <rating system="Motion Picture Association">
+      <value>PG-13</value>
+    </rating>
+    <rating system="영상물등급위원회">
+      <value>15+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>12</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>12</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="Sony.Movies.Brazil.br" start="20260725231500 +0000" stop="20260726013000 +0000">
+    <title lang="pt">Trem-Bala</title>
+    <desc lang="pt">Em um trem-bala indo rapidamente de Tóquio a Morioka, cinco assassinos profissionais descobrem que possuem o mesmo objetivo.</desc>
+    <credits>
+      <actor>Brad Pitt</actor>
+      <actor>Joey King</actor>
+      <actor>Aaron Taylor-Johnson</actor>
+      <director>David Leitch</director>
+    </credits>
+    <date>2022</date>
+    <category lang="pt">Movie</category>
+    <category lang="pt">Action</category>
+    <category lang="pt">Comedy</category>
+    <icon src="http://dtil.tmsimg.com/assets/p21345047_v_h8_an.jpg?w=960&amp;h=540"/>
+    <previously-shown/>
+    <rating system="Medierådet">
+      <value>15</value>
+    </rating>
+    <rating system="Alberta's Film Classification Board">
+      <value>14A</value>
+    </rating>
+    <rating system="Motion Picture Association">
+      <value>R</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Maritime Film Classification Board">
+      <value>14</value>
+    </rating>
+    <rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating>
+    <rating system="映倫">
+      <value>R15+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Consejo de Calificación Cinematográfica">
+      <value>14</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>SAM 16</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>15</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-12</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Statens medieråd">
+      <value>Från 15 år</value>
+    </rating>
+    <star-rating system="TMS">
+      <value>5.0/10</value>
+    </star-rating>
+  </programme>
+  <programme channel="Sony.Movies.Brazil.br" start="20260726013000 +0000" stop="20260726032500 +0000">
+    <title lang="pt">Colombiana - Em Busca de Vingança</title>
+    <desc lang="pt">A jovem Cataleya testemunha a morte dos pais quando pequena e, ao crescer, se torna uma assassina profissional. Trabalhando para o tio, ela busca vingança contra o criminoso que matou sua família.</desc>
+    <credits>
+      <actor>Zoe Saldana</actor>
+      <actor>Jordi Mollà</actor>
+      <actor>Lennie James</actor>
+      <director>Olivier Megaton</director>
+    </credits>
+    <date>2011</date>
+    <category lang="pt">Movie</category>
+    <category lang="pt">Action</category>
+    <category lang="pt">Thriller</category>
+    <category lang="pt">Drama</category>
+    <icon src="http://dtil.tmsimg.com/assets/p8609562_v_h11_ac.jpg?w=960&amp;h=540"/>
+    <previously-shown/>
+    <rating system="Motion Picture Association">
+      <value>PG-13</value>
+    </rating>
+    <rating system="Alberta's Film Classification Board">
+      <value>14A</value>
+    </rating>
+    <rating system="Maritime Film Classification Board">
+      <value>14</value>
+    </rating>
+    <rating system="Manitoba Film Classification Board">
+      <value>14A</value>
+    </rating>
+    <rating system="Ontario Film Authority">
+      <value>14A</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>15</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Film &amp; Publication Board">
+      <value>16</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating>
+    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>ATP</value>
+    </rating>
+    <rating system="映倫">
+      <value>PG12</value>
+    </rating>
+    <rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
+    <rating system="영상물등급위원회">
+      <value>15+</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <star-rating system="TMS">
+      <value>4.0/10</value>
+    </star-rating>
+  </programme>
+  <programme channel="Sony.Movies.Brazil.br" start="20260726032500 +0000" stop="20260726052000 +0000">
+    <title lang="en">Miss Bala</title>
+    <desc lang="pt">Um assassino de um cartel no México sequestra a amiga de Glória. Desamparada, ela busca ajuda da polícia, que tira proveito da situação. Agora, ela é obrigada a servir os criminosos para ajudar sua colega e lidar com policiais corruptos.</desc>
+    <credits>
+      <actor>Gina Rodriguez</actor>
+      <actor>Ismael Cruz Córdova</actor>
+      <actor>Anthony Mackie</actor>
+      <director>Catherine Hardwicke</director>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Action</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Adventure</category>
+    <icon src="http://dtil.tmsimg.com/assets/p15772816_v_h8_ak.jpg?w=960&amp;h=540"/>
+    <previously-shown/>
+    <rating system="Motion Picture Association">
+      <value>PG-13</value>
+    </rating>
+    <rating system="Alberta's Film Classification Board">
+      <value>14A</value>
+    </rating>
+    <rating system="B.C. Film Classification Office">
+      <value>PG</value>
+    </rating>
+    <rating system="Saskatchewan Film and Video Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Manitoba Film Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Ontario Film Authority">
+      <value>PG</value>
+    </rating>
+    <rating system="Maritime Film Classification Board">
+      <value>14</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>15</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating>
+    <rating system="Medierådet">
+      <value>11</value>
+    </rating>
+    <rating system="영상물등급위원회">
+      <value>15+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>ATP</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
+    <star-rating system="TMS">
+      <value>3.0/10</value>
+    </star-rating>
+  </programme>
+  <programme channel="Sony.Movies.Brazil.br" start="20260726052000 +0000" stop="20260726071000 +0000">
+    <title lang="pt">Resident Evil - Bem-Vindo a Raccoon City</title>
+    <desc lang="pt">Raccoon City já foi uma próspera cidade do Meio-Oeste, graças à gigante farmacêutica The Umbrella Corporation. Mas abaixo da superfície algo maligno se esconde. Após o êxodo da empresa, o mal é desencadeado nos habitantes desavisados da cidade.</desc>
+    <credits>
+      <actor>Kaya Scodelario</actor>
+      <actor>Hannah John-Kamen</actor>
+      <actor>Robbie Amell</actor>
+      <director>Johannes Roberts</director>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Movie</category>
+    <category lang="pt">Horror</category>
+    <category lang="pt">Action</category>
+    <icon src="http://dtil.tmsimg.com/assets/p19603659_v_h10_al.jpg?w=960&amp;h=540"/>
+    <previously-shown/>
+    <rating system="Motion Picture Association">
+      <value>R</value>
+    </rating>
+    <rating system="Alberta's Film Classification Board">
+      <value>18A</value>
+    </rating>
+    <rating system="Manitoba Film Classification Board">
+      <value>14A</value>
+    </rating>
+    <rating system="B.C. Film Classification Office">
+      <value>14A</value>
+    </rating>
+    <rating system="Saskatchewan Film and Video Classification Board">
+      <value>14A</value>
+    </rating>
+    <rating system="Ontario Film Authority">
+      <value>14A</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Maritime Film Classification Board">
+      <value>18</value>
+    </rating>
+    <rating system="映倫">
+      <value>PG12</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-12</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="영상물등급위원회">
+      <value>18+</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>15</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>18</value>
+    </rating>
+    <rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
+    <star-rating system="TMS">
+      <value>4.0/10</value>
+    </star-rating>
+  </programme>
+  <programme channel="Sony.Movies.Brazil.br" start="20260726071000 +0000" stop="20260726073500 +0000">
+    <title lang="en">The Goldbergs</title>
+    <sub-title lang="en">Dee-Vorced</sub-title>
+    <desc lang="pt">Beverly fica surpresa ao saber que a mãe de Brea é divorciada; Barry se sente excluído do grupo.</desc>
+    <credits>
+      <actor>Wendi McLendon-Covey</actor>
+      <actor>Patton Oswalt</actor>
+      <actor>Sean Giambrone</actor>
+      <director>Lew Schneider</director>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9977319_b_h8_by.jpg?w=960&amp;h=540"/>
+    <episode-num system="onscreen">S8 E5</episode-num>
+    <previously-shown/>
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K7</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>6</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>0</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+  </programme>
+  <programme channel="Sony.Movies.Brazil.br" start="20260726073500 +0000" stop="20260726080000 +0000">
+    <title lang="en">The Goldbergs</title>
+    <sub-title lang="en">Eracism</sub-title>
+    <desc lang="pt">Após assistir ao filme "Faça a Coisa Certa", de Spike Lee, Adam faz uma tentativa fracassada de acabar com o racismo em Jenkintown; Geoff fica horrorizado ao saber que Erica tem princípios morais questionáveis.</desc>
+    <credits>
+      <actor>Wendi McLendon-Covey</actor>
+      <actor>Patton Oswalt</actor>
+      <actor>Sean Giambrone</actor>
+      <director>Eric Dean Seaton</director>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9977319_b_h8_by.jpg?w=960&amp;h=540"/>
+    <episode-num system="onscreen">S8 E6</episode-num>
+    <previously-shown/>
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K7</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>6</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>6</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+  </programme>
+  <programme channel="Sony.Movies.Brazil.br" start="20260726080000 +0000" stop="20260726083000 +0000">
+    <title lang="en">Indebted</title>
+    <sub-title lang="en">Everybody's Talking About Doctor Uncle</sub-title>
+    <desc lang="pt">Art, o irmão mais velho de Deb, está chegando à cidade; uma sequência de favores repassados entre os membros da família se inicia.</desc>
+    <credits>
+      <actor>Adam Pally</actor>
+      <actor>Abby Elliott</actor>
+      <actor>Fran Drescher</actor>
+      <director>Phill Lewis</director>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <icon src="http://dtil.tmsimg.com/assets/p16935906_b_h8_ac.jpg?w=960&amp;h=540"/>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <previously-shown/>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+  </programme>
+  <programme channel="Sony.Movies.Brazil.br" start="20260726083000 +0000" stop="20260726090000 +0000">
+    <title lang="en">Indebted</title>
+    <sub-title lang="en">Everybody's Talking About Neighbors</sub-title>
+    <desc lang="pt">Depois de perceber que Debbie e Stew estão forçando os vizinhos a socializar, Dave e Rebecca tentam convencê-los a ficarem na deles, insistindo que vizinhos deveriam ser apenas vizinhos.</desc>
+    <credits>
+      <actor>Adam Pally</actor>
+      <actor>Abby Elliott</actor>
+      <actor>Fran Drescher</actor>
+      <director>Phill Lewis</director>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <icon src="http://dtil.tmsimg.com/assets/p16935906_b_h8_ac.jpg?w=960&amp;h=540"/>
+    <episode-num system="onscreen">S1 E10</episode-num>
+    <previously-shown/>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+  </programme>
+  <programme channel="Sony.Movies.Brazil.br" start="20260726090000 +0000" stop="20260726103500 +0000">
+    <title lang="en">Matchmaker Mysteries: A Fatal Romance</title>
+    <desc lang="pt">Um escritor de romances é morto e a casamenteira Angie Dove e o detetive Kyle Cooper precisam ler nas entrelinhas para encontrar o assassino.</desc>
+    <credits>
+      <actor>Danica McKellar</actor>
+      <actor>Victor Webster</actor>
+      <actor>Bruce Boxleitner</actor>
+      <director>Terry Ingram</director>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Romance</category>
+    <icon src="http://dtil.tmsimg.com/assets/p19923548_v_h10_aa.jpg?w=960&amp;h=540"/>
+    <previously-shown/>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A12</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>7</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="Sony.Movies.Brazil.br" start="20260726103500 +0000" stop="20260726110500 +0000">
+    <title lang="en">The Goldbergs</title>
+    <sub-title lang="en">Hanukkah on the Seas</sub-title>
+    <desc lang="pt">Pop-Pop deixa todos chocados ao se oferecer para pagar um cruzeiro em família; durante seu primeiro Hanukkah com os Schwartzes, Erica percebe que eles não são tão perfeitos quanto pareciam.</desc>
+    <credits>
+      <actor>Wendi McLendon-Covey</actor>
+      <actor>Patton Oswalt</actor>
+      <actor>Sean Giambrone</actor>
+      <director>Jason Blount</director>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Holiday</category>
+    <category lang="en">Sitcom</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9977319_b_h8_by.jpg?w=960&amp;h=540"/>
+    <episode-num system="onscreen">S8 E7</episode-num>
+    <previously-shown/>
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K7</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>6</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>6</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+  </programme>
+  <programme channel="Sony.Movies.Brazil.br" start="20260726110500 +0000" stop="20260726113500 +0000">
+    <title lang="en">The Goldbergs</title>
+    <sub-title lang="en">Bevy's Big Murder Mystery Party</sub-title>
+    <desc lang="pt">A primeira festa de assassinato misterioso de Beverly toma um rumo inesperado; Erica tem dificuldades para escolher um curso.</desc>
+    <credits>
+      <actor>Wendi McLendon-Covey</actor>
+      <actor>Patton Oswalt</actor>
+      <actor>Sean Giambrone</actor>
+      <director>Lew Schneider</director>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9977319_b_h8_by.jpg?w=960&amp;h=540"/>
+    <episode-num system="onscreen">S8 E8</episode-num>
+    <previously-shown/>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K7</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>6</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>6</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+  </programme>
+  <programme channel="Sony.Movies.Brazil.br" start="20260726113500 +0000" stop="20260726131500 +0000">
+    <title lang="en">Jesse Stone: Innocents Lost</title>
+    <desc lang="pt">Um chefe de polícia luta contra seus próprios fantasmas enquanto investiga a morte de uma garota adolescente.</desc>
+    <credits>
+      <actor>Tom Selleck</actor>
+      <actor>Kathy Baker</actor>
+      <actor>Kohl Sudduth</actor>
+      <director>Dick Lowry</director>
+    </credits>
+    <date>2011</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Crime drama</category>
+    <icon src="http://dtil.tmsimg.com/assets/p8585828_v_h10_af.jpg?w=960&amp;h=540"/>
+    <previously-shown/>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Ontario Film Authority">
+      <value>PG</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+    <star-rating system="TMS">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme channel="Sony.Movies.Brazil.br" start="20260726131500 +0000" stop="20260726145500 +0000">
+    <title lang="pt">Operação Portugal</title>
+    <desc lang="pt">Hakim, um policial de um bairro francês do Marrocos, deve se infiltrar em uma comunidade portuguesa para investigar um gângster.</desc>
+    <credits>
+      <actor>D'jal</actor>
+      <actor>Sarah Perles</actor>
+      <actor>Farida Ouchani</actor>
+      <director>Frank Cimière</director>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Movie</category>
+    <category lang="pt">Comedy</category>
+    <icon src="http://dtil.tmsimg.com/assets/p17642614_v_h8_af.jpg?w=960&amp;h=540"/>
+    <previously-shown/>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>9</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A12</value>
+    </rating>
+  </programme>
+  <programme channel="Sony.Movies.Brazil.br" start="20260726145500 +0000" stop="20260726165500 +0000">
+    <title lang="pt">MIB: Homens de Preto - Internacional</title>
+    <desc lang="pt">Os agentes H e M usam armas de alta tecnologia para combaterem alienígenas que podem assumir a forma de qualquer ser humano.</desc>
+    <credits>
+      <actor>Chris Hemsworth</actor>
+      <actor>Tessa Thompson</actor>
+      <actor>Kumail Nanjiani</actor>
+      <director>F. Gary Gray</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Movie</category>
+    <category lang="pt">Science fiction</category>
+    <category lang="pt">Adventure</category>
+    <category lang="pt">Comedy</category>
+    <category lang="pt">Action</category>
+    <category lang="pt">Mystery</category>
+    <icon src="http://dtil.tmsimg.com/assets/p16357164_v_h10_ag.jpg?w=960&amp;h=540"/>
+    <previously-shown/>
+    <rating system="Motion Picture Association">
+      <value>PG-13</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Statens medieråd">
+      <value>Från 11 år</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating>
+    <rating system="Manitoba Film Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Saskatchewan Film and Video Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="B.C. Film Classification Office">
+      <value>PG</value>
+    </rating>
+    <rating system="Alberta's Film Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Ontario Film Authority">
+      <value>PG</value>
+    </rating>
+    <rating system="Maritime Film Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
+    <rating system="Consejo de Calificación Cinematográfica">
+      <value>TE</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>12</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>12</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="映倫">
+      <value>G</value>
+    </rating>
+    <rating system="Medierådet">
+      <value>11</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>7</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>12</value>
+    </rating>
+    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>ATP</value>
+    </rating>
+    <rating system="Central Board of Film Certification">
+      <value>U</value>
+    </rating>
+    <star-rating system="TMS">
+      <value>4.0/10</value>
+    </star-rating>
+  </programme>
+  <programme channel="Sony.Movies.Brazil.br" start="20260726165500 +0000" stop="20260726190000 +0000">
+    <title lang="pt">Homem-Aranha no Aranhaverso</title>
+    <desc lang="pt">Após ser atingido por uma teia radioativa, Miles Morales, um jovem negro do Brooklyn, se torna o Homem-Aranha, inspirado no legado do já falecido Peter Parker. Entretanto, ao visitar o túmulo de seu ídolo em uma noite chuvosa, ele é surpreendido com a presença do próprio Peter, vestindo o traje do herói por baixo de um sobretudo. A surpresa fica ainda maior quando Miles descobre que ele veio de uma dimensão paralela, assim como outras versões do Homem-Aranha.</desc>
+    <credits>
+      <actor>Shameik Moore</actor>
+      <actor>Jake Johnson</actor>
+      <actor>Hailee Steinfeld</actor>
+      <director>Bob Persichetti</director>
+      <director>Peter Ramsey</director>
+      <director>Rodney Rothman</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Movie</category>
+    <category lang="pt">Animated</category>
+    <category lang="pt">Children</category>
+    <category lang="pt">Action</category>
+    <category lang="pt">Adventure</category>
+    <category lang="pt">Comedy</category>
+    <category lang="pt">Fantasy</category>
+    <icon src="http://dtil.tmsimg.com/assets/p14939602_v_h8_ag.jpg?w=960&amp;h=540"/>
+    <previously-shown/>
+    <rating system="Film &amp; Publication Board">
+      <value>A</value>
+    </rating>
+    <rating system="Motion Picture Association">
+      <value>PG</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating>
+    <rating system="Ontario Film Authority">
+      <value>PG</value>
+    </rating>
+    <rating system="Alberta's Film Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Maritime Film Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="B.C. Film Classification Office">
+      <value>PG</value>
+    </rating>
+    <rating system="Saskatchewan Film and Video Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Manitoba Film Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>6</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>10</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>A</value>
+    </rating>
+    <rating system="Statens medieråd">
+      <value>Från 7 år</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>PG</value>
+    </rating>
+    <rating system="Consejo de Calificación Cinematográfica">
+      <value>TE+7</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>PG</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Ministero della Cultura">
+      <value>T</value>
+    </rating>
+    <rating system="映倫">
+      <value>G</value>
+    </rating>
+    <rating system="Medierådet">
+      <value>11</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+    <rating system="영상물등급위원회">
+      <value>12+</value>
+    </rating>
+    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>ATP</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>6</value>
+    </rating>
+    <rating system="Central Board of Film Certification">
+      <value>U</value>
+    </rating>
+    <star-rating system="TMS">
+      <value>7.0/10</value>
+    </star-rating>
+  </programme>
+  <programme channel="Sony.Movies.Brazil.br" start="20260726190000 +0000" stop="20260726213000 +0000">
+    <title lang="pt">Homem-Aranha - Através do Aranhaverso</title>
+    <desc lang="pt">Depois de se reunir com Gwen Stacy, Homem-Aranha é jogado no multiverso. Lá, o super-herói aracnídeo encontra uma numerosa equipe encarregada de proteger sua própria existência.</desc>
+    <credits>
+      <actor>Shameik Moore</actor>
+      <actor>Hailee Steinfeld</actor>
+      <actor>Brian Tyree Henry</actor>
+      <director>Joaquim Dos Santos</director>
+      <director>Kemp Powers</director>
+      <director>Justin K. Thompson</director>
+    </credits>
+    <date>2023</date>
+    <category lang="pt">Movie</category>
+    <category lang="pt">Animated</category>
+    <category lang="pt">Children</category>
+    <category lang="pt">Action</category>
+    <category lang="pt">Adventure</category>
+    <category lang="pt">Comedy</category>
+    <category lang="pt">Fantasy</category>
+    <icon src="http://dtil.tmsimg.com/assets/p20130736_v_h10_am.jpg?w=960&amp;h=540"/>
+    <previously-shown/>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating>
+    <rating system="Motion Picture Association">
+      <value>PG</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Alberta's Film Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Maritime Film Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>A</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>9</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>PG</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>10</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>PG</value>
+    </rating>
+    <rating system="Medierådet">
+      <value>11</value>
+    </rating>
+    <rating system="Statens medieråd">
+      <value>Från 7 år</value>
+    </rating>
+    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>ATP</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>7</value>
+    </rating>
+    <star-rating system="TMS">
+      <value>7.0/10</value>
+    </star-rating>
+  </programme>
+  <programme channel="Sony.Movies.Brazil.br" start="20260726213000 +0000" stop="20260726234500 +0000">
+    <title lang="pt">Homem-Aranha - Longe de Casa</title>
+    <desc lang="pt">Peter Parker está em uma viagem de duas semanas pela Europa, ao lado de seus amigos de colégio, quando é surpreendido pela visita de Nick Fury. Convocado para mais uma missão heroica, ele precisa enfrentar vários vilões que surgem em cidades símbolo do continente, como Londres, Paris e Veneza, e também a aparição do enigmático Mysterio.</desc>
+    <credits>
+      <actor>Tom Holland</actor>
+      <actor>Samuel L. Jackson</actor>
+      <actor>Jake Gyllenhaal</actor>
+      <director>Jon Watts</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Movie</category>
+    <category lang="pt">Action</category>
+    <category lang="pt">Adventure</category>
+    <category lang="pt">Fantasy</category>
+    <category lang="pt">Comedy</category>
+    <category lang="pt">Science fiction</category>
+    <icon src="http://dtil.tmsimg.com/assets/p14569140_v_h10_ah.jpg?w=960&amp;h=540"/>
+    <previously-shown/>
+    <rating system="Motion Picture Association">
+      <value>PG-13</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating>
+    <rating system="Statens medieråd">
+      <value>Från 11 år</value>
+    </rating>
+    <rating system="Alberta's Film Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Saskatchewan Film and Video Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="B.C. Film Classification Office">
+      <value>PG</value>
+    </rating>
+    <rating system="Manitoba Film Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Ontario Film Authority">
+      <value>PG</value>
+    </rating>
+    <rating system="Maritime Film Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
+    <rating system="Consejo de Calificación Cinematográfica">
+      <value>TE</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>10</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>12</value>
+    </rating>
+    <rating system="映倫">
+      <value>G</value>
+    </rating>
+    <rating system="Medierådet">
+      <value>11</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+    <rating system="영상물등급위원회">
+      <value>12+</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>12</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>12</value>
+    </rating>
+    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>ATP</value>
+    </rating>
+    <rating system="Central Board of Film Certification">
+      <value>UA</value>
+    </rating>
+    <star-rating system="TMS">
+      <value>7.0/10</value>
+    </star-rating>
+  </programme>
+  <programme channel="Sony.Movies.Brazil.br" start="20260726234500 +0000" stop="20260727021000 +0000">
+    <title lang="pt">O Espetacular Homem-Aranha</title>
+    <desc lang="pt">Peter Parker é um adolescente que desenvolve superpoderes ao ser picado por uma aranha radioativa. Ele tenta manter a promessa feita ao pai de Gwen Stacy de que a protegeria de longe, mas está apaixonado. Enquanto isso, os vilões tomam conta da cidade, e o herói enfrenta o poderoso Electro, seu maior desafio, enquanto alguns segredos sobre o passado vêm à tona.</desc>
+    <credits>
+      <actor>Andrew Garfield</actor>
+      <actor>Emma Stone</actor>
+      <actor>Rhys Ifans</actor>
+      <director>Marc Webb</director>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Movie</category>
+    <category lang="pt">Action</category>
+    <category lang="pt">Adventure</category>
+    <category lang="pt">Thriller</category>
+    <category lang="pt">Romance</category>
+    <category lang="pt">Fantasy</category>
+    <icon src="http://dtil.tmsimg.com/assets/p8548776_v_h8_an.jpg?w=960&amp;h=540"/>
+    <previously-shown/>
+    <rating system="Motion Picture Association">
+      <value>PG-13</value>
+    </rating>
+    <rating system="Manitoba Film Classification Board">
+      <value>14A</value>
+    </rating>
+    <rating system="Alberta's Film Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="B.C. Film Classification Office">
+      <value>PG</value>
+    </rating>
+    <rating system="Saskatchewan Film and Video Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Ontario Film Authority">
+      <value>PG</value>
+    </rating>
+    <rating system="Maritime Film Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>12</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>10</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating>
+    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>SAM 13</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>A</value>
+    </rating>
+    <rating system="映倫">
+      <value>G</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>12</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>12</value>
+    </rating>
+    <rating system="영상물등급위원회">
+      <value>12+</value>
+    </rating>
+    <rating system="Irish Film Classification Office">
+      <value>12A</value>
+    </rating>
+    <rating system="Medierådet">
+      <value>11</value>
+    </rating>
+    <rating system="Statens medieråd">
+      <value>Från 11 år</value>
+    </rating>
+    <rating system="Medietilsynet">
+      <value>11 år</value>
+    </rating>
+    <rating system="Central Board of Film Certification">
+      <value>UA</value>
+    </rating>
+    <star-rating system="TMS">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme channel="Sony.Movies.Brazil.br" start="20260727021000 +0000" stop="20260727044000 +0000">
+    <title lang="pt">O Espetacular Homem-Aranha 2 - A Ameaça de Electro</title>
+    <desc lang="pt">O jovem Peter Parker está fascinado com as habilidades que adquiriu como Homem-Aranha. Agora, ele precisa lidar com dois problemas: o retorno de um velho amigo, Harry Osborn, e a chegada de um vilão mais forte e poderoso, Electro.</desc>
+    <credits>
+      <actor>Andrew Garfield</actor>
+      <actor>Emma Stone</actor>
+      <actor>Jamie Foxx</actor>
+      <director>Marc Webb</director>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Movie</category>
+    <category lang="pt">Action</category>
+    <category lang="pt">Adventure</category>
+    <category lang="pt">Science fiction</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9957538_v_h8_ap.jpg?w=960&amp;h=540"/>
+    <previously-shown/>
+    <rating system="Motion Picture Association">
+      <value>PG-13</value>
+    </rating>
+    <rating system="Ontario Film Authority">
+      <value>PG</value>
+    </rating>
+    <rating system="Manitoba Film Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="B.C. Film Classification Office">
+      <value>PG</value>
+    </rating>
+    <rating system="Saskatchewan Film and Video Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Alberta's Film Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Maritime Film Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>12</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating>
+    <rating system="Ministero della Cultura">
+      <value>T</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>SAM 13</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
+    <rating system="映倫">
+      <value>G</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>12</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>12</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+    <rating system="영상물등급위원회">
+      <value>12+</value>
+    </rating>
+    <rating system="Irish Film Classification Office">
+      <value>12A</value>
+    </rating>
+    <rating system="Medierådet">
+      <value>11</value>
+    </rating>
+    <rating system="Statens medieråd">
+      <value>Från 11 år</value>
+    </rating>
+    <rating system="Medietilsynet">
+      <value>11 år</value>
+    </rating>
+    <rating system="Central Board of Film Certification">
+      <value>UA</value>
+    </rating>
+    <star-rating system="TMS">
+      <value>5.0/10</value>
+    </star-rating>
+  </programme>
+  <programme channel="Sony.Movies.Brazil.br" start="20260727044000 +0000" stop="20260727064000 +0000">
+    <title lang="pt">Homem-Aranha no Aranhaverso</title>
+    <desc lang="pt">Após ser atingido por uma teia radioativa, Miles Morales, um jovem negro do Brooklyn, se torna o Homem-Aranha, inspirado no legado do já falecido Peter Parker. Entretanto, ao visitar o túmulo de seu ídolo em uma noite chuvosa, ele é surpreendido com a presença do próprio Peter, vestindo o traje do herói por baixo de um sobretudo. A surpresa fica ainda maior quando Miles descobre que ele veio de uma dimensão paralela, assim como outras versões do Homem-Aranha.</desc>
+    <credits>
+      <actor>Shameik Moore</actor>
+      <actor>Jake Johnson</actor>
+      <actor>Hailee Steinfeld</actor>
+      <director>Bob Persichetti</director>
+      <director>Peter Ramsey</director>
+      <director>Rodney Rothman</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Movie</category>
+    <category lang="pt">Animated</category>
+    <category lang="pt">Children</category>
+    <category lang="pt">Action</category>
+    <category lang="pt">Adventure</category>
+    <category lang="pt">Comedy</category>
+    <category lang="pt">Fantasy</category>
+    <icon src="http://dtil.tmsimg.com/assets/p14939602_v_h8_ag.jpg?w=960&amp;h=540"/>
+    <previously-shown/>
+    <rating system="Film &amp; Publication Board">
+      <value>A</value>
+    </rating>
+    <rating system="Motion Picture Association">
+      <value>PG</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating>
+    <rating system="Ontario Film Authority">
+      <value>PG</value>
+    </rating>
+    <rating system="Alberta's Film Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Maritime Film Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="B.C. Film Classification Office">
+      <value>PG</value>
+    </rating>
+    <rating system="Saskatchewan Film and Video Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Manitoba Film Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>6</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>10</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>A</value>
+    </rating>
+    <rating system="Statens medieråd">
+      <value>Från 7 år</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>PG</value>
+    </rating>
+    <rating system="Consejo de Calificación Cinematográfica">
+      <value>TE+7</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>PG</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Ministero della Cultura">
+      <value>T</value>
+    </rating>
+    <rating system="映倫">
+      <value>G</value>
+    </rating>
+    <rating system="Medierådet">
+      <value>11</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+    <rating system="영상물등급위원회">
+      <value>12+</value>
+    </rating>
+    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>ATP</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>6</value>
+    </rating>
+    <rating system="Central Board of Film Certification">
+      <value>U</value>
+    </rating>
+    <star-rating system="TMS">
+      <value>7.0/10</value>
+    </star-rating>
+  </programme>
+  <programme channel="Sony.Movies.Brazil.br" start="20260727064000 +0000" stop="20260727072000 +0000">
+    <title lang="en">Future Man</title>
+    <sub-title lang="en">Trapper's Delight</sub-title>
+    <desc lang="pt">A crise de fé que Josh vem enfrentando chega a um ponto crítico quando Tiger se conecta com seus instintos assassinos e Wolf luta para conseguir passar desapercebido.</desc>
+    <credits>
+      <actor>Josh Hutcherson</actor>
+      <actor>Eliza Coupe</actor>
+      <actor>Derek Wilson</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Science fiction</category>
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Fantasy</category>
+    <icon src="http://dtil.tmsimg.com/assets/p14432013_b_h8_ae.jpg?w=960&amp;h=540"/>
+    <episode-num system="onscreen">S3 E3</episode-num>
+    <previously-shown/>
+    <rating system="Arcom">
+      <value>-12</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>C</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="Sony.Movies.Brazil.br" start="20260727072000 +0000" stop="20260727080000 +0000">
+    <title lang="en">Future Man</title>
+    <sub-title lang="en">The Outlaw Wild Sam Bladden</sub-title>
+    <desc lang="pt">Tigre e Wolf fazem as pazes consigo mesmos; Josh é forçado a confrontar no que realmente acredita.</desc>
+    <credits>
+      <actor>Josh Hutcherson</actor>
+      <actor>Eliza Coupe</actor>
+      <actor>Derek Wilson</actor>
+      <director>Jonathan Watson</director>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Science fiction</category>
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Fantasy</category>
+    <icon src="http://dtil.tmsimg.com/assets/p14432013_b_h8_ae.jpg?w=960&amp;h=540"/>
+    <episode-num system="onscreen">S3 E4</episode-num>
+    <previously-shown/>
+    <rating system="Arcom">
+      <value>-12</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>C</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>18</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme channel="Sony.Movies.Brazil.br" start="20260727080000 +0000" stop="20260727083000 +0000">
+    <title lang="en">Indebted</title>
+    <sub-title lang="en">Everybody's Talking About Neighbors</sub-title>
+    <desc lang="pt">Depois de perceber que Debbie e Stew estão forçando os vizinhos a socializar, Dave e Rebecca tentam convencê-los a ficarem na deles, insistindo que vizinhos deveriam ser apenas vizinhos.</desc>
+    <credits>
+      <actor>Adam Pally</actor>
+      <actor>Abby Elliott</actor>
+      <actor>Fran Drescher</actor>
+      <director>Phill Lewis</director>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <icon src="http://dtil.tmsimg.com/assets/p16935906_b_h8_ac.jpg?w=960&amp;h=540"/>
+    <episode-num system="onscreen">S1 E10</episode-num>
+    <previously-shown/>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+  </programme>
+  <programme channel="Sony.Movies.Brazil.br" start="20260727083000 +0000" stop="20260727090000 +0000">
+    <title lang="en">Indebted</title>
+    <sub-title lang="en">Everybody's Talking About the Mental Load</sub-title>
+    <desc lang="pt">Depois que Rebecca diz a Dave que ela é quem carrega toda a responsabilidade emocional da família, ele tenta provar que não é bem assim deixando que ela cuide apenas da Deb e do Stew por alguns dias.</desc>
+    <credits>
+      <actor>Adam Pally</actor>
+      <actor>Abby Elliott</actor>
+      <actor>Fran Drescher</actor>
+      <director>Phill Lewis</director>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <icon src="http://dtil.tmsimg.com/assets/p16935906_b_h8_ac.jpg?w=960&amp;h=540"/>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <previously-shown/>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+  </programme>
+  <programme channel="Sony.Movies.Brazil.br" start="20260727090000 +0000" stop="20260727103500 +0000">
+    <title lang="en">Morning Show Mysteries: Countdown to Murder</title>
+    <desc lang="pt">O dono de um supermercado é morto nas primeiras horas da manhã e o gastrônomo e chef de cozinha Billie Blessings é envolvido na investigação do que logo parece ser o trabalho de um serial killer sinistro.</desc>
+    <credits>
+      <actor>Holly Robinson Peete</actor>
+      <actor>Rick Fox</actor>
+      <actor>Karen Robinson</actor>
+      <director>Kevin Fair</director>
+      <director>Dave Foulkes</director>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Mystery</category>
+    <icon src="http://dtil.tmsimg.com/assets/p17377663_v_h8_ad.jpg?w=960&amp;h=540"/>
+    <previously-shown/>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A12</value>
+    </rating>
+  </programme>
+  <programme channel="Sony.Movies.Brazil.br" start="20260727103500 +0000" stop="20260727110000 +0000">
+    <title lang="en">The Goldbergs</title>
+    <sub-title lang="en">Cocoon</sub-title>
+    <desc lang="pt">Depois que Pops adormece no cinema, Adam teme que seu avô descolado esteja diminuindo seu ritmo; Beverly arrasta Erica para uma disputa contratual com seu editor do livro de receitas.</desc>
+    <credits>
+      <actor>Wendi McLendon-Covey</actor>
+      <actor>Patton Oswalt</actor>
+      <actor>Sean Giambrone</actor>
+      <director>Christine Lakin</director>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9977319_b_h8_by.jpg?w=960&amp;h=540"/>
+    <episode-num system="onscreen">S8 E9</episode-num>
+    <previously-shown/>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K7</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>6</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>6</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+  </programme>
+  <programme channel="Sony.Movies.Brazil.br" start="20260727110000 +0000" stop="20260727112500 +0000">
+    <title lang="en">The Goldbergs</title>
+    <sub-title lang="en">Geoff's New Hat</sub-title>
+    <desc lang="pt">Geoff decide mudar seu visual e Barry se preocupa que eles estejam se distanciando; Beverly fica frustrada quando Murray se recusa a passar tempo com ela.</desc>
+    <credits>
+      <actor>Wendi McLendon-Covey</actor>
+      <actor>Patton Oswalt</actor>
+      <actor>Sean Giambrone</actor>
+      <director>Lew Schneider</director>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9977319_b_h8_by.jpg?w=960&amp;h=540"/>
+    <episode-num system="onscreen">S8 E10</episode-num>
+    <previously-shown/>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K7</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>6</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+  </programme>
+  <programme channel="Sony.Movies.Brazil.br" start="20260727112500 +0000" stop="20260727115000 +0000">
+    <title lang="en">Indebted</title>
+    <sub-title lang="en">Everybody's Talking About the Mental Load</sub-title>
+    <desc lang="pt">Depois que Rebecca diz a Dave que ela é quem carrega toda a responsabilidade emocional da família, ele tenta provar que não é bem assim deixando que ela cuide apenas da Deb e do Stew por alguns dias.</desc>
+    <credits>
+      <actor>Adam Pally</actor>
+      <actor>Abby Elliott</actor>
+      <actor>Fran Drescher</actor>
+      <director>Phill Lewis</director>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <icon src="http://dtil.tmsimg.com/assets/p16935906_b_h8_ac.jpg?w=960&amp;h=540"/>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <previously-shown/>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+  </programme>
+  <programme channel="Sony.Movies.Brazil.br" start="20260727115000 +0000" stop="20260727133000 +0000">
+    <title lang="pt">Angry Birds 2 - O Filme</title>
+    <desc lang="pt">Red e seus amigos protegem a Ilha dos Pássaros dos constantes ataques vindos da Ilha dos Porcos. Um dia, uma terceira ilha surge e começa a atacá-los. Com isso, Leonardo, o rei dos porcos, decide procurar seu arquirrival em busca de uma trégua.</desc>
+    <credits>
+      <actor>Jason Sudeikis</actor>
+      <actor>Josh Gad</actor>
+      <actor>Leslie Jones</actor>
+      <director>Thurop Van Orman</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Movie</category>
+    <category lang="pt">Animated</category>
+    <category lang="pt">Children</category>
+    <category lang="pt">Comedy</category>
+    <category lang="pt">Adventure</category>
+    <icon src="http://dtil.tmsimg.com/assets/p14568986_v_h8_ag.jpg?w=960&amp;h=540"/>
+    <previously-shown/>
+    <rating system="Motion Picture Association">
+      <value>PG</value>
+    </rating>
+    <rating system="Alberta's Film Classification Board">
+      <value>G</value>
+    </rating>
+    <rating system="B.C. Film Classification Office">
+      <value>G</value>
+    </rating>
+    <rating system="Saskatchewan Film and Video Classification Board">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Manitoba Film Classification Board">
+      <value>G</value>
+    </rating>
+    <rating system="Statens medieråd">
+      <value>Från 7 år</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K7</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>0</value>
+    </rating>
+    <rating system="Ontario Film Authority">
+      <value>G</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>A</value>
+    </rating>
+    <rating system="Consejo de Calificación Cinematográfica">
+      <value>TE</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>U</value>
+    </rating>
+    <rating system="Irish Film Classification Office">
+      <value>G</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>U</value>
+    </rating>
+    <rating system="映倫">
+      <value>G</value>
+    </rating>
+    <rating system="영상물등급위원회">
+      <value>All</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>7</value>
+    </rating>
+    <rating system="Central Board of Film Certification">
+      <value>U</value>
+    </rating>
+    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>ATP</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>6</value>
+    </rating>
+    <star-rating system="TMS">
+      <value>5.0/10</value>
+    </star-rating>
+  </programme>
+  <programme channel="Sony.Movies.Brazil.br" start="20260727133000 +0000" stop="20260727151000 +0000">
+    <title lang="pt">Jovens Bruxas - Nova Irmandade</title>
+    <desc lang="pt">Quatro jovens aspirantes a bruxas descobrem um mundo novo ao entrar em contato com seus poderes. Lidar com as forças ocultas, porém, tem o seu preço.</desc>
+    <credits>
+      <actor>Cailee Spaeny</actor>
+      <actor>Gideon Adlon</actor>
+      <actor>Lovie Simone</actor>
+      <director>Zoe Lister-Jones</director>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Movie</category>
+    <category lang="pt">Fantasy</category>
+    <category lang="pt">Thriller</category>
+    <category lang="pt">Drama</category>
+    <icon src="http://dtil.tmsimg.com/assets/p18911576_v_h10_au.jpg?w=960&amp;h=540"/>
+    <previously-shown/>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Motion Picture Association">
+      <value>PG-13</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating>
+    <rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>12</value>
+    </rating>
+    <rating system="Statens medieråd">
+      <value>Från 11 år</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>15</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
+    <rating system="Medierådet">
+      <value>11</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+    <rating system="영상물등급위원회">
+      <value>15+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>12</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>SAM 13</value>
+    </rating>
+    <rating system="Medietilsynet">
+      <value>11 år</value>
+    </rating>
+    <star-rating system="TMS">
+      <value>4.0/10</value>
+    </star-rating>
+  </programme>
+  <programme channel="Sony.Movies.Brazil.br" start="20260727151000 +0000" stop="20260727170000 +0000">
+    <title lang="en">Jumanji</title>
+    <desc lang="pt">Alan Parrish desapareceu quando era menino e ninguém acredita na história de seu amigo de que ele foi sugado por um jogo de tabuleiro. Vinte e seis anos depois, duas crianças acham o jogo no sótão e, quando começam a jogar, Alan é liberto. Mas a disputa ainda não acabou e Alan precisa terminar antes de ser realmente solto.</desc>
+    <credits>
+      <actor>Robin Williams</actor>
+      <actor>Jonathan Hyde</actor>
+      <actor>Kirsten Dunst</actor>
+      <director>Joe Johnston</director>
+    </credits>
+    <date>1995</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Family</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Comedy</category>
+    <icon src="http://dtil.tmsimg.com/assets/p17458_v_h8_aa.jpg?w=960&amp;h=540"/>
+    <previously-shown/>
+    <rating system="Motion Picture Association">
+      <value>PG</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>PG</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>PG</value>
+    </rating>
+    <rating system="B.C. Film Classification Office">
+      <value>PG</value>
+    </rating>
+    <rating system="Saskatchewan Film and Video Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>10</value>
+    </rating>
+    <rating system="Ontario Film Authority">
+      <value>PG</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Film &amp; Publication Board">
+      <value>13</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>ATP</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Statens medieråd">
+      <value>Från 11 år</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>A</value>
+    </rating>
+    <rating system="영상물등급위원회">
+      <value>12+</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+    <rating system="Ministero della Cultura">
+      <value>T</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>12</value>
+    </rating>
+    <rating system="Central Board of Film Certification">
+      <value>UA</value>
+    </rating>
+    <rating system="Alberta's Film Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Medietilsynet">
+      <value>11 år</value>
+    </rating>
+    <star-rating system="TMS">
+      <value>5.0/10</value>
+    </star-rating>
+  </programme>
+  <programme channel="Sony.Movies.Brazil.br" start="20260727170000 +0000" stop="20260727190500 +0000">
+    <title lang="pt">Jumanji - Próxima Fase</title>
+    <desc lang="pt">Spencer volta ao mundo fantástico de Jumanji. Os amigos Martha, Fridge e Bethany entram no jogo e tentam trazê-lo para casa. A turma descobre ainda mais obstáculos e perigos a serem superados.</desc>
+    <credits>
+      <actor>Dwayne Johnson</actor>
+      <actor>Kevin Hart</actor>
+      <actor>Jack Black</actor>
+      <director>Jake Kasdan</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Movie</category>
+    <category lang="pt">Adventure</category>
+    <category lang="pt">Action</category>
+    <category lang="pt">Comedy</category>
+    <category lang="pt">Fantasy</category>
+    <icon src="http://dtil.tmsimg.com/assets/p15446613_v_h8_ak.jpg?w=960&amp;h=540"/>
+    <previously-shown/>
+    <rating system="Motion Picture Association">
+      <value>PG-13</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating>
+    <rating system="Statens medieråd">
+      <value>Från 11 år</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>12A</value>
+    </rating>
+    <rating system="Alberta's Film Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Saskatchewan Film and Video Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="B.C. Film Classification Office">
+      <value>PG</value>
+    </rating>
+    <rating system="Ontario Film Authority">
+      <value>PG</value>
+    </rating>
+    <rating system="Manitoba Film Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Maritime Film Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Consejo de Calificación Cinematográfica">
+      <value>TE</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>12</value>
+    </rating>
+    <rating system="映倫">
+      <value>G</value>
+    </rating>
+    <rating system="Medierådet">
+      <value>11</value>
+    </rating>
+    <rating system="영상물등급위원회">
+      <value>12+</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+    <rating system="Irish Film Classification Office">
+      <value>12A</value>
+    </rating>
+    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>ATP</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>12</value>
+    </rating>
+    <rating system="Central Board of Film Certification">
+      <value>UA</value>
+    </rating>
+    <rating system="Consejo Nacional de Televisión">
+      <value>I12</value>
+    </rating>
+    <star-rating system="TMS">
+      <value>5.0/10</value>
+    </star-rating>
+  </programme>
+  <programme channel="Sony.Movies.Brazil.br" start="20260727190500 +0000" stop="20260727210000 +0000">
+    <title lang="pt">O Homem de Toronto</title>
+    <desc lang="pt">O que era para ser um fim de semana relaxante com a esposa se transforma no maior pesadelo de Teddy quando ele é confundido com um famoso matador profissional.</desc>
+    <credits>
+      <actor>Kevin Hart</actor>
+      <actor>Woody Harrelson</actor>
+      <actor>Kaley Cuoco</actor>
+      <director>Patrick Hughes</director>
+    </credits>
+    <date>2022</date>
+    <category lang="pt">Movie</category>
+    <category lang="pt">Action</category>
+    <category lang="pt">Comedy</category>
+    <icon src="http://dtil.tmsimg.com/assets/p19440807_v_h8_ad.jpg?w=960&amp;h=540"/>
+    <previously-shown/>
+    <rating system="Motion Picture Association">
+      <value>PG-13</value>
+    </rating>
+    <rating system="영상물등급위원회">
+      <value>15+</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>12</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>12</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+    <rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="Sony.Movies.Brazil.br" start="20260727210000 +0000" stop="20260727224000 +0000">
+    <title lang="pt">Albatroz</title>
+    <desc lang="pt">Simão é fotógrafo e casado com Catarina, mas se apaixona pela atriz judia Renée e viaja com ela para Jerusalém. Lá, ele acaba registrando um atentado terrorista frustrado, que o faz mundialmente famoso. No entanto, surgem críticas negativas por ele ter fotografado a tragédia em vez de tentar evitá-la.</desc>
+    <credits>
+      <actor>Camila Morgado</actor>
+      <actor>Andréa Beltrão</actor>
+      <actor>Gustavo Machado</actor>
+      <director>Daniel Augusto</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Movie</category>
+    <category lang="pt">Thriller</category>
+    <category lang="pt">Drama</category>
+    <icon src="http://dtil.tmsimg.com/assets/p16697115_v_h10_aa.jpg?w=960&amp;h=540"/>
+    <previously-shown/>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme channel="Sony.Movies.Brazil.br" start="20260727224000 +0000" stop="20260727233000 +0000">
+    <title lang="pt">Perícia Lab</title>
+    <sub-title lang="pt">Alguma Coisa Está Fora da Ordem</sub-title>
+    <desc lang="pt">Um garoto de 11 anos desaparece durante a madrugada sem deixar vestígios. Ele fugiu de casa em uma atitude de rebeldia ou foi sequestrado por um conhecido.</desc>
+    <credits>
+      <actor>André Ramiro</actor>
+      <actor>Ricardo Salada</actor>
+      <actor>Telma Rocha</actor>
+      <director>Rafael Barioni</director>
+      <director>Fábio Farias</director>
+    </credits>
+    <date>2024</date>
+    <category lang="pt">Series</category>
+    <category lang="pt">Crime</category>
+    <category lang="pt">Documentary</category>
+    <icon src="http://dtil.tmsimg.com/assets/p23011259_b_h8_ab.jpg?w=960&amp;h=540"/>
+    <episode-num system="onscreen">S2 E8</episode-num>
+    <previously-shown/>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating>
+  </programme>
+  <programme channel="Sony.Movies.Brazil.br" start="20260727233000 +0000" stop="20260728013000 +0000">
+    <title lang="pt">Homem-Aranha no Aranhaverso</title>
+    <desc lang="pt">Após ser atingido por uma teia radioativa, Miles Morales, um jovem negro do Brooklyn, se torna o Homem-Aranha, inspirado no legado do já falecido Peter Parker. Entretanto, ao visitar o túmulo de seu ídolo em uma noite chuvosa, ele é surpreendido com a presença do próprio Peter, vestindo o traje do herói por baixo de um sobretudo. A surpresa fica ainda maior quando Miles descobre que ele veio de uma dimensão paralela, assim como outras versões do Homem-Aranha.</desc>
+    <credits>
+      <actor>Shameik Moore</actor>
+      <actor>Jake Johnson</actor>
+      <actor>Hailee Steinfeld</actor>
+      <director>Bob Persichetti</director>
+      <director>Peter Ramsey</director>
+      <director>Rodney Rothman</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Movie</category>
+    <category lang="pt">Animated</category>
+    <category lang="pt">Children</category>
+    <category lang="pt">Action</category>
+    <category lang="pt">Adventure</category>
+    <category lang="pt">Comedy</category>
+    <category lang="pt">Fantasy</category>
+    <icon src="http://dtil.tmsimg.com/assets/p14939602_v_h8_ag.jpg?w=960&amp;h=540"/>
+    <previously-shown/>
+    <rating system="Film &amp; Publication Board">
+      <value>A</value>
+    </rating>
+    <rating system="Motion Picture Association">
+      <value>PG</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating>
+    <rating system="Ontario Film Authority">
+      <value>PG</value>
+    </rating>
+    <rating system="Alberta's Film Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Maritime Film Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="B.C. Film Classification Office">
+      <value>PG</value>
+    </rating>
+    <rating system="Saskatchewan Film and Video Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Manitoba Film Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>6</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>10</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>A</value>
+    </rating>
+    <rating system="Statens medieråd">
+      <value>Från 7 år</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>PG</value>
+    </rating>
+    <rating system="Consejo de Calificación Cinematográfica">
+      <value>TE+7</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>PG</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Ministero della Cultura">
+      <value>T</value>
+    </rating>
+    <rating system="映倫">
+      <value>G</value>
+    </rating>
+    <rating system="Medierådet">
+      <value>11</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+    <rating system="영상물등급위원회">
+      <value>12+</value>
+    </rating>
+    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>ATP</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>6</value>
+    </rating>
+    <rating system="Central Board of Film Certification">
+      <value>U</value>
+    </rating>
+    <star-rating system="TMS">
+      <value>7.0/10</value>
+    </star-rating>
+  </programme>
+  <programme channel="Sony.Movies.Brazil.br" start="20260728013000 +0000" stop="20260728040000 +0000">
+    <title lang="pt">Homem-Aranha - Através do Aranhaverso</title>
+    <desc lang="pt">Depois de se reunir com Gwen Stacy, Homem-Aranha é jogado no multiverso. Lá, o super-herói aracnídeo encontra uma numerosa equipe encarregada de proteger sua própria existência.</desc>
+    <credits>
+      <actor>Shameik Moore</actor>
+      <actor>Hailee Steinfeld</actor>
+      <actor>Brian Tyree Henry</actor>
+      <director>Joaquim Dos Santos</director>
+      <director>Kemp Powers</director>
+      <director>Justin K. Thompson</director>
+    </credits>
+    <date>2023</date>
+    <category lang="pt">Movie</category>
+    <category lang="pt">Animated</category>
+    <category lang="pt">Children</category>
+    <category lang="pt">Action</category>
+    <category lang="pt">Adventure</category>
+    <category lang="pt">Comedy</category>
+    <category lang="pt">Fantasy</category>
+    <icon src="http://dtil.tmsimg.com/assets/p20130736_v_h10_am.jpg?w=960&amp;h=540"/>
+    <previously-shown/>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating>
+    <rating system="Motion Picture Association">
+      <value>PG</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Alberta's Film Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Maritime Film Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>A</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>9</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>PG</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>10</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>PG</value>
+    </rating>
+    <rating system="Medierådet">
+      <value>11</value>
+    </rating>
+    <rating system="Statens medieråd">
+      <value>Från 7 år</value>
+    </rating>
+    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>ATP</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>7</value>
+    </rating>
+    <star-rating system="TMS">
+      <value>7.0/10</value>
+    </star-rating>
+  </programme>
+  <programme channel="Sony.Movies.Brazil.br" start="20260728040000 +0000" stop="20260728061500 +0000">
+    <title lang="pt">Homem-Aranha - Longe de Casa</title>
+    <desc lang="pt">Peter Parker está em uma viagem de duas semanas pela Europa, ao lado de seus amigos de colégio, quando é surpreendido pela visita de Nick Fury. Convocado para mais uma missão heroica, ele precisa enfrentar vários vilões que surgem em cidades símbolo do continente, como Londres, Paris e Veneza, e também a aparição do enigmático Mysterio.</desc>
+    <credits>
+      <actor>Tom Holland</actor>
+      <actor>Samuel L. Jackson</actor>
+      <actor>Jake Gyllenhaal</actor>
+      <director>Jon Watts</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Movie</category>
+    <category lang="pt">Action</category>
+    <category lang="pt">Adventure</category>
+    <category lang="pt">Fantasy</category>
+    <category lang="pt">Comedy</category>
+    <category lang="pt">Science fiction</category>
+    <icon src="http://dtil.tmsimg.com/assets/p14569140_v_h10_ah.jpg?w=960&amp;h=540"/>
+    <previously-shown/>
+    <rating system="Motion Picture Association">
+      <value>PG-13</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating>
+    <rating system="Statens medieråd">
+      <value>Från 11 år</value>
+    </rating>
+    <rating system="Alberta's Film Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Saskatchewan Film and Video Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="B.C. Film Classification Office">
+      <value>PG</value>
+    </rating>
+    <rating system="Manitoba Film Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Ontario Film Authority">
+      <value>PG</value>
+    </rating>
+    <rating system="Maritime Film Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
+    <rating system="Consejo de Calificación Cinematográfica">
+      <value>TE</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>10</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>12</value>
+    </rating>
+    <rating system="映倫">
+      <value>G</value>
+    </rating>
+    <rating system="Medierådet">
+      <value>11</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+    <rating system="영상물등급위원회">
+      <value>12+</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>12</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>12</value>
+    </rating>
+    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>ATP</value>
+    </rating>
+    <rating system="Central Board of Film Certification">
+      <value>UA</value>
+    </rating>
+    <star-rating system="TMS">
+      <value>7.0/10</value>
+    </star-rating>
+  </programme>
+</tv>
