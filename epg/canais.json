@@ -4,6 +4,9 @@
     "nome": "AXN HD",
     "url_geral": "https://www.free-epg.de/",
     "url_brasil": "https://www.free-epg.de/api/epg/br.xml.gz"
+    "url_BR1_brasil": "https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz"
+    "url_BR2_brasil": "https://epgshare01.online/epgshare01/epg_ripper_BR2.xml.gz"
+    
   },
   "FLAMPA.ARTE1": {
     "epg_id": "ARTE 1 HD.br",
@@ -66,8 +69,9 @@
     "nome": "SONY CHANNEL"
   },   
   "FLAMPA.SONYMOVIES":{
-    "epg_id": "SONY Movies.br",
-    "nome": "SONY MOVIES"
+    "epg_id": "Sony.Movies.Brazil.br",
+    "nome": "SONY MOVIES",
+    "url_BR1_brasil": "https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz"
   },   
   "FLAMPA.TRACEBRASIL":{
     "epg_id": "TRACE BRASIL HD.br",
