@@ -1,0 +1,1773 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv generator-info-name="Flampa EPG" source-info-name="Flampa IPTV">
+  <channel id="Comedy.Central.br">
+    <display-name lang="pt">COMEDY CENTRAL</display-name>
+  </channel>
+  <channel id="History.Channel.br">
+    <display-name lang="pt">HISTORY</display-name>
+  </channel>
+  <channel id="Arte.1.br">
+    <display-name lang="pt">ARTE1</display-name>
+  </channel>
+  <channel id="Band.News.br">
+    <display-name lang="pt">BAND NEWS</display-name>
+  </channel>
+  <channel id="Band.Sports.br">
+    <display-name lang="pt">BAND SPORTS</display-name>
+  </channel>
+  <programme start="20260723230000 -0300" stop="20260724000000 -0300" channel="Band.Sports.br">
+    <title lang="pt">Depois do Jogo - Ao Vivo</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20260724000000 -0300" stop="20260724001500 -0300" channel="Band.Sports.br">
+    <title lang="pt">Oléé</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20260724001500 -0300" stop="20260724004500 -0300" channel="Band.Sports.br">
+    <title lang="pt">Acelerados</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Automobilismo</category>
+  </programme>
+  <programme start="20260724004500 -0300" stop="20260724011500 -0300" channel="Band.Sports.br">
+    <title lang="pt">Pra Vencer Tem Que Lutar</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20260724011500 -0300" stop="20260724024500 -0300" channel="Band.Sports.br">
+    <title lang="pt">Encontro de Craques</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20260724024500 -0300" stop="20260724034500 -0300" channel="Band.Sports.br">
+    <title lang="pt">Depois do Jogo</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20260724034500 -0300" stop="20260724054500 -0300" channel="Band.Sports.br">
+    <title lang="pt">PBR Brasil: Etapa Sorriso-MT: Round 1 - VT</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Rodeio</category>
+  </programme>
+  <programme start="20260724054500 -0300" stop="20260724060000 -0300" channel="Band.Sports.br">
+    <title lang="pt">Oléé</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20260724060000 -0300" stop="20260724070000 -0300" channel="Band.Sports.br">
+    <title lang="pt">Papo de Paddock</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Entrevista</category>
+  </programme>
+  <programme start="20260724070000 -0300" stop="20260724080000 -0300" channel="Band.Sports.br">
+    <title lang="pt">Fórmula E: E-Prix de Tóquio: Treino Livre 1 - Ao Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Automobilismo</category>
+  </programme>
+  <programme start="20260724080000 -0300" stop="20260724083000 -0300" channel="Band.Sports.br">
+    <title lang="pt">Review Fórmula E: E-Prix de Xangai</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Automobilismo</category>
+  </programme>
+  <programme start="20260724083000 -0300" stop="20260724090000 -0300" channel="Band.Sports.br">
+    <title lang="pt">Bandsports News - Ao Vivo</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20260724090000 -0300" stop="20260724103000 -0300" channel="Band.Sports.br">
+    <title lang="pt">Encontro de Craques</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20260724103000 -0300" stop="20260724104500 -0300" channel="Band.Sports.br">
+    <title lang="pt">Momento Brasil Olímpico</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20260724104500 -0300" stop="20260724114500 -0300" channel="Band.Sports.br">
+    <title lang="pt">Esporte Total</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20260724114500 -0300" stop="20260724120000 -0300" channel="Band.Sports.br">
+    <title lang="pt">Oléé</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20260724120000 -0300" stop="20260724140000 -0300" channel="Band.Sports.br">
+    <title lang="pt">G4 - Ao Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Debate</category>
+  </programme>
+  <programme start="20260724140000 -0300" stop="20260724160000 -0300" channel="Band.Sports.br">
+    <title lang="pt">Sala do Esporte - Ao Vivo</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20260724160000 -0300" stop="20260724170000 -0300" channel="Band.Sports.br">
+    <title lang="pt">European Le Mans Series: 4 Horas de Ímola - VT</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Automobilismo</category>
+  </programme>
+  <programme start="20260724170000 -0300" stop="20260724190000 -0300" channel="Band.Sports.br">
+    <title lang="pt">Bola Rolando - Ao Vivo</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20260724190000 -0300" stop="20260724203000 -0300" channel="Band.Sports.br">
+    <title lang="pt">Chapecoense x São João do Jaguaribe - Ao Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol de Salão</category>
+  </programme>
+  <programme start="20260724203000 -0300" stop="20260724210000 -0300" channel="Band.Sports.br">
+    <title lang="pt">A Nova Geração</title>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20260724210000 -0300" stop="20260724230000 -0300" channel="Band.Sports.br">
+    <title lang="pt">PBR Brasil: Etapa Sorriso-MT: Round 2 - Ao Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Rodeio</category>
+  </programme>
+  <programme start="20260724230000 -0300" stop="20260724233000 -0300" channel="Band.Sports.br">
+    <title lang="pt">The Golf Brasil</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20260724233000 -0300" stop="20260724234500 -0300" channel="Band.Sports.br">
+    <title lang="pt">Oléé</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20260724234500 -0300" stop="20260725004500 -0300" channel="Band.Sports.br">
+    <title lang="pt">Fórmula E: E-Prix de Tóquio: Treino Livre 1 - VT</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Automobilismo</category>
+  </programme>
+  <programme start="20260725004500 -0300" stop="20260725010000 -0300" channel="Band.Sports.br">
+    <title lang="pt">Off Track Fórmula E</title>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20260725010000 -0300" stop="20260725013000 -0300" channel="Band.Sports.br">
+    <title lang="pt">Review Fórmula E: E-Prix de Xangai</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Automobilismo</category>
+  </programme>
+  <programme start="20260725013000 -0300" stop="20260725023000 -0300" channel="Band.Sports.br">
+    <title lang="pt">Fórmula E: E-Prix de Tóquio: Treino Livre 2 - Ao Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Automobilismo</category>
+  </programme>
+  <programme start="20260725023000 -0300" stop="20260725033000 -0300" channel="Band.Sports.br">
+    <title lang="pt">European Le Mans Series: 4 Horas de Ímola - VT</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Automobilismo</category>
+  </programme>
+  <programme start="20260725033000 -0300" stop="20260725044500 -0300" channel="Band.Sports.br">
+    <title lang="pt">Fórmula E: E-Prix de Tóquio: Classificação 1 - Ao Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Automobilismo</category>
+  </programme>
+  <programme start="20260725044500 -0300" stop="20260725050000 -0300" channel="Band.Sports.br">
+    <title lang="pt">Off Track Fórmula E</title>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20260725050000 -0300" stop="20260725053000 -0300" channel="Band.Sports.br">
+    <title lang="pt">Acelerados</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Automobilismo</category>
+  </programme>
+  <programme start="20260725053000 -0300" stop="20260725054500 -0300" channel="Band.Sports.br">
+    <title lang="pt">Oléé</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20260725054500 -0300" stop="20260725061500 -0300" channel="Band.Sports.br">
+    <title lang="pt">Review Fórmula E: E-Prix de Mônaco</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Automobilismo</category>
+  </programme>
+  <programme start="20260725061500 -0300" stop="20260725064500 -0300" channel="Band.Sports.br">
+    <title lang="pt">Review Fórmula E: E-Prix de Sanya</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Automobilismo</category>
+  </programme>
+  <programme start="20260725064500 -0300" stop="20260725071500 -0300" channel="Band.Sports.br">
+    <title lang="pt">Review Fórmula E: E-Prix de Xangai</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Automobilismo</category>
+  </programme>
+  <programme start="20260725071500 -0300" stop="20260725080000 -0300" channel="Band.Sports.br">
+    <title lang="pt">Fórmula Band</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Automobilismo</category>
+  </programme>
+  <programme start="20260725080000 -0300" stop="20260725090000 -0300" channel="Band.Sports.br">
+    <title lang="pt">Fórmula E: E-Prix de Tóquio: Corrida 1 - Ao Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Automobilismo</category>
+  </programme>
+  <programme start="20260725090000 -0300" stop="20260725093000 -0300" channel="Band.Sports.br">
+    <title lang="pt">Acelerados</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Automobilismo</category>
+  </programme>
+  <programme start="20260725093000 -0300" stop="20260725113000 -0300" channel="Band.Sports.br">
+    <title lang="pt">PBR Brasil: Etapa Sorriso-MT: Round 2 - VT</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Rodeio</category>
+  </programme>
+  <programme start="20260725113000 -0300" stop="20260725120000 -0300" channel="Band.Sports.br">
+    <title lang="pt">The Golf Brasil</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20260725120000 -0300" stop="20260725130000 -0300" channel="Band.Sports.br">
+    <title lang="pt">Stock Car: 6ª Etapa: Velocitta-SP: Sprint - Ao Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Automobilismo</category>
+  </programme>
+  <programme start="20260725130000 -0300" stop="20260725133000 -0300" channel="Band.Sports.br">
+    <title lang="pt">A Nova Geração</title>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20260725133000 -0300" stop="20260725143000 -0300" channel="Band.Sports.br">
+    <title lang="pt">Stock Light: 4ª Etapa Velocitta-SP: Corrida 1 - Ao Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Automobilismo</category>
+  </programme>
+  <programme start="20260725143000 -0300" stop="20260725150000 -0300" channel="Band.Sports.br">
+    <title lang="pt">Gearing Up</title>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20260725150000 -0300" stop="20260725160000 -0300" channel="Band.Sports.br">
+    <title lang="pt">Fórmula 4 Brasil: Etapa Velocitta: Corrida 1 - Ao Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Automobilismo</category>
+  </programme>
+  <programme start="20260725160000 -0300" stop="20260725163000 -0300" channel="Band.Sports.br">
+    <title lang="pt">Acelerados</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Automobilismo</category>
+  </programme>
+  <programme start="20260725163000 -0300" stop="20260725173000 -0300" channel="Band.Sports.br">
+    <title lang="pt">TCR South America: 5ª Etapa Velocitta-SP: Corrida 1 - Ao Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Automobilismo</category>
+  </programme>
+  <programme start="20260725173000 -0300" stop="20260725174500 -0300" channel="Band.Sports.br">
+    <title lang="pt">Jonathan Rea: Unrepeatable</title>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20260725174500 -0300" stop="20260725180000 -0300" channel="Band.Sports.br">
+    <title lang="pt">Jonathan Rea: Unrepeatable</title>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20260725180000 -0300" stop="20260725193000 -0300" channel="Band.Sports.br">
+    <title lang="pt">Sail GP: Etapa Grã-Bretanha: Regata 1 - VT</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Vela</category>
+  </programme>
+  <programme start="20260725193000 -0300" stop="20260725194500 -0300" channel="Band.Sports.br">
+    <title lang="pt">Vila Bandsports</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20260725194500 -0300" stop="20260725200000 -0300" channel="Band.Sports.br">
+    <title lang="pt">Momento Brasil Olímpico</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20260725200000 -0300" stop="20260725220000 -0300" channel="Band.Sports.br">
+    <title lang="pt">PBR Brasil: Etapa Sorriso-MT: Round 3 - Ao Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Rodeio</category>
+  </programme>
+  <programme start="20260725220000 -0300" stop="20260725223000 -0300" channel="Band.Sports.br">
+    <title lang="pt">A Nova Geração</title>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20260725223000 -0300" stop="20260725233000 -0300" channel="Band.Sports.br">
+    <title lang="pt">Stock Car: 6ª Etapa: Velocitta-SP: Sprint - VT</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Automobilismo</category>
+  </programme>
+  <programme start="20260725233000 -0300" stop="20260726003000 -0300" channel="Band.Sports.br">
+    <title lang="pt">Stock Light: 4ª Etapa Velocitta-SP: Corrida 1 - VT</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Automobilismo</category>
+  </programme>
+  <programme start="20260726003000 -0300" stop="20260726013000 -0300" channel="Band.Sports.br">
+    <title lang="pt">TCR South America: 5ª Etapa Velocitta-SP: Corrida 1 - VT</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Automobilismo</category>
+  </programme>
+  <programme start="20260726013000 -0300" stop="20260726023000 -0300" channel="Band.Sports.br">
+    <title lang="pt">Fórmula E: E-Prix de Tóquio: Treino Livre 3 - Ao Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Automobilismo</category>
+  </programme>
+  <programme start="20260726023000 -0300" stop="20260726033000 -0300" channel="Band.Sports.br">
+    <title lang="pt">Fórmula E: E-Prix de Tóquio: Corrida 1 - VT</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Automobilismo</category>
+  </programme>
+  <programme start="20260726033000 -0300" stop="20260726044500 -0300" channel="Band.Sports.br">
+    <title lang="pt">Fórmula E: E-Prix de Tóquio: Classificação 2 - Ao Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Automobilismo</category>
+  </programme>
+  <programme start="20260726044500 -0300" stop="20260726064500 -0300" channel="Band.Sports.br">
+    <title lang="pt">PBR Brasil: Etapa Sorriso-MT: Round 3 - VT</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Rodeio</category>
+  </programme>
+  <programme start="20260726064500 -0300" stop="20260726074500 -0300" channel="Band.Sports.br">
+    <title lang="pt">Fórmula E: E-Prix de Tóquio: Corrida 1 - VT</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Automobilismo</category>
+  </programme>
+  <programme start="20260726074500 -0300" stop="20260726080000 -0300" channel="Band.Sports.br">
+    <title lang="pt">Off Track Fórmula E</title>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20260726080000 -0300" stop="20260726090000 -0300" channel="Band.Sports.br">
+    <title lang="pt">Fórmula E: E-Prix de Tóquio: Corrida 2 - Ao Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Automobilismo</category>
+  </programme>
+  <programme start="20260726090000 -0300" stop="20260726100000 -0300" channel="Band.Sports.br">
+    <title lang="pt">Mundial de Motocross: República Tcheca MXGP: Corrida 1 - Ao Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Motociclismo</category>
+  </programme>
+  <programme start="20260726100000 -0300" stop="20260726110000 -0300" channel="Band.Sports.br">
+    <title lang="pt">Mundial de Motocross: República Tcheca MX2: Corrida 1 - VT</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Motociclismo</category>
+  </programme>
+  <programme start="20260726110000 -0300" stop="20260726120000 -0300" channel="Band.Sports.br">
+    <title lang="pt">Mundial de Motocross: República Tcheca MX2: Corrida 2 - Ao Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Motociclismo</category>
+  </programme>
+  <programme start="20260726120000 -0300" stop="20260726133000 -0300" channel="Band.Sports.br">
+    <title lang="pt">Stock Car: 6ª Etapa: Velocitta-SP: Corrida - Ao Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Automobilismo</category>
+  </programme>
+  <programme start="20260726133000 -0300" stop="20260726140000 -0300" channel="Band.Sports.br">
+    <title lang="pt">Acelerados</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Automobilismo</category>
+  </programme>
+  <programme start="20260726140000 -0300" stop="20260726150000 -0300" channel="Band.Sports.br">
+    <title lang="pt">TCR South America: 5ª Etapa Velocitta-SP: Corrida 2 - Ao Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Automobilismo</category>
+  </programme>
+  <programme start="20260726150000 -0300" stop="20260726151500 -0300" channel="Band.Sports.br">
+    <title lang="pt">Jonathan Rea: Unrepeatable</title>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20260726151500 -0300" stop="20260726164500 -0300" channel="Band.Sports.br">
+    <title lang="pt">Stock Light: 4ª Etapa Velocitta-SP: Corridas 2 e 3 - Ao Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Automobilismo</category>
+  </programme>
+  <programme start="20260726164500 -0300" stop="20260726170000 -0300" channel="Band.Sports.br">
+    <title lang="pt">Vila Bandsports</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20260726170000 -0300" stop="20260726180000 -0300" channel="Band.Sports.br">
+    <title lang="pt">Fórmula 4 Brasil: Etapa Velocitta: Corrida 3 - Ao Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Automobilismo</category>
+  </programme>
+  <programme start="20260726180000 -0300" stop="20260726184500 -0300" channel="Band.Sports.br">
+    <title lang="pt">Lendas do Motocross Brasileiro</title>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20260726184500 -0300" stop="20260726213000 -0300" channel="Band.Sports.br">
+    <title lang="pt">PBR Brasil: Etapa Sorriso-MT: Final - Ao Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Rodeio</category>
+  </programme>
+  <programme start="20260726213000 -0300" stop="20260726223000 -0300" channel="Band.Sports.br">
+    <title lang="pt">Mundial de Motocross: República Tcheca MXGP: Corrida 2 - VT</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Motociclismo</category>
+  </programme>
+  <programme start="20260726223000 -0300" stop="20260727000000 -0300" channel="Band.Sports.br">
+    <title lang="pt">Sail GP: Etapa Grã-Bretanha: Regata 2 - VT</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Vela</category>
+  </programme>
+  <programme start="20260723230000 -0300" stop="20260724004500 -0300" channel="Arte.1.br">
+    <title lang="pt">Arte 1 Documenta: Hitler Versus Picasso - A Obsessão Nazista Pela Arte</title>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260724004500 -0300" stop="20260724014500 -0300" channel="Arte.1.br">
+    <title lang="pt">Arte 1 em Série: Anna Karenina</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260724014500 -0300" stop="20260724024500 -0300" channel="Arte.1.br">
+    <title lang="pt">Abre a Coxia: Teatro Oficina</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Artes</category>
+  </programme>
+  <programme start="20260724024500 -0300" stop="20260724034500 -0300" channel="Arte.1.br">
+    <title lang="pt">Arte 1 Visual: Rubens Gerchman - Atemporal</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260724034500 -0300" stop="20260724051500 -0300" channel="Arte.1.br">
+    <title lang="pt">Arte 1 Nacional: Pauliceia Desvairada</title>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260724051500 -0300" stop="20260724061500 -0300" channel="Arte.1.br">
+    <title lang="pt">Arte 1 em Série: Anna Karenina</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260724061500 -0300" stop="20260724063000 -0300" channel="Arte.1.br">
+    <title lang="pt">Arte Makers</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Artes</category>
+  </programme>
+  <programme start="20260724063000 -0300" stop="20260724074500 -0300" channel="Arte.1.br">
+    <title lang="pt">Arte 1 Nacional: Pão e Gente</title>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+  </programme>
+  <programme start="20260724074500 -0300" stop="20260724093000 -0300" channel="Arte.1.br">
+    <title lang="pt">Arte 1 Documenta: Hitler Versus Picasso - A Obsessão Nazista Pela Arte</title>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260724093000 -0300" stop="20260724100000 -0300" channel="Arte.1.br">
+    <title lang="pt">Arte 1 em Movimento</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Cultural</category>
+  </programme>
+  <programme start="20260724100000 -0300" stop="20260724103000 -0300" channel="Arte.1.br">
+    <title lang="pt">Arte 1 Nacional: Sentidos do Fio</title>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260724103000 -0300" stop="20260724110000 -0300" channel="Arte.1.br">
+    <title lang="pt">Compondo Futuros - Os alunos do Festival de Inverno de Campos do Jordão</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260724110000 -0300" stop="20260724120000 -0300" channel="Arte.1.br">
+    <title lang="pt">Abre a Coxia: Teatro Oficina</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Artes</category>
+  </programme>
+  <programme start="20260724120000 -0300" stop="20260724130000 -0300" channel="Arte.1.br">
+    <title lang="pt">Música e Poesia: Alice Sant'Anna</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Artes</category>
+  </programme>
+  <programme start="20260724130000 -0300" stop="20260724140000 -0300" channel="Arte.1.br">
+    <title lang="pt">Outras Vanguardas</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260724140000 -0300" stop="20260724143000 -0300" channel="Arte.1.br">
+    <title lang="pt">Descobrindo os Tesouros do Brasil</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Cultural</category>
+  </programme>
+  <programme start="20260724143000 -0300" stop="20260724150000 -0300" channel="Arte.1.br">
+    <title lang="pt">Fé na Batida</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260724150000 -0300" stop="20260724164500 -0300" channel="Arte.1.br">
+    <title lang="pt">Arte 1 Documenta: Hitler Versus Picasso - A Obsessão Nazista Pela Arte</title>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260724164500 -0300" stop="20260724170000 -0300" channel="Arte.1.br">
+    <title lang="pt">Curta Arte 1: Poétika</title>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ficção</category>
+  </programme>
+  <programme start="20260724170000 -0300" stop="20260724173000 -0300" channel="Arte.1.br">
+    <title lang="pt">Um.Artista: Mariana Palma</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260724173000 -0300" stop="20260724180000 -0300" channel="Arte.1.br">
+    <title lang="pt">Arte 1 Visual: Sem Palavras: A Arte de Ilustrar</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260724180000 -0300" stop="20260724190000 -0300" channel="Arte.1.br">
+    <title lang="pt">Arte 1 Visual: Rubens Gerchman - Atemporal</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260724190000 -0300" stop="20260724193000 -0300" channel="Arte.1.br">
+    <title lang="pt">Escritoras e Cidades: Martha Medeiros, Porto Alegre</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Artes</category>
+  </programme>
+  <programme start="20260724193000 -0300" stop="20260724203000 -0300" channel="Arte.1.br">
+    <title lang="pt">Abre a Coxia: Teatro Oficina</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Artes</category>
+  </programme>
+  <programme start="20260724203000 -0300" stop="20260724213000 -0300" channel="Arte.1.br">
+    <title lang="pt">Música e Poesia: Mel Duarte</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Artes</category>
+  </programme>
+  <programme start="20260724213000 -0300" stop="20260724223000 -0300" channel="Arte.1.br">
+    <title lang="pt">Outras Vanguardas</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260724223000 -0300" stop="20260724230000 -0300" channel="Arte.1.br">
+    <title lang="pt">Descobrindo os Tesouros do Brasil</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Cultural</category>
+  </programme>
+  <programme start="20260724230000 -0300" stop="20260725003000 -0300" channel="Arte.1.br">
+    <title lang="pt">Cine Clube Arte 1 Clássicos</title>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+  </programme>
+  <programme start="20260725003000 -0300" stop="20260725010000 -0300" channel="Arte.1.br">
+    <title lang="pt">Um.Artista: Mariana Palma</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260725010000 -0300" stop="20260725013000 -0300" channel="Arte.1.br">
+    <title lang="pt">Fé na Batida</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260725013000 -0300" stop="20260725023000 -0300" channel="Arte.1.br">
+    <title lang="pt">Música e Poesia: Mel Duarte</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Artes</category>
+  </programme>
+  <programme start="20260725023000 -0300" stop="20260725030000 -0300" channel="Arte.1.br">
+    <title lang="pt">Escritoras e Cidades: Martha Medeiros, Porto Alegre</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Artes</category>
+  </programme>
+  <programme start="20260725030000 -0300" stop="20260725033000 -0300" channel="Arte.1.br">
+    <title lang="pt">Especial Arte 1</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260725033000 -0300" stop="20260725043000 -0300" channel="Arte.1.br">
+    <title lang="pt">Arquitetura Hoje!</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Cultural</category>
+  </programme>
+  <programme start="20260725043000 -0300" stop="20260725063000 -0300" channel="Arte.1.br">
+    <title lang="pt">Arte 1 na Dança: Toulouse-Lautrec</title>
+    <category lang="pt">Espetáculo</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20260725063000 -0300" stop="20260725073000 -0300" channel="Arte.1.br">
+    <title lang="pt">Outras Vanguardas</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260725073000 -0300" stop="20260725080000 -0300" channel="Arte.1.br">
+    <title lang="pt">Compondo Futuros - Os alunos do Festival de Inverno de Campos do Jordão</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260725080000 -0300" stop="20260725090000 -0300" channel="Arte.1.br">
+    <title lang="pt">Arquitetura Hoje!</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Cultural</category>
+  </programme>
+  <programme start="20260725090000 -0300" stop="20260725103000 -0300" channel="Arte.1.br">
+    <title lang="pt">Arte 1 Nacional: Pauliceia Desvairada</title>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260725103000 -0300" stop="20260725110000 -0300" channel="Arte.1.br">
+    <title lang="pt">Arte 1 Visual: Sem Palavras: A Arte de Ilustrar</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260725110000 -0300" stop="20260725113000 -0300" channel="Arte.1.br">
+    <title lang="pt">A Banda do Chico</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20260725113000 -0300" stop="20260725133000 -0300" channel="Arte.1.br">
+    <title lang="pt">Cine Clube Arte 1 Clássicos: Pai e Filha</title>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20260725133000 -0300" stop="20260725143000 -0300" channel="Arte.1.br">
+    <title lang="pt">Arte 1 Visual: Rubens Gerchman - Atemporal</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260725143000 -0300" stop="20260725153000 -0300" channel="Arte.1.br">
+    <title lang="pt">Arte 1 em Série</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260725153000 -0300" stop="20260725160000 -0300" channel="Arte.1.br">
+    <title lang="pt">Descobrindo os Tesouros do Brasil</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Cultural</category>
+  </programme>
+  <programme start="20260725160000 -0300" stop="20260725180000 -0300" channel="Arte.1.br">
+    <title lang="pt">Arte 1 na Dança: Toulouse-Lautrec</title>
+    <category lang="pt">Espetáculo</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20260725180000 -0300" stop="20260725183000 -0300" channel="Arte.1.br">
+    <title lang="pt">Fé na Batida</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260725183000 -0300" stop="20260725190000 -0300" channel="Arte.1.br">
+    <title lang="pt">Escritoras e Cidades: Martha Medeiros, Porto Alegre</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Artes</category>
+  </programme>
+  <programme start="20260725190000 -0300" stop="20260725193000 -0300" channel="Arte.1.br">
+    <title lang="pt">Arte 1 em Movimento</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Cultural</category>
+  </programme>
+  <programme start="20260725193000 -0300" stop="20260725210000 -0300" channel="Arte.1.br">
+    <title lang="pt">Arte 1 Nacional: Luiz Melodia - No Coração do Brasil</title>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260725210000 -0300" stop="20260725213000 -0300" channel="Arte.1.br">
+    <title lang="pt">Especial Arte 1</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260725213000 -0300" stop="20260725220000 -0300" channel="Arte.1.br">
+    <title lang="pt">A Banda do Chico</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20260725220000 -0300" stop="20260725230000 -0300" channel="Arte.1.br">
+    <title lang="pt">Arquitetura Hoje!</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Cultural</category>
+  </programme>
+  <programme start="20260725230000 -0300" stop="20260726000000 -0300" channel="Arte.1.br">
+    <title lang="pt">Arte 1 em Série</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260726000000 -0300" stop="20260726010000 -0300" channel="Arte.1.br">
+    <title lang="pt">Arte 1 em Série</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260726010000 -0300" stop="20260726020000 -0300" channel="Arte.1.br">
+    <title lang="pt">Bio Arte 1: Mark Rothko</title>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260726020000 -0300" stop="20260726023000 -0300" channel="Arte.1.br">
+    <title lang="pt">Compondo Futuros - Os alunos do Festival de Inverno de Campos do Jordão</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260726023000 -0300" stop="20260726033000 -0300" channel="Arte.1.br">
+    <title lang="pt">Arte 1 Visual: Rubens Gerchman - Atemporal</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260726033000 -0300" stop="20260726034500 -0300" channel="Arte.1.br">
+    <title lang="pt">Curta Arte 1: Poétika</title>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ficção</category>
+  </programme>
+  <programme start="20260726034500 -0300" stop="20260726041500 -0300" channel="Arte.1.br">
+    <title lang="pt">Um.Artista: Mariana Palma</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260726041500 -0300" stop="20260726060000 -0300" channel="Arte.1.br">
+    <title lang="pt">Arte 1 Documenta: Hitler Versus Picasso - A Obsessão Nazista Pela Arte</title>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260726060000 -0300" stop="20260726063000 -0300" channel="Arte.1.br">
+    <title lang="pt">Especial Arte 1</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260726063000 -0300" stop="20260726070000 -0300" channel="Arte.1.br">
+    <title lang="pt">Arte 1 Visual: Sem Palavras: A Arte de Ilustrar</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260726070000 -0300" stop="20260726083000 -0300" channel="Arte.1.br">
+    <title lang="pt">Arte 1 Nacional: Luiz Melodia - No Coração do Brasil</title>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260726083000 -0300" stop="20260726090000 -0300" channel="Arte.1.br">
+    <title lang="pt">Arte 1 em Movimento</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Cultural</category>
+  </programme>
+  <programme start="20260726090000 -0300" stop="20260726104500 -0300" channel="Arte.1.br">
+    <title lang="pt">Arte 1 Documenta: Hitler Versus Picasso - A Obsessão Nazista Pela Arte</title>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260726104500 -0300" stop="20260726110000 -0300" channel="Arte.1.br">
+    <title lang="pt">Curta Arte 1: Poétika</title>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ficção</category>
+  </programme>
+  <programme start="20260726110000 -0300" stop="20260726113000 -0300" channel="Arte.1.br">
+    <title lang="pt">Especial Arte 1</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260726113000 -0300" stop="20260726130000 -0300" channel="Arte.1.br">
+    <title lang="pt">Cine Clube Arte 1 Clássicos</title>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+  </programme>
+  <programme start="20260726130000 -0300" stop="20260726133000 -0300" channel="Arte.1.br">
+    <title lang="pt">Compondo Futuros - Os alunos do Festival de Inverno de Campos do Jordão</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260726133000 -0300" stop="20260726143000 -0300" channel="Arte.1.br">
+    <title lang="pt">Abre a Coxia: Teatro Oficina</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Artes</category>
+  </programme>
+  <programme start="20260726143000 -0300" stop="20260726153000 -0300" channel="Arte.1.br">
+    <title lang="pt">Arte 1 em Série: Anna Karenina</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260726153000 -0300" stop="20260726163000 -0300" channel="Arte.1.br">
+    <title lang="pt">Arte 1 em Série: Anna Karenina</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260726163000 -0300" stop="20260726173000 -0300" channel="Arte.1.br">
+    <title lang="pt">Outras Vanguardas</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260726173000 -0300" stop="20260726180000 -0300" channel="Arte.1.br">
+    <title lang="pt">Um.Artista: Mariana Palma</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260726180000 -0300" stop="20260726190000 -0300" channel="Arte.1.br">
+    <title lang="pt">Música e Poesia: Mel Duarte</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Artes</category>
+  </programme>
+  <programme start="20260726190000 -0300" stop="20260726193000 -0300" channel="Arte.1.br">
+    <title lang="pt">Descobrindo os Tesouros do Brasil</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Cultural</category>
+  </programme>
+  <programme start="20260726193000 -0300" stop="20260726200000 -0300" channel="Arte.1.br">
+    <title lang="pt">A Banda do Chico</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20260726200000 -0300" stop="20260726203000 -0300" channel="Arte.1.br">
+    <title lang="pt">Fé na Batida</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260726203000 -0300" stop="20260726213000 -0300" channel="Arte.1.br">
+    <title lang="pt">Arte 1 Visual: Rubens Gerchman - Atemporal</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260726213000 -0300" stop="20260726220000 -0300" channel="Arte.1.br">
+    <title lang="pt">Especial Arte 1</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260726220000 -0300" stop="20260726230000 -0300" channel="Arte.1.br">
+    <title lang="pt">Bio Arte 1: Louise Bourgeois</title>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260726230000 -0300" stop="20260727000000 -0300" channel="Arte.1.br">
+    <title lang="pt">Arte 1 em Série: As Paisagens das Romancistas Britânicas</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260723200000 -0300" stop="20260724000000 -0300" channel="Comedy.Central.br">
+    <title lang="pt">Canal descontinuado de todo o território brasileiro</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20260724000000 -0300" stop="20260724040000 -0300" channel="Comedy.Central.br">
+    <title lang="pt">Canal descontinuado de todo o território brasileiro</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20260724040000 -0300" stop="20260724080000 -0300" channel="Comedy.Central.br">
+    <title lang="pt">Canal descontinuado de todo o território brasileiro</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20260724080000 -0300" stop="20260724120000 -0300" channel="Comedy.Central.br">
+    <title lang="pt">Canal descontinuado de todo o território brasileiro</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20260724120000 -0300" stop="20260724160000 -0300" channel="Comedy.Central.br">
+    <title lang="pt">Canal descontinuado de todo o território brasileiro</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20260724160000 -0300" stop="20260724200000 -0300" channel="Comedy.Central.br">
+    <title lang="pt">Canal descontinuado de todo o território brasileiro</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20260724200000 -0300" stop="20260725000000 -0300" channel="Comedy.Central.br">
+    <title lang="pt">Canal descontinuado de todo o território brasileiro</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20260725000000 -0300" stop="20260725040000 -0300" channel="Comedy.Central.br">
+    <title lang="pt">Canal descontinuado de todo o território brasileiro</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20260725040000 -0300" stop="20260725080000 -0300" channel="Comedy.Central.br">
+    <title lang="pt">Canal descontinuado de todo o território brasileiro</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20260725080000 -0300" stop="20260725120000 -0300" channel="Comedy.Central.br">
+    <title lang="pt">Canal descontinuado de todo o território brasileiro</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20260725120000 -0300" stop="20260725160000 -0300" channel="Comedy.Central.br">
+    <title lang="pt">Canal descontinuado de todo o território brasileiro</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20260725160000 -0300" stop="20260725200000 -0300" channel="Comedy.Central.br">
+    <title lang="pt">Canal descontinuado de todo o território brasileiro</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20260725200000 -0300" stop="20260726000000 -0300" channel="Comedy.Central.br">
+    <title lang="pt">Canal descontinuado de todo o território brasileiro</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20260726000000 -0300" stop="20260726040000 -0300" channel="Comedy.Central.br">
+    <title lang="pt">Canal descontinuado de todo o território brasileiro</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20260726040000 -0300" stop="20260726080000 -0300" channel="Comedy.Central.br">
+    <title lang="pt">Canal descontinuado de todo o território brasileiro</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20260726080000 -0300" stop="20260726120000 -0300" channel="Comedy.Central.br">
+    <title lang="pt">Canal descontinuado de todo o território brasileiro</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20260726120000 -0300" stop="20260726160000 -0300" channel="Comedy.Central.br">
+    <title lang="pt">Canal descontinuado de todo o território brasileiro</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20260726160000 -0300" stop="20260726200000 -0300" channel="Comedy.Central.br">
+    <title lang="pt">Canal descontinuado de todo o território brasileiro</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20260726200000 -0300" stop="20260727000000 -0300" channel="Comedy.Central.br">
+    <title lang="pt">Canal descontinuado de todo o território brasileiro</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20260723234000 -0300" stop="20260724003000 -0300" channel="History.Channel.br">
+    <title lang="pt">Alienígenas do Passado</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260724003000 -0300" stop="20260724012000 -0300" channel="History.Channel.br">
+    <title lang="pt">Alienígenas do Passado</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260724012000 -0300" stop="20260724020500 -0300" channel="History.Channel.br">
+    <title lang="pt">Alienígenas do Passado</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260724020500 -0300" stop="20260724025000 -0300" channel="History.Channel.br">
+    <title lang="pt">Alienígenas do Passado</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260724025000 -0300" stop="20260724033500 -0300" channel="History.Channel.br">
+    <title lang="pt">Alienígenas do Passado</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260724033500 -0300" stop="20260724042000 -0300" channel="History.Channel.br">
+    <title lang="pt">Alienígenas do Passado</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260724042000 -0300" stop="20260724051000 -0300" channel="History.Channel.br">
+    <title lang="pt">Alienígenas do Passado</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260724051000 -0300" stop="20260724060000 -0300" channel="History.Channel.br">
+    <title lang="pt">Alienígenas do Passado</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260724060000 -0300" stop="20260724064500 -0300" channel="History.Channel.br">
+    <title lang="pt">As Megamarcas Que Mudaram O Mundo</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260724064500 -0300" stop="20260724073000 -0300" channel="History.Channel.br">
+    <title lang="pt">As Megamarcas Que Mudaram O Mundo</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260724073000 -0300" stop="20260724082000 -0300" channel="History.Channel.br">
+    <title lang="pt">O Melhor De... Trato Feito</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260724082000 -0300" stop="20260724091000 -0300" channel="History.Channel.br">
+    <title lang="pt">Trato Feito</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260724091000 -0300" stop="20260724100000 -0300" channel="History.Channel.br">
+    <title lang="pt">O Melhor de Caçadores de Relíquias</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260724100000 -0300" stop="20260724105000 -0300" channel="History.Channel.br">
+    <title lang="pt">Inacreditável Com Dan Aykroyd</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260724105000 -0300" stop="20260724114000 -0300" channel="History.Channel.br">
+    <title lang="pt">Mistérios Revelados</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260724114000 -0300" stop="20260724123000 -0300" channel="History.Channel.br">
+    <title lang="pt">Inexplicável</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260724123000 -0300" stop="20260724132000 -0300" channel="History.Channel.br">
+    <title lang="pt">Grandes Mistérios da História</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260724132000 -0300" stop="20260724141000 -0300" channel="History.Channel.br">
+    <title lang="pt">Monsterquest</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260724141000 -0300" stop="20260724150000 -0300" channel="History.Channel.br">
+    <title lang="pt">Monsterquest</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260724150000 -0300" stop="20260724155000 -0300" channel="History.Channel.br">
+    <title lang="pt">Monsterquest</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260724155000 -0300" stop="20260724164000 -0300" channel="History.Channel.br">
+    <title lang="pt">Mistérios Inexplorados Com Danny Trejo</title>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Histórico</category>
+  </programme>
+  <programme start="20260724164000 -0300" stop="20260724173000 -0300" channel="History.Channel.br">
+    <title lang="pt">Mistérios Inexplorados Com Danny Trejo</title>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Histórico</category>
+  </programme>
+  <programme start="20260724173000 -0300" stop="20260724182000 -0300" channel="History.Channel.br">
+    <title lang="pt">Mistérios Inexplorados Com Danny Trejo</title>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Histórico</category>
+  </programme>
+  <programme start="20260724182000 -0300" stop="20260724184500 -0300" channel="History.Channel.br">
+    <title lang="pt">Esquadrão UFO</title>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20260724184500 -0300" stop="20260724191000 -0300" channel="History.Channel.br">
+    <title lang="pt">Esquadrão UFO</title>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20260724191000 -0300" stop="20260724194000 -0300" channel="History.Channel.br">
+    <title lang="pt">Parados Na Fronteira Chile</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260724194000 -0300" stop="20260724203000 -0300" channel="History.Channel.br">
+    <title lang="pt">Inexplicável</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260724203000 -0300" stop="20260724212500 -0300" channel="History.Channel.br">
+    <title lang="pt">Além de Skinwalker</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260724212500 -0300" stop="20260724221000 -0300" channel="History.Channel.br">
+    <title lang="pt">O Segredo do Rancho Skinwalker</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260724221000 -0300" stop="20260724225500 -0300" channel="History.Channel.br">
+    <title lang="pt">Mistérios Revelados</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260724225500 -0300" stop="20260724234000 -0300" channel="History.Channel.br">
+    <title lang="pt">Grandes Mistérios da História Com Laurence Fishburne</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260724234000 -0300" stop="20260725003000 -0300" channel="History.Channel.br">
+    <title lang="pt">Grandes Mistérios da História Com Laurence Fishburne</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260725003000 -0300" stop="20260725011500 -0300" channel="History.Channel.br">
+    <title lang="pt">Grandes Mistérios da História</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260725011500 -0300" stop="20260725020000 -0300" channel="History.Channel.br">
+    <title lang="pt">Grandes Mistérios da História</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260725020000 -0300" stop="20260725024500 -0300" channel="History.Channel.br">
+    <title lang="pt">Grandes Mistérios da História</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260725024500 -0300" stop="20260725033000 -0300" channel="History.Channel.br">
+    <title lang="pt">Mistérios Do Pântano</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260725033000 -0300" stop="20260725042000 -0300" channel="History.Channel.br">
+    <title lang="pt">Mistérios Do Pântano</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260725042000 -0300" stop="20260725051000 -0300" channel="History.Channel.br">
+    <title lang="pt">Mistérios Do Pântano</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260725051000 -0300" stop="20260725060000 -0300" channel="History.Channel.br">
+    <title lang="pt">Mistérios Do Pântano</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260725060000 -0300" stop="20260725065000 -0300" channel="History.Channel.br">
+    <title lang="pt">Inexplicável América Latina</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260725065000 -0300" stop="20260725074000 -0300" channel="History.Channel.br">
+    <title lang="pt">Inexplicável América Latina</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260725074000 -0300" stop="20260725083000 -0300" channel="History.Channel.br">
+    <title lang="pt">Inexplicável América Latina</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260725083000 -0300" stop="20260725092000 -0300" channel="History.Channel.br">
+    <title lang="pt">Inexplicável América Latina</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260725092000 -0300" stop="20260725094500 -0300" channel="History.Channel.br">
+    <title lang="pt">Mistérios Revelados</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260725094500 -0300" stop="20260725103000 -0300" channel="History.Channel.br">
+    <title lang="pt">Mistérios Revelados</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260725103000 -0300" stop="20260725112000 -0300" channel="History.Channel.br">
+    <title lang="pt">Mistérios Revelados</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260725112000 -0300" stop="20260725121000 -0300" channel="History.Channel.br">
+    <title lang="pt">Mistérios Revelados</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260725121000 -0300" stop="20260725130000 -0300" channel="History.Channel.br">
+    <title lang="pt">Em Busca de Alienígenas</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260725130000 -0300" stop="20260725135000 -0300" channel="History.Channel.br">
+    <title lang="pt">Em Busca de Alienígenas</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260725135000 -0300" stop="20260725144000 -0300" channel="History.Channel.br">
+    <title lang="pt">O Mundo Sem Ninguém</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260725144000 -0300" stop="20260725153000 -0300" channel="History.Channel.br">
+    <title lang="pt">Mistérios Do Pântano</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260725153000 -0300" stop="20260725162000 -0300" channel="History.Channel.br">
+    <title lang="pt">Inexplicável</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260725162000 -0300" stop="20260725171000 -0300" channel="History.Channel.br">
+    <title lang="pt">Grandes Mistérios da História Com Laurence Fishburne</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260725171000 -0300" stop="20260725180000 -0300" channel="History.Channel.br">
+    <title lang="pt">Grandes Mistérios da História Com Laurence Fishburne</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260725180000 -0300" stop="20260725185000 -0300" channel="History.Channel.br">
+    <title lang="pt">Histórias Arriscadas Com Henry Winkler</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260725185000 -0300" stop="20260725194000 -0300" channel="History.Channel.br">
+    <title lang="pt">Histórias Arriscadas Com Henry Winkler</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260725194000 -0300" stop="20260725203000 -0300" channel="History.Channel.br">
+    <title lang="pt">Inacreditável Com Dan Aykroyd</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260725203000 -0300" stop="20260725212000 -0300" channel="History.Channel.br">
+    <title lang="pt">Grandes Mistérios da História</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260725212000 -0300" stop="20260725221000 -0300" channel="History.Channel.br">
+    <title lang="pt">Grandes Mistérios da História</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260725221000 -0300" stop="20260725225500 -0300" channel="History.Channel.br">
+    <title lang="pt">Inexplicável</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260725225500 -0300" stop="20260725234500 -0300" channel="History.Channel.br">
+    <title lang="pt">Mistérios Inexplorados Com Danny Trejo</title>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Histórico</category>
+  </programme>
+  <programme start="20260725234500 -0300" stop="20260726003500 -0300" channel="History.Channel.br">
+    <title lang="pt">Mistérios Inexplorados Com Danny Trejo</title>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Histórico</category>
+  </programme>
+  <programme start="20260726003500 -0300" stop="20260726012000 -0300" channel="History.Channel.br">
+    <title lang="pt">Inacreditável Com Dan Aykroyd</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260726012000 -0300" stop="20260726020500 -0300" channel="History.Channel.br">
+    <title lang="pt">Mistérios Revelados</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260726020500 -0300" stop="20260726025000 -0300" channel="History.Channel.br">
+    <title lang="pt">Mistérios Revelados</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260726025000 -0300" stop="20260726033500 -0300" channel="History.Channel.br">
+    <title lang="pt">Mistérios Revelados</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260726033500 -0300" stop="20260726042000 -0300" channel="History.Channel.br">
+    <title lang="pt">Arquivos Desclassificados Com David Duchovny</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260726042000 -0300" stop="20260726051000 -0300" channel="History.Channel.br">
+    <title lang="pt">Arquivos Desclassificados Com David Duchovny</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260726051000 -0300" stop="20260726060000 -0300" channel="History.Channel.br">
+    <title lang="pt">Arquivos Desclassificados Com David Duchovny</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260726060000 -0300" stop="20260726065000 -0300" channel="History.Channel.br">
+    <title lang="pt">O Melhor De... Trato Feito</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260726065000 -0300" stop="20260726074000 -0300" channel="History.Channel.br">
+    <title lang="pt">O Melhor De... Trato Feito</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260726074000 -0300" stop="20260726082500 -0300" channel="History.Channel.br">
+    <title lang="pt">O Melhor de... Trato Feito</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260726082500 -0300" stop="20260726091000 -0300" channel="History.Channel.br">
+    <title lang="pt">O Melhor De... Trato Feito</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260726091000 -0300" stop="20260726095500 -0300" channel="History.Channel.br">
+    <title lang="pt">O Melhor de... Trato Feito</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260726095500 -0300" stop="20260726104000 -0300" channel="History.Channel.br">
+    <title lang="pt">O Melhor de... Trato Feito</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260726104000 -0300" stop="20260726112500 -0300" channel="History.Channel.br">
+    <title lang="pt">O Melhor de... Trato Feito</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260726112500 -0300" stop="20260726121000 -0300" channel="History.Channel.br">
+    <title lang="pt">O Melhor de... Trato Feito</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260726121000 -0300" stop="20260726125500 -0300" channel="History.Channel.br">
+    <title lang="pt">O Melhor de... Trato Feito</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260726125500 -0300" stop="20260726142500 -0300" channel="History.Channel.br">
+    <title lang="pt">Trato Feito: Pé Na Estrada</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260726142500 -0300" stop="20260726155500 -0300" channel="History.Channel.br">
+    <title lang="pt">Trato Feito: Pé Na Estrada</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260726155500 -0300" stop="20260726172500 -0300" channel="History.Channel.br">
+    <title lang="pt">Trato Feito: Pé Na Estrada</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260726172500 -0300" stop="20260726185500 -0300" channel="History.Channel.br">
+    <title lang="pt">Trato Feito: Pé Na Estrada</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260726185500 -0300" stop="20260726194000 -0300" channel="History.Channel.br">
+    <title lang="pt">Trato Feito</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260726194000 -0300" stop="20260726203000 -0300" channel="History.Channel.br">
+    <title lang="pt">Trato Feito</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260726203000 -0300" stop="20260726212000 -0300" channel="History.Channel.br">
+    <title lang="pt">Trato Feito</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260726212000 -0300" stop="20260726214500 -0300" channel="History.Channel.br">
+    <title lang="pt">Trato Feito</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260726214500 -0300" stop="20260726221000 -0300" channel="History.Channel.br">
+    <title lang="pt">Trato Feito</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260726221000 -0300" stop="20260726225500 -0300" channel="History.Channel.br">
+    <title lang="pt">Trato Feito</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260726225500 -0300" stop="20260726234500 -0300" channel="History.Channel.br">
+    <title lang="pt">Trato Feito</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260726234500 -0300" stop="20260727003500 -0300" channel="History.Channel.br">
+    <title lang="pt">Trato Feito</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20260723233000 -0300" stop="20260724000000 -0300" channel="Band.News.br">
+    <title lang="pt">Jornal da Noite</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20260724000000 -0300" stop="20260724003000 -0300" channel="Band.News.br">
+    <title lang="pt">Descobrindo os Tesouros do Brasil</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Cultural</category>
+  </programme>
+  <programme start="20260724003000 -0300" stop="20260724020000 -0300" channel="Band.News.br">
+    <title lang="pt">Jornal da Noite</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20260724020000 -0300" stop="20260724024500 -0300" channel="Band.News.br">
+    <title lang="pt">Jornal da Noite</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20260724024500 -0300" stop="20260724030000 -0300" channel="Band.News.br">
+    <title lang="pt">Jornal da Noite</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20260724030000 -0300" stop="20260724034500 -0300" channel="Band.News.br">
+    <title lang="pt">Jornal Terraviva</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20260724034500 -0300" stop="20260724040000 -0300" channel="Band.News.br">
+    <title lang="pt">Economia Pra Você</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20260724040000 -0300" stop="20260724044500 -0300" channel="Band.News.br">
+    <title lang="pt">Aqui Tem Vaga</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Debate</category>
+  </programme>
+  <programme start="20260724044500 -0300" stop="20260724053000 -0300" channel="Band.News.br">
+    <title lang="pt">Jornal da Band</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20260724053000 -0300" stop="20260724080000 -0300" channel="Band.News.br">
+    <title lang="pt">Jornal BandNews: 2ª Edição</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20260724080000 -0300" stop="20260724093000 -0300" channel="Band.News.br">
+    <title lang="pt">Jornal Gente</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Político</category>
+  </programme>
+  <programme start="20260724093000 -0300" stop="20260724100000 -0300" channel="Band.News.br">
+    <title lang="pt">Jornal Bandnews</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20260724100000 -0300" stop="20260724120000 -0300" channel="Band.News.br">
+    <title lang="pt">Manhã Bandnews</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20260724120000 -0300" stop="20260724140000 -0300" channel="Band.News.br">
+    <title lang="pt">Bandnews No Meio do Dia</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20260724140000 -0300" stop="20260724170000 -0300" channel="Band.News.br">
+    <title lang="pt">Tarde Bandnews</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20260724170000 -0300" stop="20260724180000 -0300" channel="Band.News.br">
+    <title lang="pt">Expresso Bandnews</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20260724180000 -0300" stop="20260724203000 -0300" channel="Band.News.br">
+    <title lang="pt">O É da Coisa</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20260724203000 -0300" stop="20260724213000 -0300" channel="Band.News.br">
+    <title lang="pt">Jornal da Band</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20260724213000 -0300" stop="20260724233000 -0300" channel="Band.News.br">
+    <title lang="pt">Jornal da Noite</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20260724233000 -0300" stop="20260725000000 -0300" channel="Band.News.br">
+    <title lang="pt">BandNews DOCs</title>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20260725000000 -0300" stop="20260725020000 -0300" channel="Band.News.br">
+    <title lang="pt">Jornal da Noite</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20260725020000 -0300" stop="20260725024500 -0300" channel="Band.News.br">
+    <title lang="pt">Jornal da Noite</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20260725024500 -0300" stop="20260725030000 -0300" channel="Band.News.br">
+    <title lang="pt">Jornal da Noite</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20260725030000 -0300" stop="20260725034500 -0300" channel="Band.News.br">
+    <title lang="pt">Jornal Terraviva</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20260725034500 -0300" stop="20260725040000 -0300" channel="Band.News.br">
+    <title lang="pt">BandNews DOCs</title>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20260725040000 -0300" stop="20260725044500 -0300" channel="Band.News.br">
+    <title lang="pt">Experimente</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+  </programme>
+  <programme start="20260725044500 -0300" stop="20260725053000 -0300" channel="Band.News.br">
+    <title lang="pt">Jornal da Band</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20260725053000 -0300" stop="20260725060000 -0300" channel="Band.News.br">
+    <title lang="pt">Economia Pra Você</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20260725060000 -0300" stop="20260725063000 -0300" channel="Band.News.br">
+    <title lang="pt">Viver Melhor</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20260725063000 -0300" stop="20260725070000 -0300" channel="Band.News.br">
+    <title lang="pt">Capital e Mercado</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Debate</category>
+  </programme>
+  <programme start="20260725070000 -0300" stop="20260725073000 -0300" channel="Band.News.br">
+    <title lang="pt">BandNews DOCs</title>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20260725073000 -0300" stop="20260725080000 -0300" channel="Band.News.br">
+    <title lang="pt">O Que É Ser Brasileiro?</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20260725080000 -0300" stop="20260725100000 -0300" channel="Band.News.br">
+    <title lang="pt">Manhã Bandnews</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20260725100000 -0300" stop="20260725103000 -0300" channel="Band.News.br">
+    <title lang="pt">Aqui Tem Vaga</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Debate</category>
+  </programme>
+  <programme start="20260725103000 -0300" stop="20260725110000 -0300" channel="Band.News.br">
+    <title lang="pt">Bandnews No Mundo</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20260725110000 -0300" stop="20260725120000 -0300" channel="Band.News.br">
+    <title lang="pt">Manhã Bandnews</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20260725120000 -0300" stop="20260725133000 -0300" channel="Band.News.br">
+    <title lang="pt">Tarde Bandnews</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20260725133000 -0300" stop="20260725140000 -0300" channel="Band.News.br">
+    <title lang="pt">Capital e Mercado</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Debate</category>
+  </programme>
+  <programme start="20260725140000 -0300" stop="20260725143000 -0300" channel="Band.News.br">
+    <title lang="pt">Economia Pra Você</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20260725143000 -0300" stop="20260725150000 -0300" channel="Band.News.br">
+    <title lang="pt">Viver Melhor</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20260725150000 -0300" stop="20260725180000 -0300" channel="Band.News.br">
+    <title lang="pt">Tarde Bandnews</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20260725180000 -0300" stop="20260725203000 -0300" channel="Band.News.br">
+    <title lang="pt">Jornal BandNews Edição da Noite</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20260725203000 -0300" stop="20260725213000 -0300" channel="Band.News.br">
+    <title lang="pt">Jornal da Band</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20260725213000 -0300" stop="20260725220000 -0300" channel="Band.News.br">
+    <title lang="pt">Jornal BandNews Edição da Noite</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20260725220000 -0300" stop="20260725230000 -0300" channel="Band.News.br">
+    <title lang="pt">Bandnews Entrevistas</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Entrevista</category>
+  </programme>
+  <programme start="20260725230000 -0300" stop="20260725233000 -0300" channel="Band.News.br">
+    <title lang="pt">Experimente</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+  </programme>
+  <programme start="20260725233000 -0300" stop="20260726000000 -0300" channel="Band.News.br">
+    <title lang="pt">Descobrindo os Tesouros do Brasil</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Cultural</category>
+  </programme>
+  <programme start="20260726000000 -0300" stop="20260726003000 -0300" channel="Band.News.br">
+    <title lang="pt">Bandnews No Mundo</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20260726003000 -0300" stop="20260726010000 -0300" channel="Band.News.br">
+    <title lang="pt">BandNews DOCs</title>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20260726010000 -0300" stop="20260726013000 -0300" channel="Band.News.br">
+    <title lang="pt">Economia Pra Você</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20260726013000 -0300" stop="20260726020000 -0300" channel="Band.News.br">
+    <title lang="pt">Viver Melhor</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20260726020000 -0300" stop="20260726030000 -0300" channel="Band.News.br">
+    <title lang="pt">Jornal da Band</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20260726030000 -0300" stop="20260726033000 -0300" channel="Band.News.br">
+    <title lang="pt">Jornal da Noite</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20260726033000 -0300" stop="20260726040000 -0300" channel="Band.News.br">
+    <title lang="pt">O Que É Ser Brasileiro?</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20260726040000 -0300" stop="20260726050000 -0300" channel="Band.News.br">
+    <title lang="pt">Bandnews Entrevistas</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Entrevista</category>
+  </programme>
+  <programme start="20260726050000 -0300" stop="20260726053000 -0300" channel="Band.News.br">
+    <title lang="pt">Experimente</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+  </programme>
+  <programme start="20260726053000 -0300" stop="20260726060000 -0300" channel="Band.News.br">
+    <title lang="pt">Aqui Tem Vaga</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Debate</category>
+  </programme>
+  <programme start="20260726060000 -0300" stop="20260726063000 -0300" channel="Band.News.br">
+    <title lang="pt">Viver Melhor</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20260726063000 -0300" stop="20260726070000 -0300" channel="Band.News.br">
+    <title lang="pt">Capital e Mercado</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Debate</category>
+  </programme>
+  <programme start="20260726070000 -0300" stop="20260726073000 -0300" channel="Band.News.br">
+    <title lang="pt">BandNews DOCs</title>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20260726073000 -0300" stop="20260726080000 -0300" channel="Band.News.br">
+    <title lang="pt">O Que É Ser Brasileiro?</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20260726080000 -0300" stop="20260726100000 -0300" channel="Band.News.br">
+    <title lang="pt">Manhã Bandnews</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20260726100000 -0300" stop="20260726103000 -0300" channel="Band.News.br">
+    <title lang="pt">Aqui Tem Vaga</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Debate</category>
+  </programme>
+  <programme start="20260726103000 -0300" stop="20260726110000 -0300" channel="Band.News.br">
+    <title lang="pt">Bandnews No Mundo</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20260726110000 -0300" stop="20260726120000 -0300" channel="Band.News.br">
+    <title lang="pt">Manhã Bandnews</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20260726120000 -0300" stop="20260726133000 -0300" channel="Band.News.br">
+    <title lang="pt">Tarde Bandnews</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20260726133000 -0300" stop="20260726140000 -0300" channel="Band.News.br">
+    <title lang="pt">Capital e Mercado</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Debate</category>
+  </programme>
+  <programme start="20260726140000 -0300" stop="20260726143000 -0300" channel="Band.News.br">
+    <title lang="pt">Economia Pra Você</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20260726143000 -0300" stop="20260726150000 -0300" channel="Band.News.br">
+    <title lang="pt">Viver Melhor</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20260726150000 -0300" stop="20260726180000 -0300" channel="Band.News.br">
+    <title lang="pt">Tarde Bandnews</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20260726180000 -0300" stop="20260726183000 -0300" channel="Band.News.br">
+    <title lang="pt">Descobrindo os Tesouros do Brasil</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Cultural</category>
+  </programme>
+  <programme start="20260726183000 -0300" stop="20260726190000 -0300" channel="Band.News.br">
+    <title lang="pt">BandNews DOCs</title>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20260726190000 -0300" stop="20260726200000 -0300" channel="Band.News.br">
+    <title lang="pt">Jornal BandNews Edição da Noite</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20260726200000 -0300" stop="20260726210000 -0300" channel="Band.News.br">
+    <title lang="pt">Canal Livre</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20260726210000 -0300" stop="20260726220000 -0300" channel="Band.News.br">
+    <title lang="pt">Jornal BandNews Edição da Noite</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20260726220000 -0300" stop="20260726223000 -0300" channel="Band.News.br">
+    <title lang="pt">Economia Pra Você</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20260726223000 -0300" stop="20260726230000 -0300" channel="Band.News.br">
+    <title lang="pt">Bandnews No Mundo</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20260726230000 -0300" stop="20260726233000 -0300" channel="Band.News.br">
+    <title lang="pt">Experimente</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+  </programme>
+  <programme start="20260726233000 -0300" stop="20260727000000 -0300" channel="Band.News.br">
+    <title lang="pt">BandNews DOCs</title>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+</tv>
