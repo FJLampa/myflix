@@ -48,7 +48,7 @@ https://jmp2.uk/plu-645951c0e94c38000802d2cb.m3u8
 #EXTINF:-1 tvg-id="SonyChannel.br" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/sonychannel.png?v=2" group-title="Filmes",SONY CHANNEL
 http://45.190.28.50/SONY_HD/index.m3u8
 
-#EXTINF:-1 tvg-id="SONY Movies.br" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/sonymovies.png?v=2" group-title="Filmes",SONY MOVIES
+#EXTINF:-1 tvg-id="Sony.Movies.Brazil.br" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/sonymovies.png?v=2" group-title="Filmes",SONY MOVIES
 http://45.190.28.50/SONY_MOVIES/index.m3u8
 
 #EXTINF:-1 tvg-id="TravelBoxBrazil.br" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/tracebrasil.png" group-title="Todos",TRACE BRASIL
