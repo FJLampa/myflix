@@ -9,16 +9,19 @@
     
   },
   "FLAMPA.ARTE1": {
-    "epg_id": "ARTE 1 HD.br",
-    "nome": "ARTE1"
+    "epg_id": "Arte.1.br",
+    "nome": "ARTE1",
+    "url_BR2_brasil": "https://epgshare01.online/epgshare01/epg_ripper_BR2.xml.gz"
   },
   "FLAMPA.BANDSPORT": {
     "epg_id": "Bandsports HD.br",
-    "nome": "BAND SPORT"
+    "nome": "BAND SPORT",
+    "url_BR2_brasil": "https://epgshare01.online/epgshare01/epg_ripper_BR2.xml.gz"
   },
   "FLAMPA.BANDNEWS": {
-    "epg_id": "Bandnews HD.br",
-    "nome": "BAND NEWS"
+    "epg_id": "Band.News.br",
+    "nome": "BAND NEWS",
+     "url_BR2_brasil": "https://epgshare01.online/epgshare01/epg_ripper_BR2.xml.gz"
   },
   "FLAMPA.BOXKIDS":{
     "epg_id": "Box Kids.br",
@@ -34,7 +37,8 @@
   }, 
   "FLAMPA.COMEDYCENTRAL":{
     "epg_id": "Comedy Central HD.br",
-    "nome": "COMEDY CENTRAL"
+    "nome": "COMEDY CENTRAL",
+    "url_BR2_brasil": "https://epgshare01.online/epgshare01/epg_ripper_BR2.xml.gz"
   },
   "FLAMPA.FUTURA":{
     "epg_id": "Futura HD.br",
@@ -53,8 +57,9 @@
     "nome": "GLOOBINHO"
   },    
   "FLAMPA.HISTORY":{
-    "epg_id": "HISTORY CHANNEL HD.br",
-    "nome": "HISTORY"
+    "epg_id": "History.Channel.br",
+    "nome": "HISTORY",
+    "url_BR2_brasil": "https://epgshare01.online/epgshare01/epg_ripper_BR2.xml.gz"
   },    
   "FLAMPA.MYTIME":{
     "epg_id": "",
