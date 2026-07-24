@@ -21,7 +21,7 @@ http://45.190.156.152/CANAL_BRASIL/index.m3u8
 #EXTINF:-1 tvg-id="Canal Educaçao.br" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/canaleducacao.png" group-title="Todos",CANAL EDUCAÇÃO
 https://canaleducacao-stream.ebc.com.br/index.m3u8
 
-#EXTINF:-1 tvg-id="Comedy.Central.br" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/comedycentral_v2.png?v=2" group-title="Série",COMEDY CENTRAL
+#EXTINF:-1 tvg-id="Comedy.Central.br" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/comedycentral.png?v=2" group-title="Série",COMEDY CENTRAL
 https://jmp2.uk/plu-5f357e91b18f0b00073583d2.m3u8
 
 #EXTINF:-1 tvg-id="Futura.br" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/futura.png?v=2" group-title="Todos",CANAL FUTURA
