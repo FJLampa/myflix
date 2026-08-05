@@ -4,9 +4,9 @@
     "nome": "AXN HD",
     "url_geral": "https://www.free-epg.de/",
     "url_brasil": "https://www.free-epg.de/api/epg/br.xml.gz"
-    "url_brasil": "https://www.free-epg.de/api/epg/br.xml"
+    "url_brasil_br": "https://www.free-epg.de/api/epg/br.xml"
 
-    "url_brasil": "https://www.free-epg.de/api/epg/rytec/br.xml" "TESTE"
+    "url_brasil_br1": "https://www.free-epg.de/api/epg/rytec/br.xml" "TESTE"
     
     "url_BR1_brasil": "https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz"
     "url_BR1_brasil": "https://www.free-epg.de/api/epg/br.xml"
