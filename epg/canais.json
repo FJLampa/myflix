@@ -63,9 +63,9 @@
     "nome": "GLOOBINHO"
   },    
   "FLAMPA.HISTORY":{
-    "epg_id": "History.Channel.br",
+    "epg_id": "São.Paulo/SP..The.History.Channel.br",
     "nome": "HISTORY",
-    "url_BR2_brasil": "https://epgshare01.online/epgshare01/epg_ripper_BR2.xml.gz"
+    "url_BR2_brasil": "https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz"
   },    
   "FLAMPA.MYTIME":{
     "epg_id": "",
