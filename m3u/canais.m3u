@@ -30,7 +30,7 @@ http://45.162.64.114/FUTURA/index.m3u8
 #EXTINF:-1 tvg-id="Combate.br" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/combate.png",COMBATE
 http://143.14.134.107/167/index.m3u8
 
-#EXTINF:-1 tvg-id="GloboNews.br" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/globonews.png",GLOBO NEWS
+#EXTINF:-1 tvg-id="Globo.News.br" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/globonews.png",GLOBO NEWS
 http://177.52.24.163/GLOBO-NEWS-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="Gloobinho.br" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/globinho.png",GLOOBINHO
