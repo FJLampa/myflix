@@ -33,8 +33,9 @@
     "nome": "BOX KIDS"
   },
   "FLAMPA.CANALBRASIL":{
-    "epg_id": "Canal Brasil HD.br",
+    "epg_id": "São.Paulo/SP..Canal.Brasil.br",
     "nome": "CANAL BRASIL"
+    "url_BR2_brasil": "https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz"
   },
   "FLAMPA.CANALEDUCACAO":{
     "epg_id": "Canal Educaçao.br",
