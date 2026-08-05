@@ -1,5 +1,43 @@
 EXTM3U
 
-#EXTINF:0 tvg-logo="http://www.exorbeo.com/wp-content/uploads/2013/04/tooncast-hd-na-sky.png" group-title="",Tooncast
+#EXTINF:0 tvg-logo="http://www.exorbeo.com/wp-content/uploads/2013/04/tooncast-hd-na-sky.png" group-title="",Tooncast TESTE
 http://192.241.232.39/loadbalance/tooncast/chunks.m3u8?pxAuth=h1Svg9lxYKvsKUoAf1QyBodFflP0ETvP
 
+#EXTINF:0 tvg-logo="http://vignette3.wikia.nocookie.net/mlp/images/7/76/Logo_Discovery_Kids.svg.png/revision/latest?cb=20140116151647&path-prefix=pt" group-title="",DiscoveyKids TESTE
+http://192.241.232.39/loadbalance/discoverykids/chunks.m3u8?pxAuth=GJEYG5OWvqrCInvcj7b2n5rVq3bbe2f1
+
+#EXTINF:0 tvg-logo="http://imagem.natelinha.uol.com.br/grande/megapix.jpg" group-title="",megapix TESTE
+http://138.197.141.134/loadbalance/megapixhd/chunks.m3u8?pxAuth=jZIEDB3JXkUeZSL8rbomu2H5M8wU6W6k
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Logo-paramountchannel.jpg" group-title="",Paramount Channel TESTE
+http://138.197.133.123/loadbalance/paramount/chunks.m3u8?pxAuth=aOdeiOGp5rtINzeSOYmfyugL3LMKPqGN
+
+#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/tvpediabrasil/images/3/34/Universalchannel.jpg/revision/latest/scale-to-width-down/310?cb=20161213212328&path-prefix=pt-br" group-title="",Universal Channel TESTE
+http://138.197.137.150/loadbalance/universalch/chunks.m3u8?pxAuth=B4HSvRYqzFi8VhyjYUCQqNcgM2pmIZXc
+
+#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-pS0f0_-xW1g/VwF-vUphfTI/AAAAAAAABQk/9lDJoUqGsy8yakuZmbDtUqybp2n41Zjcw/s320/tcm-en-vivo.jpg" group-title="",TCM TESTE
+http://159.203.26.32/loadbalance/tcm/chunks.m3u8?pxAuth=d2MrfLIDtMQQyJR56X5asGYAxyMSMXRT
+
+#EXTINF:0 tvg-logo="http://imagem.natelinha.uol.com.br/grande/canalspace.jpg" group-title="",Space TESTE
+http://165.227.100.253/space/tracks-v1a1/index.m3u8?pxAuth=ggXI491ehVyElaeN8kgmEmMHxGR5mwLn
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/1200px-Disney_XD_-_2015.svg.png" group-title="",disney-xd TESTE
+http://138.197.137.150/loadbalance/disney-xd/chunks.m3u8?pxAuth=Cm90cl4SSkPZHrl3dkRAGAs6ipZyi7u9
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/1200px-FOX_wordmark-orange.svg.png" group-title="",Fox TESTE
+http://165.227.223.203/loadbalance/aovivonatv7/tracks-v1a1/index.m3u8?pxAuth=E5hIBBbP71EMEt5TKQF4vRHwVRaTqIsB
+
+#EXTINF:0 tvg-logo="https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photos/3552636/731px-FX-logo.svg_.png?1361471646" group-title="",FX TESTE
+http://138.197.137.47/loadbalance/fxhd/chunks.m3u8?pxAuth=Ac5GWNZJj1PSGN8LBF88MQwoJpw843mj
+
+#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/cartoonnetwork/images/f/fe/CARTOON_NETWORK_logo.png/revision/latest?cb=20111206183320" group-title="",Cartoon Network TESTE
+http://138.197.137.189/loadbalance/cartoonnetwork/chunks.m3u8?pxAuth=IPRmxqAkoBcICQ9nNdg9HSBrrect1xQu
+
+#EXTINF:0 tvg-logo="" group-title="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Nickelodeon_logo_new.svg/2000px-Nickelodeon_logo_new.svg.png",Nickelodeon TESTE
+http://192.241.232.78/loadbalance/nickelodeon/chunks.m3u8?pxAuth=sJrWczqRnr2Pk7I4eTxinOyD3GAhQBte
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/2015_Disney_Channel_logo.svg/1200px-2015_Disney_Channel_logo.svg.png" group-title="",Disney Channel TESTE
+http://138.197.141.134/loadbalance/disneychannel/chunks.m3u8?pxAuth=FrKLWtTqjx4DzxFikDtWjxzYvzMrTHP7
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/Animal_Planet_%28Au%29_logo.svg/1200px-Animal_Planet_%28Au%29_logo.svg.png" group-title="",ANIMAL PLANET TESTE
+http://138.197.137.189/loadbalance/69735896668385822443/chunks.m3u8?pxAuth=mroe2psft80NYqFfbD1gZmYlpMegWhoP
