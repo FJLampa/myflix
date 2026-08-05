@@ -85,8 +85,9 @@
     "nome": "NICKTOONS"
   },    
   "FLAMPA.SONYCHANNEL":{
-    "epg_id": "SonyChannel.br",
+    "epg_id": "Sony.br",
     "nome": "SONY CHANNEL"
+    "url_BR2_brasil": "https://epgshare01.online/epgshare01/epg_ripper_BR2.xml.gz"
   },   
   "FLAMPA.SONYMOVIES":{
     "epg_id": "Sony.Movies.Brazil.br",
