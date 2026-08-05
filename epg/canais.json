@@ -58,8 +58,9 @@
     "url_BR2_brasil": "https://epgshare01.online/epgshare01/epg_ripper_BR2.xml.gz"
   },  
   "FLAMPA.GLOBONEWS": {
-    "epg_id": "GloboNews.br",
+    "epg_id": "Globo.News.br",
     "nome" : "GLOBO NEWS"
+    "url_BR2_brasil": "https://epgshare01.online/epgshare01/epg_ripper_BR2.xml.gz"
   },
   "FLAMPA.GLOOBINHO":{
     "epg_id": "Gloobinho HD.br",
