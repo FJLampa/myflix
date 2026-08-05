@@ -36,7 +36,7 @@ http://177.52.24.163/GLOBO-NEWS-HD/index.m3u8
 #EXTINF:-1 tvg-id="Gloobinho.br" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/globinho.png",GLOOBINHO
 http://177.52.24.163/GLOOBINHO-HD/index.m3u8
 
-#EXTINF:-1 tvg-id="History.Channel.br" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/history.png",HISTORY
+#EXTINF:-1 tvg-id="São.Paulo/SP..The.History.Channel.br" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/history.png",HISTORY
 http://45.190.28.50/HISTORY_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="São.Paulo/SP..Music.Box.Brazil.HD.³.br" tvg-logo="https://raw.githubusercontent.com/FJLampa/myflix/main/logos/musicboxbrasil.png",MUSIC BOX BRASIL
